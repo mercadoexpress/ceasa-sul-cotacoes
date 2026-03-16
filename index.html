@@ -464,7 +464,7 @@
 
   async function carregarDados() {
     try {
-      const response = await fetch('./data/cotacoes.json');
+      const response = await fetch('https://mercadoexpress.github.io/ceasa-sul-cotacoes/data/cotacoes.json');
       if (!response.ok) throw new Error('Erro ao carregar dados');
       dadosGlobais = await response.json();
       atualizarDados();
