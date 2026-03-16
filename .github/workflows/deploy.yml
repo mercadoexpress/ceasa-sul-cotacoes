@@ -6,6 +6,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -14,19 +17,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 10
-      
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: 'pnpm'
+      
+      - name: Install pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@10 --activate
       
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
       
       - name: Build project
         run: pnpm build
@@ -34,10 +36,13 @@ jobs:
       - name: Copy data to dist
         run: |
           mkdir -p dist/data
-          cp -r client/public/data/* dist/data/ || true
+          if [ -d "client/public/data" ] && [ "$(ls -A client/public/data)" ]; then
+            cp -r client/public/data/* dist/data/
+          fi
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          force_orphan: true

@@ -8,6 +8,9 @@ on:
   # Permite execução manual
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -19,31 +22,31 @@ jobs:
           fetch-depth: 0
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pdfplumber
       
-      - name: Run scraper scripts
+      - name: Run scrapers
         run: |
           cd scripts
           python3 main_scraper.py
       
-      - name: Commit and push changes
+      - name: Commit and push data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            git commit -m "Atualização automática de cotações - $(date '+%d/%m/%Y %H:%M')"
+          if [ -n "$(git status --porcelain client/public/data/)" ]; then
+            git add client/public/data/
+            git commit -m "Cotações atualizadas - $(date '+%d/%m/%Y %H:%M UTC')"
             git push
           else
-            echo "Nenhuma alteração nos dados"
+            echo "Nenhuma alteração nos dados de cotações"
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
