@@ -7,7 +7,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   plugins: [react()],
-  base: '/',
+  base: '/ceasa-sul-cotacoes/',
   root: 'client',
   resolve: {
     alias: {

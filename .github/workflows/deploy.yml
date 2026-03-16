@@ -28,6 +28,11 @@ jobs:
       
       - name: Build project
         run: pnpm build
+        
+      - name: Copy data to dist
+        run: |
+          mkdir -p dist/data
+          cp -r client/public/data/* dist/data/ || true
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

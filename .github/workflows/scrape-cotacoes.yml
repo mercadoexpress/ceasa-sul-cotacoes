@@ -33,11 +33,6 @@ jobs:
           cd scripts
           python3 main_scraper.py
       
-      - name: Process and update data
-        run: |
-          cd scripts
-          python3 process_data.py
-      
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
