@@ -1,10 +1,10 @@
 {
-  "ultima_atualizacao": "16/03/2026 08:35",
+  "ultima_atualizacao": "17/03/2026 14:42",
   "estados": [
     {
       "estado": "PR",
       "nome": "CEASA Paraná",
-      "data": "16/03/2026",
+      "data": "17/03/2026",
       "cotacoes": [
         {
           "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
@@ -19,6 +19,18 @@
           "diminuiu": false
         },
         {
+          "produto": "ABOBORA MENINA/PAULISTA sc 20 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Cascavel": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
           "preco": 80.0,
           "precos_cidades": {
@@ -27,6 +39,54 @@
           "unidade": "R$",
           "preco_anterior": 80.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "AMEIXA PRETA IMPORTADA cx 10 kg",
+          "preco": 85.0,
+          "precos_cidades": {
+            "Cascavel": 85.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "AMEIXA VERMELHA cx 10 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Cascavel": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "BANANA CATURRA PRIMEIRA cx 20 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Cascavel": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "BANANA PRATA cx 20 kg",
+          "preco": 140.0,
+          "precos_cidades": {
+            "Cascavel": 140.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -79,74 +139,158 @@
           "diminuiu": false
         },
         {
-          "produto": "CARA cx 20 kg",
+          "produto": "CAQUI CHOCOLATE cx 20 kg",
+          "preco": 180.0,
+          "precos_cidades": {
+            "Cascavel": 180.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CEBOLA PERA sc 20 kg",
+          "preco": 68.0,
+          "precos_cidades": {
+            "Cascavel": 68.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
+          "preco": 80.0,
+          "precos_cidades": {
+            "Cascavel": 80.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COUVE BROCOLO dz 6 kg",
+          "preco": 96.0,
+          "precos_cidades": {
+            "Cascavel": 96.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COUVE FLOR MEDIA dz 20 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Cascavel": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "GOIABA VERMELHA  cx 20 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Cascavel": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA BAHIA IMPORTADA cx 18 kg",
+          "preco": 114.0,
+          "precos_cidades": {
+            "Cascavel": 114.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA LIMA MEDIA cx 20 kg",
           "preco": 220.0,
           "precos_cidades": {
             "Cascavel": 220.0
           },
           "unidade": "R$",
-          "preco_anterior": 220.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "CHUCHU EXTRA AA cx 20 kg",
+          "produto": "LARANJA PERA MEDIA cx 20 kg",
           "preco": 64.0,
           "precos_cidades": {
             "Cascavel": 64.0
           },
           "unidade": "R$",
-          "preco_anterior": 64.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "GENGIBRE PRIMEIRA cx 16 kg",
-          "preco": 256.0,
+          "produto": "MAÇA FUJI CAT 1 TP 80 A 100 cx 18 kg",
+          "preco": 162.0,
           "precos_cidades": {
-            "Cascavel": 256.0
+            "Cascavel": 162.0
           },
           "unidade": "R$",
-          "preco_anterior": 256.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "INHAME-TAIA PRIMEIRA cx 20 kg",
-          "preco": 220.0,
+          "produto": "MAÇA FUJI CAT 2 TP 80 A 100 cx 18 kg",
+          "preco": 235.0,
           "precos_cidades": {
-            "Cascavel": 220.0
+            "Cascavel": 235.0
           },
           "unidade": "R$",
-          "preco_anterior": 220.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "KIWI IMPORTADO cx 10 kg",
-          "preco": 320.0,
+          "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
+          "preco": 144.0,
           "precos_cidades": {
-            "Cascavel": 320.0
+            "Cascavel": 144.0
           },
           "unidade": "R$",
-          "preco_anterior": 320.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "MAMAO FORMOSA MADURO cx 15 kg",
-          "preco": 135.0,
+          "produto": "MAÇA RED DELICIOUS TP 80 A 100 cx 19 kg",
+          "preco": 285.0,
           "precos_cidades": {
-            "Cascavel": 135.0
+            "Cascavel": 285.0
           },
           "unidade": "R$",
-          "preco_anterior": 135.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -163,14 +307,62 @@
           "diminuiu": false
         },
         {
-          "produto": "MELANCIA REDONDA kg",
-          "preco": 2.3,
+          "produto": "MARACUJA AZEDO cx 11 kg",
+          "preco": 154.0,
           "precos_cidades": {
-            "Cascavel": 2.3
+            "Cascavel": 154.0
           },
           "unidade": "R$",
-          "preco_anterior": 2.3,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
+          "preco": 78.0,
+          "precos_cidades": {
+            "Cascavel": 78.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELAO AMARELO COMUM TP-8 cx 13 kg",
+          "preco": 72.0,
+          "precos_cidades": {
+            "Cascavel": 72.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
+          "preco": 30.0,
+          "precos_cidades": {
+            "Cascavel": 30.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "NECTARINA IMPORTADA cx 9 kg",
+          "preco": 99.0,
+          "precos_cidades": {
+            "Cascavel": 99.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -199,6 +391,42 @@
           "diminuiu": false
         },
         {
+          "produto": "PERA NACIONAL YARI cx 20 kg",
+          "preco": 110.0,
+          "precos_cidades": {
+            "Cascavel": 110.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PESSEGO IMPORTADO cx 9 kg",
+          "preco": 144.0,
+          "precos_cidades": {
+            "Cascavel": 144.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PIMENTÃO VERDE EXTRA AA cx 12 kg",
+          "preco": 66.0,
+          "precos_cidades": {
+            "Cascavel": 66.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "REPOLHO VERDE GRANDE eng 25 kg",
           "preco": 88.0,
           "precos_cidades": {
@@ -207,6 +435,18 @@
           "unidade": "R$",
           "preco_anterior": 88.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "REPOLHO VERDE MEDIO eng 25 kg",
+          "preco": 55.0,
+          "precos_cidades": {
+            "Cascavel": 55.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -223,6 +463,18 @@
           "diminuiu": false
         },
         {
+          "produto": "TOMATE CEREJA EXTRA AA cx 3 kg",
+          "preco": 33.0,
+          "precos_cidades": {
+            "Cascavel": 33.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "TOMATE LONGA VIDA EXTRA A cx 20 kg",
           "preco": 90.0,
           "precos_cidades": {
@@ -231,6 +483,18 @@
           "unidade": "R$",
           "preco_anterior": 90.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TOMATE LONGA VIDA EXTRA AA cx 20 kg",
+          "preco": 140.0,
+          "precos_cidades": {
+            "Cascavel": 140.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -247,20 +511,44 @@
           "diminuiu": false
         },
         {
-          "produto": "VAGEM MACARRAO EXTRA AA cx 15 kg",
-          "preco": 225.0,
+          "produto": "UVA BENITAKE NACIONAL cx 8 kg",
+          "preco": 88.0,
           "precos_cidades": {
-            "Cascavel": 225.0
+            "Cascavel": 88.0
           },
           "unidade": "R$",
-          "preco_anterior": 225.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA BRASIL/CENTENIA NACIONAL cx 8 kg",
+          "preco": 88.0,
+          "precos_cidades": {
+            "Cascavel": 88.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA NIAGARA ROSADA cx 8 kg",
+          "preco": 54.0,
+          "precos_cidades": {
+            "Cascavel": 54.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         }
       ],
       "fonte": "https://celepar7.pr.gov.br/ceasa/hoje.asp",
-      "total_produtos": 21,
+      "total_produtos": 45,
       "total_aumentos": 0,
       "total_diminuicoes": 0,
       "aumentos": []
@@ -268,7 +556,7 @@
     {
       "estado": "SC",
       "nome": "CEASA Santa Catarina",
-      "data": "13/03/2026",
+      "data": "17/03/2026",
       "cotacoes": [
         {
           "produto": "ABACATE",
@@ -306,8 +594,8 @@
         {
           "produto": "ABOBORA KABUTIÁ",
           "preco": 40.0,
-          "preco_min": 38.0,
-          "preco_max": 40.0,
+          "preco_min": 40.0,
+          "preco_max": 42.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
           "variacao_pct": 0.0,
@@ -317,7 +605,7 @@
         {
           "produto": "ABOBORA MENINA",
           "preco": 40.0,
-          "preco_min": 35.0,
+          "preco_min": 40.0,
           "preco_max": 40.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
@@ -339,8 +627,8 @@
         {
           "produto": "ABOBORA PAULISTA",
           "preco": 30.0,
-          "preco_min": 30.0,
-          "preco_max": 35.0,
+          "preco_min": 28.0,
+          "preco_max": 32.0,
           "unidade": "R$",
           "preco_anterior": 30.0,
           "variacao_pct": 0.0,
@@ -658,7 +946,7 @@
         {
           "produto": "BATATA CARA",
           "preco": 90.0,
-          "preco_min": 80.0,
+          "preco_min": 90.0,
           "preco_max": 90.0,
           "unidade": "R$",
           "preco_anterior": 90.0,
@@ -668,20 +956,20 @@
         },
         {
           "produto": "BATATA DOCE",
-          "preco": 65.0,
+          "preco": 60.0,
           "preco_min": 60.0,
           "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 65.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -7.69,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BATATA DOCE PAULISTA",
           "preco": 80.0,
-          "preco_min": 80.0,
-          "preco_max": 85.0,
+          "preco_min": 70.0,
+          "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
           "variacao_pct": 0.0,
@@ -691,7 +979,7 @@
         {
           "produto": "BATATA IACON COMERCIAL",
           "preco": 70.0,
-          "preco_min": 60.0,
+          "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
@@ -723,13 +1011,13 @@
         },
         {
           "produto": "BATATA INGLESA ROSA",
-          "preco": 65.0,
-          "preco_min": 60.0,
+          "preco": 70.0,
+          "preco_min": 65.0,
           "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 65.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 7.69,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -822,14 +1110,14 @@
         },
         {
           "produto": "BRÓCOLIS CHINÊS",
-          "preco": 3.5,
-          "preco_min": 3.0,
-          "preco_max": 4.0,
+          "preco": 3.0,
+          "preco_min": 2.5,
+          "preco_max": 3.5,
           "unidade": "R$",
           "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
+          "variacao_pct": -14.29,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BRÓCOLIS RAMOSO",
@@ -987,20 +1275,20 @@
         },
         {
           "produto": "CEBOLA PERA",
-          "preco": 50.0,
-          "preco_min": 45.0,
+          "preco": 45.0,
+          "preco_min": 40.0,
           "preco_max": 50.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -10.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "CEBOLA ROXA(O)",
           "preco": 65.0,
           "preco_min": 60.0,
-          "preco_max": 65.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 65.0,
           "variacao_pct": 0.0,
@@ -1032,8 +1320,8 @@
         {
           "produto": "CENOURA",
           "preco": 75.0,
-          "preco_min": 70.0,
-          "preco_max": 75.0,
+          "preco_min": 75.0,
+          "preco_max": 85.0,
           "unidade": "R$",
           "preco_anterior": 75.0,
           "variacao_pct": 0.0,
@@ -1064,14 +1352,14 @@
         },
         {
           "produto": "CHUCHU",
-          "preco": 50.0,
-          "preco_min": 40.0,
+          "preco": 40.0,
+          "preco_min": 35.0,
           "preco_max": 50.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -20.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "CHUCHU MINI",
@@ -1163,13 +1451,13 @@
         },
         {
           "produto": "COUVE-FLOR",
-          "preco": 4.0,
+          "preco": 4.5,
           "preco_min": 4.0,
-          "preco_max": 4.5,
+          "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 4.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 12.5,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -1242,7 +1530,7 @@
           "produto": "FEIJÃO PRETO",
           "preco": 130.0,
           "preco_min": 120.0,
-          "preco_max": 130.0,
+          "preco_max": 135.0,
           "unidade": "R$",
           "preco_anterior": 130.0,
           "variacao_pct": 0.0,
@@ -1296,8 +1584,8 @@
         {
           "produto": "GENGIBRE",
           "preco": 130.0,
-          "preco_min": 130.0,
-          "preco_max": 142.0,
+          "preco_min": 120.0,
+          "preco_max": 130.0,
           "unidade": "R$",
           "preco_anterior": 130.0,
           "variacao_pct": 0.0,
@@ -1614,14 +1902,14 @@
         },
         {
           "produto": "MARACUJÁ AZEDO",
-          "preco": 80.0,
-          "preco_min": 70.0,
-          "preco_max": 90.0,
+          "preco": 70.0,
+          "preco_min": 60.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -12.5,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "MARACUJÁ DOCE",
@@ -1747,7 +2035,7 @@
         {
           "produto": "MELANCIA PINGO DOCE",
           "preco": 52.5,
-          "preco_min": 50.0,
+          "preco_min": 52.5,
           "preco_max": 52.5,
           "unidade": "R$",
           "preco_anterior": 52.5,
@@ -1812,13 +2100,13 @@
         },
         {
           "produto": "MORANGO",
-          "preco": 18.0,
-          "preco_min": 15.0,
+          "preco": 20.0,
+          "preco_min": 18.0,
           "preco_max": 20.0,
           "unidade": "R$",
           "preco_anterior": 18.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 11.11,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -1989,8 +2277,8 @@
         {
           "produto": "PEPINO JAPONÊS",
           "preco": 80.0,
-          "preco_min": 75.0,
-          "preco_max": 85.0,
+          "preco_min": 70.0,
+          "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
           "variacao_pct": 0.0,
@@ -2000,7 +2288,7 @@
         {
           "produto": "PEPINO SALADA",
           "preco": 50.0,
-          "preco_min": 45.0,
+          "preco_min": 40.0,
           "preco_max": 50.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
@@ -2087,20 +2375,20 @@
         },
         {
           "produto": "PIMENTA VERMELHO(A) COMERCIAL",
-          "preco": 3.5,
+          "preco": 4.0,
           "preco_min": 0.15,
           "preco_max": 4.0,
           "unidade": "R$",
           "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "PIMENTÃO AMARELO(A)",
           "preco": 80.0,
           "preco_min": 70.0,
-          "preco_max": 90.0,
+          "preco_max": 100.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
           "variacao_pct": 0.0,
@@ -2111,7 +2399,7 @@
           "produto": "PIMENTÃO VERDE",
           "preco": 20.0,
           "preco_min": 20.0,
-          "preco_max": 20.0,
+          "preco_max": 25.0,
           "unidade": "R$",
           "preco_anterior": 20.0,
           "variacao_pct": 0.0,
@@ -2265,7 +2553,7 @@
           "produto": "SALSA",
           "preco": 1.5,
           "preco_min": 1.5,
-          "preco_max": 2.0,
+          "preco_max": 1.8,
           "unidade": "R$",
           "preco_anterior": 1.5,
           "variacao_pct": 0.0,
@@ -2319,8 +2607,8 @@
         {
           "produto": "TAIA",
           "preco": 70.0,
-          "preco_min": 70.0,
-          "preco_max": 75.0,
+          "preco_min": 60.0,
+          "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
           "variacao_pct": 0.0,
@@ -2373,25 +2661,25 @@
         },
         {
           "produto": "TOMATE ITALIANO",
-          "preco": 90.0,
-          "preco_min": 80.0,
-          "preco_max": 100.0,
+          "preco": 70.0,
+          "preco_min": 70.0,
+          "preco_max": 90.0,
           "unidade": "R$",
           "preco_anterior": 90.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -22.22,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "TOMATE LONGA VIDA",
-          "preco": 80.0,
-          "preco_min": 80.0,
-          "preco_max": 80.0,
+          "preco": 60.0,
+          "preco_min": 60.0,
+          "preco_max": 75.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -25.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "TOMILHO",
@@ -2550,14 +2838,39 @@
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
-      "total_aumentos": 0,
-      "total_diminuicoes": 0,
-      "aumentos": []
+      "total_aumentos": 4,
+      "total_diminuicoes": 7,
+      "aumentos": [
+        {
+          "produto": "PIMENTA VERMELHO(A) COMERCIAL",
+          "preco": 4.0,
+          "preco_anterior": 3.5,
+          "variacao_pct": 14.29
+        },
+        {
+          "produto": "COUVE-FLOR",
+          "preco": 4.5,
+          "preco_anterior": 4.0,
+          "variacao_pct": 12.5
+        },
+        {
+          "produto": "MORANGO",
+          "preco": 20.0,
+          "preco_anterior": 18.0,
+          "variacao_pct": 11.11
+        },
+        {
+          "produto": "BATATA INGLESA ROSA",
+          "preco": 70.0,
+          "preco_anterior": 65.0,
+          "variacao_pct": 7.69
+        }
+      ]
     },
     {
       "estado": "RS",
       "nome": "CEASA Rio Grande do Sul",
-      "data": "13/03/2026",
+      "data": "16/03/2026",
       "cotacoes": [
         {
           "produto": "ABOBORA",
@@ -2566,8 +2879,8 @@
           "preco_max": 3.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2578,8 +2891,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2590,8 +2903,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.89,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2602,8 +2915,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2614,8 +2927,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2626,8 +2939,8 @@
           "preco_max": 84.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 84.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2638,8 +2951,8 @@
           "preco_max": 2.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2650,8 +2963,8 @@
           "preco_max": 40.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2662,8 +2975,8 @@
           "preco_max": 25.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2674,8 +2987,8 @@
           "preco_max": 25.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2686,20 +2999,20 @@
           "preco_max": 25.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "ALHO IMPORTADO",
           "preco": 16.0,
-          "preco_min": 13.0,
+          "preco_min": 15.0,
           "preco_max": 18.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 16.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2710,8 +3023,8 @@
           "preco_max": 20.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2722,8 +3035,8 @@
           "preco_max": 18.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 17.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2734,8 +3047,8 @@
           "preco_max": 45.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 36.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2746,46 +3059,46 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "BATATA BRANCA",
           "preco": 2.4,
-          "preco_min": 1.4,
-          "preco_max": 2.8,
+          "preco_min": 2.2,
+          "preco_max": 2.6,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.4,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "BATATA ROSA",
           "preco": 2.4,
-          "preco_min": 2.2,
+          "preco_min": 2.0,
           "preco_max": 2.8,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.4,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "BATATA-DOCE",
-          "preco": 2.5,
+          "preco": 2.4,
           "preco_min": 2.2,
           "preco_max": 3.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": -4.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BERINJELA",
@@ -2794,8 +3107,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2806,8 +3119,8 @@
           "preco_max": 3.75,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2818,8 +3131,8 @@
           "preco_max": 50.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2830,8 +3143,8 @@
           "preco_max": 60.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2842,8 +3155,8 @@
           "preco_max": 25.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2854,22 +3167,22 @@
           "preco_max": 10.67,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "CEBOLA IMPORTADA",
-          "preco": 3.25,
+          "preco": 3.0,
           "preco_min": 3.0,
           "preco_max": 3.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.25,
+          "variacao_pct": -7.69,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "CEBOLA NACIONAL",
@@ -2878,21 +3191,21 @@
           "preco_max": 3.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "CEBOLA ROXA",
-          "preco": 3.25,
-          "preco_min": 2.5,
-          "preco_max": 3.75,
+          "preco": 4.0,
+          "preco_min": 3.25,
+          "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
-          "aumentou": false,
+          "preco_anterior": 3.25,
+          "variacao_pct": 23.08,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2902,8 +3215,8 @@
           "preco_max": 3.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2914,8 +3227,8 @@
           "preco_max": 61.11,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2926,8 +3239,8 @@
           "preco_max": 15.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2938,22 +3251,22 @@
           "preco_max": 20.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "CHUCHU",
-          "preco": 2.5,
-          "preco_min": 2.22,
-          "preco_max": 3.0,
+          "preco": 2.2,
+          "preco_min": 1.94,
+          "preco_max": 2.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": -12.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "CHUCHU MINI",
@@ -2962,8 +3275,8 @@
           "preco_max": 20.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2974,8 +3287,8 @@
           "preco_max": 20.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2986,22 +3299,22 @@
           "preco_max": 60.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "COUVE-FLOR",
-          "preco": 60.0,
-          "preco_min": 50.0,
+          "preco": 50.0,
+          "preco_min": 40.0,
           "preco_max": 70.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": -16.67,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "ENDIVIA",
@@ -3010,8 +3323,8 @@
           "preco_max": 56.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 56.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3022,8 +3335,8 @@
           "preco_max": 90.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 84.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3034,8 +3347,8 @@
           "preco_max": 2.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3046,8 +3359,8 @@
           "preco_max": 25.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3058,8 +3371,8 @@
           "preco_max": 60.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3070,8 +3383,8 @@
           "preco_max": 40.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3082,8 +3395,8 @@
           "preco_max": 16.56,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 16.56,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3094,8 +3407,8 @@
           "preco_max": 12.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3106,8 +3419,8 @@
           "preco_max": 18.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3118,8 +3431,8 @@
           "preco_max": 10.67,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.56,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3130,8 +3443,8 @@
           "preco_max": 2.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3142,8 +3455,8 @@
           "preco_max": 2.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.25,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3154,8 +3467,8 @@
           "preco_max": 24.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3166,8 +3479,8 @@
           "preco_max": 3.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3178,8 +3491,8 @@
           "preco_max": 2.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3190,8 +3503,8 @@
           "preco_max": 4.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3202,8 +3515,8 @@
           "preco_max": 3.33,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.78,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3214,8 +3527,8 @@
           "preco_max": 2.36,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 1.66,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3226,8 +3539,8 @@
           "preco_max": 2.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.22,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3238,8 +3551,8 @@
           "preco_max": 40.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3250,8 +3563,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3262,8 +3575,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3274,8 +3587,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3286,34 +3599,34 @@
           "preco_max": 9.44,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "PEPINO JAPONES",
-          "preco": 6.67,
-          "preco_min": 4.44,
-          "preco_max": 8.33,
+          "preco": 4.44,
+          "preco_min": 3.89,
+          "preco_max": 6.94,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.67,
+          "variacao_pct": -33.43,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "PEPINO SALADA",
-          "preco": 3.33,
+          "preco": 2.22,
           "preco_min": 1.67,
           "preco_max": 5.55,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.33,
+          "variacao_pct": -33.33,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "PIMENTA",
@@ -3322,8 +3635,8 @@
           "preco_max": 18.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 14.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3334,8 +3647,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3346,8 +3659,8 @@
           "preco_max": 12.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3358,8 +3671,8 @@
           "preco_max": 8.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3370,8 +3683,8 @@
           "preco_max": 7.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3382,8 +3695,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3394,8 +3707,8 @@
           "preco_max": 15.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 13.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3406,8 +3719,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3418,8 +3731,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3430,33 +3743,33 @@
           "preco_max": 100.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "REPOLHO ROXO",
-          "preco": 50.0,
-          "preco_min": 40.0,
+          "preco": 40.0,
+          "preco_min": 35.0,
           "preco_max": 60.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": -20.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "REPOLHO VERDE",
-          "preco": 1.94,
-          "preco_min": 1.67,
-          "preco_max": 2.22,
+          "preco": 2.22,
+          "preco_min": 1.94,
+          "preco_max": 2.78,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
-          "aumentou": false,
+          "preco_anterior": 1.94,
+          "variacao_pct": 14.43,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3466,8 +3779,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3478,8 +3791,8 @@
           "preco_max": 2.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3490,8 +3803,8 @@
           "preco_max": 15.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3502,8 +3815,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3514,22 +3827,22 @@
           "preco_max": 8.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "TOMATE LONGA VIDA",
-          "preco": 6.0,
-          "preco_min": 5.0,
+          "preco": 5.0,
+          "preco_min": 4.44,
           "preco_max": 7.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.0,
+          "variacao_pct": -16.67,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "TOMATE RASTEIRO",
@@ -3538,20 +3851,20 @@
           "preco_max": 4.21,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.89,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "VAGEM",
           "preco": 10.0,
-          "preco_min": 9.0,
-          "preco_max": 13.0,
+          "preco_min": 8.0,
+          "preco_max": 12.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3562,8 +3875,8 @@
           "preco_max": 9.33,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3574,8 +3887,8 @@
           "preco_max": 15.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3586,8 +3899,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.89,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3598,8 +3911,8 @@
           "preco_max": 35.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3610,8 +3923,8 @@
           "preco_max": 14.44,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 14.44,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3622,8 +3935,8 @@
           "preco_max": 7.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3634,8 +3947,8 @@
           "preco_max": 90.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3646,8 +3959,8 @@
           "preco_max": 3.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.75,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3658,8 +3971,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.22,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3670,8 +3983,8 @@
           "preco_max": 12.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3682,8 +3995,8 @@
           "preco_max": 4.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3694,8 +4007,8 @@
           "preco_max": 11.25,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3706,8 +4019,8 @@
           "preco_max": 26.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 24.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3718,8 +4031,8 @@
           "preco_max": 18.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.14,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3730,8 +4043,8 @@
           "preco_max": 11.43,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 11.43,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3742,8 +4055,8 @@
           "preco_max": 56.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 56.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3754,8 +4067,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3766,8 +4079,8 @@
           "preco_max": 19.44,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 19.44,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3778,8 +4091,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3790,8 +4103,8 @@
           "preco_max": 112.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3802,8 +4115,8 @@
           "preco_max": 120.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3814,8 +4127,8 @@
           "preco_max": 26.67,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3826,8 +4139,8 @@
           "preco_max": 12.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.17,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3838,8 +4151,8 @@
           "preco_max": 26.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 26.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3850,8 +4163,8 @@
           "preco_max": 26.67,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 26.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3862,8 +4175,8 @@
           "preco_max": 13.85,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 13.85,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3874,8 +4187,8 @@
           "preco_max": 50.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3886,8 +4199,8 @@
           "preco_max": 20.42,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3898,8 +4211,8 @@
           "preco_max": 20.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3910,8 +4223,8 @@
           "preco_max": 4.44,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.89,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3922,8 +4235,8 @@
           "preco_max": 6.56,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.56,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3934,8 +4247,8 @@
           "preco_max": 3.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.22,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3946,8 +4259,8 @@
           "preco_max": 7.22,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.66,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3958,8 +4271,8 @@
           "preco_max": 45.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3970,8 +4283,8 @@
           "preco_max": 13.89,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 13.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3982,8 +4295,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -3994,8 +4307,8 @@
           "preco_max": 11.33,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4006,8 +4319,8 @@
           "preco_max": 3.33,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.78,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4018,8 +4331,8 @@
           "preco_max": 14.44,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4030,8 +4343,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4042,8 +4355,8 @@
           "preco_max": 11.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4054,8 +4367,8 @@
           "preco_max": 7.78,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.22,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4066,8 +4379,8 @@
           "preco_max": 13.11,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 13.11,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4078,8 +4391,8 @@
           "preco_max": 13.11,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.78,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4090,8 +4403,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4102,8 +4415,8 @@
           "preco_max": 6.92,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4114,8 +4427,8 @@
           "preco_max": 5.55,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.28,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4126,22 +4439,22 @@
           "preco_max": 90.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "MARACUJA AZEDO",
-          "preco": 8.5,
-          "preco_min": 8.5,
-          "preco_max": 10.0,
+          "preco": 7.0,
+          "preco_min": 6.5,
+          "preco_max": 8.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.5,
+          "variacao_pct": -17.65,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "MARACUJA DOCE",
@@ -4150,8 +4463,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4162,8 +4475,8 @@
           "preco_max": 1.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 1.1,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4174,8 +4487,8 @@
           "preco_max": 6.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4186,8 +4499,8 @@
           "preco_max": 8.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.7,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4198,8 +4511,8 @@
           "preco_max": 7.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4210,8 +4523,8 @@
           "preco_max": 4.61,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4222,8 +4535,8 @@
           "preco_max": 6.38,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.23,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4234,8 +4547,8 @@
           "preco_max": 8.33,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4246,8 +4559,8 @@
           "preco_max": 12.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4258,8 +4571,8 @@
           "preco_max": 9.17,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4270,8 +4583,8 @@
           "preco_max": 8.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4282,8 +4595,8 @@
           "preco_max": 116.67,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 108.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4294,8 +4607,8 @@
           "preco_max": 18.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4306,8 +4619,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.33,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4318,8 +4631,8 @@
           "preco_max": 25.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4330,8 +4643,8 @@
           "preco_max": 37.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 37.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4342,8 +4655,8 @@
           "preco_max": 25.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4354,8 +4667,8 @@
           "preco_max": 10.55,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.44,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4366,8 +4679,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.22,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4378,8 +4691,8 @@
           "preco_max": 9.72,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.72,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4390,8 +4703,8 @@
           "preco_max": 8.33,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4402,8 +4715,8 @@
           "preco_max": 12.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 11.25,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4414,21 +4727,21 @@
           "preco_max": 6.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "PITAYA",
-          "preco": 8.0,
-          "preco_min": 7.0,
+          "preco": 9.0,
+          "preco_min": 8.0,
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
-          "aumentou": false,
+          "preco_anterior": 8.0,
+          "variacao_pct": 12.5,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -4438,8 +4751,8 @@
           "preco_max": 43.33,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 26.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4450,8 +4763,8 @@
           "preco_max": 34.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 34.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4462,8 +4775,8 @@
           "preco_max": 46.67,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 46.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4474,8 +4787,8 @@
           "preco_max": 3.05,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.05,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4486,8 +4799,8 @@
           "preco_max": 9.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 9.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4498,8 +4811,8 @@
           "preco_max": 5.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.28,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4510,8 +4823,8 @@
           "preco_max": 16.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.71,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4522,8 +4835,8 @@
           "preco_max": 39.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4534,8 +4847,8 @@
           "preco_max": 48.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 39.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4546,8 +4859,8 @@
           "preco_max": 45.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 39.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4558,8 +4871,8 @@
           "preco_max": 49.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 39.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4570,8 +4883,8 @@
           "preco_max": 60.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4582,8 +4895,8 @@
           "preco_max": 130.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 79.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4594,8 +4907,8 @@
           "preco_max": 59.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 49.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4606,8 +4919,8 @@
           "preco_max": 79.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 69.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4618,8 +4931,8 @@
           "preco_max": 89.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 79.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4630,8 +4943,8 @@
           "preco_max": 39.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4642,8 +4955,8 @@
           "preco_max": 59.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 49.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4654,8 +4967,8 @@
           "preco_max": 49.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 48.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4666,8 +4979,8 @@
           "preco_max": 59.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 42.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4678,8 +4991,8 @@
           "preco_max": 55.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4690,8 +5003,8 @@
           "preco_max": 110.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 95.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4702,8 +5015,8 @@
           "preco_max": 89.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 78.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4714,8 +5027,8 @@
           "preco_max": 59.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 48.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4726,8 +5039,8 @@
           "preco_max": 45.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4738,8 +5051,8 @@
           "preco_max": 105.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4750,8 +5063,8 @@
           "preco_max": 165.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 99.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4762,8 +5075,8 @@
           "preco_max": 49.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4774,8 +5087,8 @@
           "preco_max": 29.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4786,8 +5099,8 @@
           "preco_max": 20.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4798,8 +5111,8 @@
           "preco_max": 28.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4810,8 +5123,8 @@
           "preco_max": 39.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 38.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4822,8 +5135,8 @@
           "preco_max": 28.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4834,8 +5147,8 @@
           "preco_max": 60.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4846,8 +5159,8 @@
           "preco_max": 32.98,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 32.98,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4858,8 +5171,8 @@
           "preco_max": 50.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4870,8 +5183,8 @@
           "preco_max": 36.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 27.95,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4882,8 +5195,8 @@
           "preco_max": 37.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 37.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4894,8 +5207,8 @@
           "preco_max": 30.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4906,8 +5219,8 @@
           "preco_max": 8.49,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.49,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4918,8 +5231,8 @@
           "preco_max": 42.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4930,8 +5243,8 @@
           "preco_max": 59.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 54.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4942,8 +5255,8 @@
           "preco_max": 15.99,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 14.99,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4954,8 +5267,8 @@
           "preco_max": 18.98,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 17.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4966,8 +5279,8 @@
           "preco_max": 89.98,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 89.98,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4978,8 +5291,8 @@
           "preco_max": 19.98,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 19.98,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -4990,8 +5303,8 @@
           "preco_max": 36.29,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 34.98,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5002,8 +5315,8 @@
           "preco_max": 68.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 68.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5014,8 +5327,8 @@
           "preco_max": 22.95,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.95,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5026,8 +5339,8 @@
           "preco_max": 42.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5038,8 +5351,8 @@
           "preco_max": 68.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 68.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5050,8 +5363,8 @@
           "preco_max": 22.98,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.99,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5062,8 +5375,8 @@
           "preco_max": 47.98,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 47.98,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5074,8 +5387,8 @@
           "preco_max": 319.57,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 319.57,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5086,8 +5399,8 @@
           "preco_max": 49.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 49.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5098,8 +5411,8 @@
           "preco_max": 163.8,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 163.8,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5110,8 +5423,8 @@
           "preco_max": 231.8,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 231.8,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5122,8 +5435,8 @@
           "preco_max": 249.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 249.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5134,8 +5447,8 @@
           "preco_max": 44.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 39.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5146,8 +5459,8 @@
           "preco_max": 12.85,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.85,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5158,8 +5471,8 @@
           "preco_max": 36.61,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 36.61,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5170,8 +5483,8 @@
           "preco_max": 36.61,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 36.61,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5182,8 +5495,8 @@
           "preco_max": 64.69,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 64.69,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5194,8 +5507,8 @@
           "preco_max": 93.85,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 78.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5206,8 +5519,8 @@
           "preco_max": 74.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 74.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5218,8 +5531,8 @@
           "preco_max": 74.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 69.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5230,8 +5543,8 @@
           "preco_max": 45.14,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.14,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5242,8 +5555,8 @@
           "preco_max": 25.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5254,8 +5567,8 @@
           "preco_max": 99.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 99.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5266,8 +5579,8 @@
           "preco_max": 37.8,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 37.8,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5278,8 +5591,8 @@
           "preco_max": 92.77,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 79.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5290,8 +5603,8 @@
           "preco_max": 112.1,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 112.1,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5302,8 +5615,8 @@
           "preco_max": 99.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 99.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5314,8 +5627,8 @@
           "preco_max": 65.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 65.9,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5326,8 +5639,8 @@
           "preco_max": 49.57,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 49.57,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5338,8 +5651,8 @@
           "preco_max": 40.36,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.36,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5350,8 +5663,8 @@
           "preco_max": 197.53,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 197.53,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5362,8 +5675,8 @@
           "preco_max": 169.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 152.81,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5374,8 +5687,8 @@
           "preco_max": 109.9,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 64.69,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5386,8 +5699,8 @@
           "preco_max": 129.5,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 122.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5398,8 +5711,8 @@
           "preco_max": 12.85,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.85,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5410,8 +5723,8 @@
           "preco_max": 21.49,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 21.49,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5422,8 +5735,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5434,8 +5747,8 @@
           "preco_max": 11.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5446,8 +5759,8 @@
           "preco_max": 6.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5458,8 +5771,8 @@
           "preco_max": 20.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 16.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5470,8 +5783,8 @@
           "preco_max": 30.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5482,8 +5795,8 @@
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5494,8 +5807,8 @@
           "preco_max": 1.8,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 1.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5506,8 +5819,8 @@
           "preco_max": 230.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 220.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5518,8 +5831,8 @@
           "preco_max": 370.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 330.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5530,8 +5843,8 @@
           "preco_max": 7.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -5542,17 +5855,36 @@
           "preco_max": 260.0,
           "categoria": "GERAL",
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 240.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         }
       ],
       "fonte": "https://ceasa.rs.gov.br/cotacoes-de-precos",
       "total_produtos": 249,
-      "total_aumentos": 0,
-      "total_diminuicoes": 0,
-      "aumentos": []
+      "total_aumentos": 3,
+      "total_diminuicoes": 9,
+      "aumentos": [
+        {
+          "produto": "CEBOLA ROXA",
+          "preco": 4.0,
+          "preco_anterior": 3.25,
+          "variacao_pct": 23.08
+        },
+        {
+          "produto": "REPOLHO VERDE",
+          "preco": 2.22,
+          "preco_anterior": 1.94,
+          "variacao_pct": 14.43
+        },
+        {
+          "produto": "PITAYA",
+          "preco": 9.0,
+          "preco_anterior": 8.0,
+          "variacao_pct": 12.5
+        }
+      ]
     }
   ]
 }
