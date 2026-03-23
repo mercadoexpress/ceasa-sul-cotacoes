@@ -4853,5 +4853,1507 @@
         "diminuiu": false
       }
     ]
+  },
+  {
+    "data": "23/03/2026",
+    "cotacoes": [
+      {
+        "produto": "ABACATE GEADA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Maringá": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 32.94,
+        "variacao_pct": 82.15,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI HAVAI MEDIO cx 18 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Maringá": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI HAVAI MEDIO un 1,8 kg",
+        "preco": 11.0,
+        "precos_cidades": {
+          "Cascavel": 11.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
+        "preco": 6.5,
+        "precos_cidades": {
+          "Maringá": 6.5,
+          "Cascavel": 11.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA HOKAIDO/KABOTIA sc 20 kg",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Maringá": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 26.67,
+        "variacao_pct": 68.73,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA MENINA/PAULISTA sc 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 26.25,
+        "variacao_pct": 280.95,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA MORANGA sc 20 kg",
+        "preco": 38.0,
+        "precos_cidades": {
+          "Maringá": 38.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 18.67,
+        "variacao_pct": 103.54,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA BRANCA EXTRA AA cx 20 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Maringá": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 45.0,
+        "variacao_pct": 66.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
+        "preco": 65.0,
+        "precos_cidades": {
+          "Maringá": 65.0,
+          "Cascavel": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 84.0,
+        "variacao_pct": -22.62,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "AGRIAO mç 400 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Maringá": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.25,
+        "variacao_pct": 140.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "AIPIM-MANDIOCA TOLETO kg",
+        "preco": 5.5,
+        "precos_cidades": {
+          "Maringá": 5.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 10.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE AMERICANA cx 7,5 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Maringá": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 8.33,
+        "variacao_pct": 500.24,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE CRESPA MEDIO cx 6 kg",
+        "preco": 36.0,
+        "precos_cidades": {
+          "Maringá": 36.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO IMPORTADO ROXO TP 6 A 7 cx 10 kg",
+        "preco": 190.0,
+        "precos_cidades": {
+          "Maringá": 190.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALMEIRAO PÃO DE AÇUCAR mç 400 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Maringá": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA PRETA IMPORTADA cx 10 kg",
+        "preco": 126.0,
+        "precos_cidades": {
+          "Cascavel": 126.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA VERMELHA cx 10 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Maringá": 50.0,
+          "Cascavel": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA VERMELHA IMPORTADA cx 10 kg",
+        "preco": 250.0,
+        "precos_cidades": {
+          "Maringá": 250.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 110.0,
+        "variacao_pct": 127.27,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMENDOIM SEM CASCA sc 25 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Maringá": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ATEMOIA 15 UNID cx 3 kg",
+        "preco": 95.0,
+        "precos_cidades": {
+          "Maringá": 95.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA CATURRA PRIMEIRA cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Maringá": 90.0,
+          "Cascavel": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 22.99,
+        "variacao_pct": 291.47,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA MAÇA PRIMEIRA cx 20 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Maringá": 150.0,
+          "Cascavel": 240.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 140.0,
+        "variacao_pct": 7.14,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA PRATA cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Maringá": 90.0,
+          "Cascavel": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 32.14,
+        "variacao_pct": 180.02,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA TERRA cx 20 kg",
+        "preco": 155.0,
+        "precos_cidades": {
+          "Maringá": 155.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 121.43,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM ESPECIAL sc 25 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Maringá": 90.0,
+          "Cascavel": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 28.57,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM PRIMEIRINHA sc 25 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Maringá": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 10.07,
+        "variacao_pct": 495.83,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE BRANCA EXTRA cx 20 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Maringá": 110.0,
+          "Cascavel": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": 340.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE ROXA EXTRA cx 20 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Maringá": 85.0,
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 26.1,
+        "variacao_pct": 225.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BERINJELA EXTRA AA cx 12 kg",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Maringá": 45.0,
+          "Cascavel": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 17.5,
+        "variacao_pct": 157.14,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA EXTRA AA cx 20 kg",
+        "preco": 95.0,
+        "precos_cidades": {
+          "Maringá": 95.0,
+          "Cascavel": 116.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 40.0,
+        "variacao_pct": 137.5,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI CHOCOLATE cx 20 kg",
+        "preco": 190.0,
+        "precos_cidades": {
+          "Maringá": 190.0,
+          "Cascavel": 190.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI FUYU cx 10 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Cascavel": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI FUYU cx 20 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Maringá": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 150.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CARA cx 20 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Maringá": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA PERA sc 20 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Maringá": 55.0,
+          "Cascavel": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 22.73,
+        "variacao_pct": 141.97,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA ROXA sc 20 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Maringá": 85.0,
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLINHA mç 400 g",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Maringá": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Maringá": 90.0,
+          "Cascavel": 84.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 33.33,
+        "variacao_pct": 170.03,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CHUCHU EXTRA AA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Maringá": 50.0,
+          "Cascavel": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 22.5,
+        "variacao_pct": 122.22,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COCO SECO sc 14 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Maringá": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": 260.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COCO VERDE un 1,5 kg",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Cascavel": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 6.0,
+        "variacao_pct": -58.33,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "COENTRO mç 400 g",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Maringá": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE BROCOLO dz 6 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Maringá": 70.0,
+          "Cascavel": 96.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 40.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE CHINESA un 1,5 kg",
+        "preco": 6.5,
+        "precos_cidades": {
+          "Cascavel": 6.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.0,
+        "variacao_pct": 116.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE CHINESA GRANDE eg 15 kg",
+        "preco": 48.0,
+        "precos_cidades": {
+          "Maringá": 48.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 20.0,
+        "variacao_pct": 140.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE FLOR un 1,5 kg",
+        "preco": 8.0,
+        "precos_cidades": {
+          "Maringá": 8.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 60.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE FLOR MEDIA dz 20 kg",
+        "preco": 84.0,
+        "precos_cidades": {
+          "Maringá": 84.0,
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 16.67,
+        "variacao_pct": 403.9,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE MANTEIGA mç 400 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Maringá": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 0.75,
+        "variacao_pct": 300.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ESCAROLA/CHICORIA GRANDE cx 7 kg",
+        "preco": 23.0,
+        "precos_cidades": {
+          "Maringá": 23.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 12.5,
+        "variacao_pct": 84.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ESPINAFRE mç 400 g",
+        "preco": 3.5,
+        "precos_cidades": {
+          "Maringá": 3.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.5,
+        "variacao_pct": 40.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "GENGIBRE PRIMEIRA cx 16 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Maringá": 160.0,
+          "Cascavel": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 93.33,
+        "variacao_pct": 71.43,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "GOIABA VERMELHA  cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Maringá": 80.0,
+          "Cascavel": 102.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "HORTELA   mç 200 g",
+        "preco": 3.5,
+        "precos_cidades": {
+          "Maringá": 3.5
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "INHAME-TAIA PRIMEIRA cx 20 kg",
+        "preco": 130.0,
+        "precos_cidades": {
+          "Maringá": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 140.0,
+        "variacao_pct": -7.14,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "JILO PRIMEIRA cx 16 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Maringá": 75.0,
+          "Cascavel": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 50.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "KIWI IMPORTADO cx 10 kg",
+        "preco": 270.0,
+        "precos_cidades": {
+          "Maringá": 270.0,
+          "Cascavel": 320.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 240.0,
+        "variacao_pct": 12.5,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA BAHIA IMPORTADA cx 18 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Maringá": 120.0,
+          "Cascavel": 114.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA PERA MEDIA cx 20 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Maringá": 55.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO TAHITI MEDIO cx 23 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Maringá": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA FUJI CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Maringá": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 68.57,
+        "variacao_pct": 118.75,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Maringá": 140.0,
+          "Cascavel": 144.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 32.31,
+        "variacao_pct": 333.3,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GALA CAT 2 TP 80 A 100 cx 18 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Cascavel": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GRAND SMITH TP 80 A 100 cx 18 kg",
+        "preco": 270.0,
+        "precos_cidades": {
+          "Maringá": 270.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 42.61,
+        "variacao_pct": 533.65,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA RED DELICIOUS TP 80 A 100 cx 19 kg",
+        "preco": 250.0,
+        "precos_cidades": {
+          "Maringá": 250.0,
+          "Cascavel": 304.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO FORMOSA MADURO cx 15 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0,
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 75.0,
+        "variacao_pct": 33.33,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO PAPAYA/HAVAI cx 8 kg",
+        "preco": 88.0,
+        "precos_cidades": {
+          "Cascavel": 88.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 46.67,
+        "variacao_pct": 88.56,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
+        "preco": 220.0,
+        "precos_cidades": {
+          "Cascavel": 220.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 63.78,
+        "variacao_pct": 244.94,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA  PRIMEIRA cx 10 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Maringá": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA ESPADA COMUM cx 10 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Maringá": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA PALMER cx 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Maringá": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 67.5,
+        "variacao_pct": 3.7,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA TOMMY ATKING cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0,
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 25.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MARACUJA AZEDO cx 11 kg",
+        "preco": 154.0,
+        "precos_cidades": {
+          "Cascavel": 154.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": 156.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MARACUJA AZEDO cx 12 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Maringá": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 44.55,
+        "variacao_pct": 79.57,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MARACUJA DOCE cx 3 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Maringá": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELANCIA REDONDA kg",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Maringá": 2.5,
+          "Cascavel": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.2,
+        "variacao_pct": 108.33,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Maringá": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 48.44,
+        "variacao_pct": 23.86,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO PELE DE SAPO 5-6-8-10 UN cx 13 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Maringá": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MILHO VERDE BANDEJA C/5 UN bj 1 kg",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Maringá": 5.0,
+          "Cascavel": 8.4
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MIRTILO cx 2 kg",
+        "preco": 240.0,
+        "precos_cidades": {
+          "Maringá": 240.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Maringá": 35.0,
+          "Cascavel": 36.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 13.46,
+        "variacao_pct": 160.03,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "NECTARINA cx 6 kg",
+        "preco": 65.0,
+        "precos_cidades": {
+          "Maringá": 65.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "NECTARINA IMPORTADA cx 9 kg",
+        "preco": 99.0,
+        "precos_cidades": {
+          "Cascavel": 99.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 30.0,
+        "variacao_pct": 230.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO BRANCO MEDIO cx c/ 30 dz",
+        "preco": 205.0,
+        "precos_cidades": {
+          "Maringá": 205.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 136.67,
+        "variacao_pct": 50.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO AODAI/SALADA EXTRA A cx 20 kg",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Maringá": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 53.33,
+        "variacao_pct": -15.62,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Maringá": 60.0,
+          "Cascavel": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": -40.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA A cx 20 kg",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Maringá": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": -35.71,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
+        "preco": 65.0,
+        "precos_cidades": {
+          "Maringá": 65.0,
+          "Cascavel": 96.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 40.0,
+        "variacao_pct": 62.5,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA PACKHAM´S TP 80 A 100 cx 18 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Maringá": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 270.0,
+        "variacao_pct": -44.44,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
+        "preco": 275.0,
+        "precos_cidades": {
+          "Maringá": 275.0,
+          "Cascavel": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 46.87,
+        "variacao_pct": 486.73,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA NACIONAL YARI cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 46.67,
+        "variacao_pct": 114.27,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PESSEGO cx 18 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Maringá": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PESSEGO IMPORTADO cx 9 kg",
+        "preco": 135.0,
+        "precos_cidades": {
+          "Cascavel": 135.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": 440.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA AMERICANA cx 12 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Maringá": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA DEDO DE MOÇA/AR cx 10 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
+        "preco": 108.0,
+        "precos_cidades": {
+          "Maringá": 108.0,
+          "Cascavel": 144.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 20.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERDE EXTRA A cx 12 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Maringá": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 30.0,
+        "variacao_pct": 16.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERDE EXTRA AA cx 12 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Maringá": 60.0,
+          "Cascavel": 66.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 40.0,
+        "variacao_pct": 50.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERMELHO EXTRA AA cx 12 kg",
+        "preco": 144.0,
+        "precos_cidades": {
+          "Cascavel": 144.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PITAIA C/12UN cx 4 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Maringá": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 11.67,
+        "variacao_pct": 242.76,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "QUIABO PRIMEIRA cx 15 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0,
+          "Cascavel": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 150.0,
+        "variacao_pct": -33.33,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "RABANETE DZ DE MAÇOS cx 12 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Maringá": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO ROXO eng 25 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Maringá": 55.0,
+          "Cascavel": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 30.0,
+        "variacao_pct": 83.33,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO VERDE GRANDE eng 25 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Cascavel": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": -100.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "REPOLHO VERDE MEDIO eng 25 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Maringá": 55.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "RUCULA mç 300 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Maringá": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.5,
+        "variacao_pct": 20.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "SALSINHA mç 400 g",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Maringá": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.5,
+        "variacao_pct": 500.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA MONTEN/BERGAM cx 20 kg",
+        "preco": 170.0,
+        "precos_cidades": {
+          "Maringá": 170.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA PONKAN MEDIA cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Maringá": 80.0,
+          "Cascavel": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CEREJA EXTRA AA cx 3 kg",
+        "preco": 27.0,
+        "precos_cidades": {
+          "Maringá": 27.0,
+          "Cascavel": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE LONGA VIDA EXTRA AA cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0,
+          "Cascavel": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 53.33,
+        "variacao_pct": 87.51,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Maringá": 100.0,
+          "Cascavel": 124.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 67.5,
+        "variacao_pct": 48.15,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA BENITAKE NACIONAL cx 8 kg",
+        "preco": 74.0,
+        "precos_cidades": {
+          "Maringá": 74.0,
+          "Cascavel": 92.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": -7.5,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA BRASIL/CENTENIA NACIONAL cx 8 kg",
+        "preco": 74.0,
+        "precos_cidades": {
+          "Maringá": 74.0,
+          "Cascavel": 92.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 85.0,
+        "variacao_pct": -12.94,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA CRINSON NACIONAL cx 5 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Maringá": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA ITALIA NACIONAL cx 8 kg",
+        "preco": 74.0,
+        "precos_cidades": {
+          "Maringá": 74.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": -7.5,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA NIAGARA ROSADA cx 8 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Maringá": 80.0,
+          "Cascavel": 64.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 54.55,
+        "variacao_pct": 46.65,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA REDGLO IMPORTADA cx 9 kg",
+        "preco": 144.0,
+        "precos_cidades": {
+          "Maringá": 144.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 86.67,
+        "variacao_pct": 66.15,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA RUBI NACIONAL cx 8 kg",
+        "preco": 74.0,
+        "precos_cidades": {
+          "Maringá": 74.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": -7.5,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA THOMPSON NACIONAL cx 5 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Maringá": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 53.33,
+        "variacao_pct": 59.38,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA VITORIA NACIONAL cx 5 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Maringá": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 65.0,
+        "variacao_pct": -7.69,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "VAGEM MACARRAO EXTRA AA cx 15 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Maringá": 150.0,
+          "Cascavel": 225.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 210.0,
+        "variacao_pct": -28.57,
+        "aumentou": false,
+        "diminuiu": true
+      }
+    ]
   }
 ]
