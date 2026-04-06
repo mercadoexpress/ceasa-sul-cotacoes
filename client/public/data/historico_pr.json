@@ -12652,5 +12652,310 @@
         "diminuiu": false
       }
     ]
+  },
+  {
+    "data": "06/04/2026",
+    "cotacoes": [
+      {
+        "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
+        "preco": 78.0,
+        "precos_cidades": {
+          "Cascavel": 78.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": -2.5,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BANANA CATURRA PRIMEIRA cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Cascavel": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": -11.11,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BANANA MAÇA PRIMEIRA cx 20 kg",
+        "preco": 240.0,
+        "precos_cidades": {
+          "Cascavel": 240.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 230.0,
+        "variacao_pct": 4.35,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA PRATA cx 20 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Cascavel": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 140.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA TERRA cx 20 kg",
+        "preco": 200.0,
+        "precos_cidades": {
+          "Cascavel": 200.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 200.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM ESPECIAL sc 25 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 95.0,
+        "variacao_pct": -5.26,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BATATA COMUM PRIMEIRINHA sc 25 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Cascavel": 55.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 10.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA EXTRA AA cx 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 116.0,
+        "variacao_pct": 3.45,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA PERA sc 20 kg",
+        "preco": 65.0,
+        "precos_cidades": {
+          "Cascavel": 65.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA PERA IMPORTADA sc 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Cascavel": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CHUCHU EXTRA AA cx 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Cascavel": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE CHINESA un 1,5 kg",
+        "preco": 7.0,
+        "precos_cidades": {
+          "Cascavel": 7.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GRAND SMITH TP 80 A 100 cx 18 kg",
+        "preco": 288.0,
+        "precos_cidades": {
+          "Cascavel": 288.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA RED DELICIOUS TP 80 A 100 cx 19 kg",
+        "preco": 288.0,
+        "precos_cidades": {
+          "Cascavel": 288.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 257.0,
+        "variacao_pct": 12.06,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO FORMOSA MADURO cx 15 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO PAPAYA/HAVAI cx 8 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Cascavel": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA TOMMY ATKING cx 20 kg",
+        "preco": 130.0,
+        "precos_cidades": {
+          "Cascavel": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 130.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELANCIA REDONDA kg",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Cascavel": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
+        "preco": 86.0,
+        "precos_cidades": {
+          "Cascavel": 86.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 85.0,
+        "variacao_pct": 1.18,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERMELHO EXTRA AA cx 12 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Cascavel": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO VERDE GRANDE eng 25 kg",
+        "preco": 95.0,
+        "precos_cidades": {
+          "Cascavel": 95.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE LONGA VIDA EXTRA A cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 76.0,
+        "variacao_pct": 18.42,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Cascavel": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 130.0,
+        "variacao_pct": 15.38,
+        "aumentou": true,
+        "diminuiu": false
+      }
+    ]
   }
 ]
