@@ -14155,5 +14155,876 @@
         "diminuiu": false
       }
     ]
+  },
+  {
+    "data": "09/04/2026",
+    "cotacoes": [
+      {
+        "produto": "ABACATE MARGARIDA cx 20 kg",
+        "preco": 66.0,
+        "precos_cidades": {
+          "Cascavel": 66.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 66.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI HAVAI MEDIO un 1,8 kg",
+        "preco": 11.0,
+        "precos_cidades": {
+          "Cascavel": 11.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA GRAUDO cx 15 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Londrina": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA MEDIO cx 15 kg",
+        "preco": 68.0,
+        "precos_cidades": {
+          "Londrina": 68.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
+        "preco": 10.5,
+        "precos_cidades": {
+          "Cascavel": 10.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 10.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA SECA/PESCOÇO kg",
+        "preco": 2.8,
+        "precos_cidades": {
+          "Cascavel": 2.8
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA BRANCA EXTRA AA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
+        "preco": 76.0,
+        "precos_cidades": {
+          "Cascavel": 76.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 76.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO IMPORTADO BRANCO TP 3 A 4 cx 10 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0,
+          "Cascavel": 250.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO NACIONAL  DESCASCADO pc 1 kg",
+        "preco": 20.0,
+        "precos_cidades": {
+          "Londrina": 20.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA VERMELHA cx 18 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Londrina": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ATEMOIA cx 18 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Londrina": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA CATURRA PRIMEIRA cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0,
+          "Cascavel": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA PRATA cx 20 kg",
+        "preco": 130.0,
+        "precos_cidades": {
+          "Cascavel": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 130.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM ESPECIAL sc 25 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BERINJELA EXTRA AA cx 12 kg",
+        "preco": 25.0,
+        "precos_cidades": {
+          "Londrina": 25.0,
+          "Cascavel": 78.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 78.0,
+        "variacao_pct": -67.95,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BETERRABA EXTRA AA cx 20 kg",
+        "preco": 126.0,
+        "precos_cidades": {
+          "Cascavel": 126.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 126.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Londrina": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI CHOCOLATE cx 20 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Cascavel": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 160.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI FUYU cx 10 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Cascavel": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 84.0,
+        "variacao_pct": 1.19,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI TAUBATE cx 8 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA BRANCA sc 20 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Londrina": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA PERA sc 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 66.0,
+        "variacao_pct": 21.21,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA ROXA sc 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 110.0,
+        "variacao_pct": -18.18,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Londrina": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 22.22,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CHUCHU EXTRA AA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Cascavel": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COCO SECO sc 14 kg",
+        "preco": 91.0,
+        "precos_cidades": {
+          "Cascavel": 91.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE CHINESA un 1,5 kg",
+        "preco": 7.0,
+        "precos_cidades": {
+          "Cascavel": 7.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 7.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "GENGIBRE PRIMEIRA cx 16 kg",
+        "preco": 240.0,
+        "precos_cidades": {
+          "Cascavel": 240.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 240.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "GOIABA VERMELHA  cx 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 106.0,
+        "variacao_pct": 13.21,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "JILO PRIMEIRA cx 16 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Cascavel": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 160.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA BAHIA IMPORTADA cx 18 kg",
+        "preco": 117.0,
+        "precos_cidades": {
+          "Cascavel": 117.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 117.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA LIMA MEDIA cx 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Londrina": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA PERA MEDIA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Cascavel": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMA PERSIA cx 10 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO SICILIANO  cx 15 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Londrina": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO TAHITI GRAUDO cx 23 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 145.0,
+        "precos_cidades": {
+          "Londrina": 145.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 140.0,
+        "variacao_pct": 3.57,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GALA CAT 2 TP 80 A 100 cx 18 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0,
+          "Cascavel": 126.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 126.0,
+        "variacao_pct": -20.63,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MAÇA GALA CAT 3 TP 100 A 150 cx 18 kg",
+        "preco": 130.0,
+        "precos_cidades": {
+          "Londrina": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO FORMOSA MADURO cx 15 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO PAPAYA/HAVAI cx 8 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Cascavel": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA PALMER cx 20 kg",
+        "preco": 95.0,
+        "precos_cidades": {
+          "Londrina": 95.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA TOMMY ATKING cx 20 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Londrina": 110.0,
+          "Cascavel": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 130.0,
+        "variacao_pct": -15.38,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MARACUJA AZEDO cx 11 kg",
+        "preco": 143.0,
+        "precos_cidades": {
+          "Cascavel": 143.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 132.0,
+        "variacao_pct": 8.33,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELANCIA REDONDA kg",
+        "preco": 2.8,
+        "precos_cidades": {
+          "Londrina": 2.8,
+          "Cascavel": 2.6
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Londrina": 85.0,
+          "Cascavel": 88.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 88.0,
+        "variacao_pct": -3.41,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-14 cx 13 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Londrina": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-8 cx 13 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO ORANGE 5 A 6 UN cx 6 kg",
+        "preco": 65.0,
+        "precos_cidades": {
+          "Londrina": 65.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO PELE DE SAPO 5-6-8-10 UN cx 13 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0,
+          "Cascavel": 91.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 91.0,
+        "variacao_pct": -12.09,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MILHO VERDE BANDEJA C/5 UN bj 1 kg",
+        "preco": 8.5,
+        "precos_cidades": {
+          "Cascavel": 8.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 8.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "NECTARINA IMPORTADA cx 9 kg",
+        "preco": 99.0,
+        "precos_cidades": {
+          "Cascavel": 99.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 99.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0,
+          "Cascavel": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": -25.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Londrina": 160.0,
+          "Cascavel": 148.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 148.0,
+        "variacao_pct": 8.11,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA NACIONAL YARI cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": -16.67,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Cascavel": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 180.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERDE EXTRA AA cx 12 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0,
+          "Cascavel": 84.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 84.0,
+        "variacao_pct": -28.57,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PIMENTÃO VERMELHO EXTRA AA cx 12 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Cascavel": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 180.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO ROXO eng 25 kg",
+        "preco": 155.0,
+        "precos_cidades": {
+          "Cascavel": 155.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 155.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO VERDE GRANDE eng 25 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0,
+          "Cascavel": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": -30.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "TANGERINA PONKAN GRAUDA cx 20 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Londrina": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE LONGA VIDA EXTRA A cx 20 kg",
+        "preco": 96.0,
+        "precos_cidades": {
+          "Cascavel": 96.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 96.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE LONGA VIDA EXTRA AA cx 20 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Cascavel": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 140.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Londrina": 120.0,
+          "Cascavel": 154.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 154.0,
+        "variacao_pct": -22.08,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA BENITAKE NACIONAL cx 8 kg",
+        "preco": 88.0,
+        "precos_cidades": {
+          "Cascavel": 88.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 88.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA BRASIL/CENTENIA NACIONAL cx 8 kg",
+        "preco": 88.0,
+        "precos_cidades": {
+          "Cascavel": 88.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 88.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA NIAGARA ROSADA cx 8 kg",
+        "preco": 64.0,
+        "precos_cidades": {
+          "Cascavel": 64.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 64.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA THOMPSON NACIONAL cx 5 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "VAGEM MACARRAO EXTRA AA cx 15 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Londrina": 120.0,
+          "Cascavel": 195.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 195.0,
+        "variacao_pct": -38.46,
+        "aumentou": false,
+        "diminuiu": true
+      }
+    ]
   }
 ]
