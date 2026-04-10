@@ -1,11 +1,23 @@
 {
-  "ultima_atualizacao": "09/04/2026 16:06",
+  "ultima_atualizacao": "10/04/2026 14:35",
   "estados": [
     {
       "estado": "PR",
       "nome": "CEASA Paraná",
       "data": "09/04/2026",
       "cotacoes": [
+        {
+          "produto": "ABACATE COMUM cx 20 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
         {
           "produto": "ABACATE MARGARIDA cx 20 kg",
           "preco": 66.0,
@@ -19,14 +31,26 @@
           "diminuiu": false
         },
         {
+          "produto": "ABACAXI HAVAI GRAUDO cx 18 kg",
+          "preco": 65.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 65.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "ABACAXI HAVAI MEDIO un 1,8 kg",
           "preco": 11.0,
           "precos_cidades": {
             "Cascavel": 11.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 11.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -37,8 +61,8 @@
             "Londrina": 75.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 75.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -49,8 +73,8 @@
             "Londrina": 68.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 68.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -73,8 +97,8 @@
             "Cascavel": 2.8
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.8,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -85,20 +109,69 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
+          "preco": 80.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 80.0,
+            "Cascavel": 76.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 76.0,
+          "variacao_pct": 5.26,
+          "aumentou": true,
+          "diminuiu": false
+        },
+        {
+          "produto": "AGRIÃO HIDROPONICO pc 300 g",
+          "preco": 4.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 4.0
+          },
+          "unidade": "R$",
           "preco_anterior": null,
           "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
-          "preco": 76.0,
+          "produto": "ALFACE HIDROPONICO cx 7 kg",
+          "preco": 60.0,
           "precos_cidades": {
-            "Cascavel": 76.0
+            "Foz do Iguaçu": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 76.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ALFACE AMERICANA cx 7,5 kg",
+          "preco": 50.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 50.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ALFACE CRESPA GRANDE cx 7 kg",
+          "preco": 55.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 55.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -110,8 +183,8 @@
             "Cascavel": 250.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -120,6 +193,30 @@
           "preco": 20.0,
           "precos_cidades": {
             "Londrina": 20.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ALHO PORRO MAÇO 4 UNID mç 2 kg",
+          "preco": 15.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 15.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ALMEIRAO C. ESPADA mç 300 g",
+          "preco": 3.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 3.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -134,8 +231,8 @@
             "Londrina": 110.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -146,8 +243,8 @@
             "Londrina": 150.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -189,29 +286,43 @@
           "diminuiu": false
         },
         {
+          "produto": "BATATA COMUM MISTA/BONECA sc 25 kg",
+          "preco": 43.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 43.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "BERINJELA EXTRA AA cx 12 kg",
           "preco": 25.0,
           "precos_cidades": {
             "Londrina": 25.0,
+            "Foz do Iguaçu": 65.0,
             "Cascavel": 78.0
           },
           "unidade": "R$",
-          "preco_anterior": 78.0,
-          "variacao_pct": -67.95,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BETERRABA EXTRA AA cx 20 kg",
-          "preco": 126.0,
+          "preco": 115.0,
           "precos_cidades": {
+            "Foz do Iguaçu": 115.0,
             "Cascavel": 126.0
           },
           "unidade": "R$",
           "preco_anterior": 126.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -8.73,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
@@ -220,8 +331,8 @@
             "Londrina": 15.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -244,9 +355,9 @@
             "Cascavel": 85.0
           },
           "unidade": "R$",
-          "preco_anterior": 84.0,
-          "variacao_pct": 1.19,
-          "aumentou": true,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -256,8 +367,8 @@
             "Londrina": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -268,8 +379,8 @@
             "Londrina": 180.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 180.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -280,9 +391,9 @@
             "Londrina": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": 66.0,
-          "variacao_pct": 21.21,
-          "aumentou": true,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -292,10 +403,34 @@
             "Londrina": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": 110.0,
-          "variacao_pct": -18.18,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
+        },
+        {
+          "produto": "CEBOLINHA mç 400 g",
+          "preco": 25.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 25.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CENOURA COMUM EXTRA A cx 20 kg",
+          "preco": 77.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 77.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
         },
         {
           "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
@@ -304,15 +439,28 @@
             "Londrina": 110.0
           },
           "unidade": "R$",
-          "preco_anterior": 90.0,
-          "variacao_pct": 22.22,
-          "aumentou": true,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CHEIRO-VERDE mç 400 g",
+          "preco": 25.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 25.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "CHUCHU EXTRA AA cx 20 kg",
           "preco": 60.0,
           "precos_cidades": {
+            "Foz do Iguaçu": 60.0,
             "Cascavel": 60.0
           },
           "unidade": "R$",
@@ -326,6 +474,54 @@
           "preco": 91.0,
           "precos_cidades": {
             "Cascavel": 91.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 91.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COCO VERDE un 1,5 kg",
+          "preco": 6.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 6.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COENTRO mç 400 g",
+          "preco": 4.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 4.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COENTRO HIDROPONICO  mç 400 g",
+          "preco": 4.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 4.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COUVE BROCOLO dz 6 kg",
+          "preco": 72.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 72.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -346,6 +542,30 @@
           "diminuiu": false
         },
         {
+          "produto": "COUVE MANTEIGA mç 400 g",
+          "preco": 3.5,
+          "precos_cidades": {
+            "Foz do Iguaçu": 3.5
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ESPINAFRE HIDROPONICO  pc 300 g",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "GENGIBRE PRIMEIRA cx 16 kg",
           "preco": 240.0,
           "precos_cidades": {
@@ -358,15 +578,39 @@
           "diminuiu": false
         },
         {
+          "produto": "GOIABA BRANCA cx 8 kg",
+          "preco": 64.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 64.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "GOIABA VERMELHA  cx 20 kg",
           "preco": 120.0,
           "precos_cidades": {
             "Cascavel": 120.0
           },
           "unidade": "R$",
-          "preco_anterior": 106.0,
-          "variacao_pct": 13.21,
-          "aumentou": true,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "HORTELA   mç 200 g",
+          "preco": 3.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 3.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -400,6 +644,18 @@
             "Londrina": 120.0
           },
           "unidade": "R$",
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA PERA GRAUDA cx 20 kg",
+          "preco": 55.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 55.0
+          },
+          "unidade": "R$",
           "preco_anterior": null,
           "variacao_pct": null,
           "aumentou": false,
@@ -412,8 +668,8 @@
             "Cascavel": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -424,8 +680,8 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -436,8 +692,8 @@
             "Londrina": 150.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -445,7 +701,20 @@
           "produto": "LIMAO TAHITI GRAUDO cx 23 kg",
           "preco": 40.0,
           "precos_cidades": {
-            "Londrina": 40.0
+            "Londrina": 40.0,
+            "Foz do Iguaçu": 55.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MAÇA FUJI CAT 1 TP 80 A 100 cx 18 kg",
+          "preco": 150.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 150.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -460,9 +729,9 @@
             "Londrina": 145.0
           },
           "unidade": "R$",
-          "preco_anterior": 140.0,
-          "variacao_pct": 3.57,
-          "aumentou": true,
+          "preco_anterior": 145.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -473,10 +742,10 @@
             "Cascavel": 126.0
           },
           "unidade": "R$",
-          "preco_anterior": 126.0,
-          "variacao_pct": -20.63,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MAÇA GALA CAT 3 TP 100 A 150 cx 18 kg",
@@ -485,22 +754,23 @@
             "Londrina": 130.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "MAMAO FORMOSA MADURO cx 15 kg",
-          "preco": 120.0,
+          "preco": 105.0,
           "precos_cidades": {
+            "Foz do Iguaçu": 105.0,
             "Cascavel": 120.0
           },
           "unidade": "R$",
           "preco_anterior": 120.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -12.5,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "MAMAO PAPAYA/HAVAI cx 8 kg",
@@ -521,8 +791,8 @@
             "Londrina": 95.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 95.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -534,22 +804,35 @@
             "Cascavel": 130.0
           },
           "unidade": "R$",
-          "preco_anterior": 130.0,
-          "variacao_pct": -15.38,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
+        },
+        {
+          "produto": "MANJERICAO   mç 100 g",
+          "preco": 4.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 4.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
         },
         {
           "produto": "MARACUJA AZEDO cx 11 kg",
-          "preco": 143.0,
+          "preco": 85.0,
           "precos_cidades": {
+            "Foz do Iguaçu": 85.0,
             "Cascavel": 143.0
           },
           "unidade": "R$",
-          "preco_anterior": 132.0,
-          "variacao_pct": 8.33,
-          "aumentou": true,
-          "diminuiu": false
+          "preco_anterior": 143.0,
+          "variacao_pct": -40.56,
+          "aumentou": false,
+          "diminuiu": true
         },
         {
           "produto": "MELANCIA REDONDA kg",
@@ -559,8 +842,8 @@
             "Cascavel": 2.6
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.8,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -572,10 +855,10 @@
             "Cascavel": 88.0
           },
           "unidade": "R$",
-          "preco_anterior": 88.0,
-          "variacao_pct": -3.41,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MELAO AMARELO COMUM TP-14 cx 13 kg",
@@ -584,8 +867,8 @@
             "Londrina": 85.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -593,11 +876,12 @@
           "produto": "MELAO AMARELO COMUM TP-8 cx 13 kg",
           "preco": 90.0,
           "precos_cidades": {
-            "Londrina": 90.0
+            "Londrina": 90.0,
+            "Foz do Iguaçu": 72.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -608,8 +892,8 @@
             "Londrina": 65.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 65.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -621,10 +905,10 @@
             "Cascavel": 91.0
           },
           "unidade": "R$",
-          "preco_anterior": 91.0,
-          "variacao_pct": -12.09,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MILHO VERDE BANDEJA C/5 UN bj 1 kg",
@@ -651,17 +935,30 @@
           "diminuiu": false
         },
         {
+          "produto": "OVO VERMELHO EXTRA cx c/ 30 dz",
+          "preco": 240.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 240.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
           "preco": 60.0,
           "precos_cidades": {
             "Londrina": 60.0,
+            "Foz do Iguaçu": 60.0,
             "Cascavel": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": -25.0,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
@@ -683,9 +980,9 @@
             "Cascavel": 148.0
           },
           "unidade": "R$",
-          "preco_anterior": 148.0,
-          "variacao_pct": 8.11,
-          "aumentou": true,
+          "preco_anterior": 160.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -695,15 +992,16 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": -16.67,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
           "preco": 180.0,
           "precos_cidades": {
+            "Foz do Iguaçu": 180.0,
             "Cascavel": 180.0
           },
           "unidade": "R$",
@@ -720,10 +1018,10 @@
             "Cascavel": 84.0
           },
           "unidade": "R$",
-          "preco_anterior": 84.0,
-          "variacao_pct": -28.57,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTÃO VERMELHO EXTRA AA cx 12 kg",
@@ -754,13 +1052,62 @@
           "preco": 70.0,
           "precos_cidades": {
             "Londrina": 70.0,
+            "Foz do Iguaçu": 60.0,
             "Cascavel": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": -30.0,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
+        },
+        {
+          "produto": "RUCULA mç 300 g",
+          "preco": 3.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 3.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "RUCULA HIDROPONICA mç 300 g",
+          "preco": 2.5,
+          "precos_cidades": {
+            "Foz do Iguaçu": 2.5
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "SALSAO (Aipo) mç 2 kg",
+          "preco": 10.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 10.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TANGERINA MIMOSA/MEXERICA COMUM cx 20 kg",
+          "preco": 110.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 110.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
         },
         {
           "produto": "TANGERINA PONKAN GRAUDA cx 20 kg",
@@ -769,8 +1116,8 @@
             "Londrina": 75.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 75.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -790,6 +1137,7 @@
           "produto": "TOMATE LONGA VIDA EXTRA AA cx 20 kg",
           "preco": 140.0,
           "precos_cidades": {
+            "Foz do Iguaçu": 140.0,
             "Cascavel": 140.0
           },
           "unidade": "R$",
@@ -806,10 +1154,10 @@
             "Cascavel": 154.0
           },
           "unidade": "R$",
-          "preco_anterior": 154.0,
-          "variacao_pct": -22.08,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "UVA BENITAKE NACIONAL cx 8 kg",
@@ -836,6 +1184,18 @@
           "diminuiu": false
         },
         {
+          "produto": "UVA COMUM cx 8 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Foz do Iguaçu": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "UVA NIAGARA ROSADA cx 8 kg",
           "preco": 64.0,
           "precos_cidades": {
@@ -854,8 +1214,8 @@
             "Londrina": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -867,65 +1227,29 @@
             "Cascavel": 195.0
           },
           "unidade": "R$",
-          "preco_anterior": 195.0,
-          "variacao_pct": -38.46,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         }
       ],
       "fonte": "https://celepar7.pr.gov.br/ceasa/hoje.asp",
-      "total_produtos": 71,
-      "total_aumentos": 7,
-      "total_diminuicoes": 12,
+      "total_produtos": 100,
+      "total_aumentos": 1,
+      "total_diminuicoes": 3,
       "aumentos": [
         {
-          "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
-          "preco": 110.0,
-          "preco_anterior": 90.0,
-          "variacao_pct": 22.22
-        },
-        {
-          "produto": "CEBOLA PERA sc 20 kg",
+          "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
           "preco": 80.0,
-          "preco_anterior": 66.0,
-          "variacao_pct": 21.21
-        },
-        {
-          "produto": "GOIABA VERMELHA  cx 20 kg",
-          "preco": 120.0,
-          "preco_anterior": 106.0,
-          "variacao_pct": 13.21
-        },
-        {
-          "produto": "MARACUJA AZEDO cx 11 kg",
-          "preco": 143.0,
-          "preco_anterior": 132.0,
-          "variacao_pct": 8.33
-        },
-        {
-          "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
-          "preco": 160.0,
-          "preco_anterior": 148.0,
-          "variacao_pct": 8.11
-        },
-        {
-          "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
-          "preco": 145.0,
-          "preco_anterior": 140.0,
-          "variacao_pct": 3.57
-        },
-        {
-          "produto": "CAQUI FUYU cx 10 kg",
-          "preco": 85.0,
-          "preco_anterior": 84.0,
-          "variacao_pct": 1.19
+          "preco_anterior": 76.0,
+          "variacao_pct": 5.26
         }
       ]
     },
     {
       "estado": "SC",
       "nome": "CEASA Santa Catarina",
-      "data": "09/04/2026",
+      "data": "10/04/2026",
       "cotacoes": [
         {
           "produto": "ABACATE",
@@ -944,16 +1268,16 @@
           "preco_min": 6.0,
           "preco_max": 7.0,
           "unidade": "R$",
-          "preco_anterior": 6.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "ABOBORA ABOBRINHA ITALIANA",
           "preco": 40.0,
           "preco_min": 35.0,
-          "preco_max": 45.0,
+          "preco_max": 50.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
           "variacao_pct": 0.0,
@@ -1018,8 +1342,8 @@
         {
           "produto": "ACEROLA",
           "preco": 65.0,
-          "preco_min": 65.0,
-          "preco_max": 70.0,
+          "preco_min": 50.0,
+          "preco_max": 65.0,
           "unidade": "R$",
           "preco_anterior": 65.0,
           "variacao_pct": 0.0,
@@ -1149,13 +1473,13 @@
         },
         {
           "produto": "AMEIXA",
-          "preco": 58.0,
-          "preco_min": 55.0,
-          "preco_max": 65.0,
+          "preco": 100.0,
+          "preco_min": 100.0,
+          "preco_max": 100.0,
           "unidade": "R$",
           "preco_anterior": 58.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 72.41,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -1182,13 +1506,13 @@
         },
         {
           "produto": "AMORA",
-          "preco": 7.0,
-          "preco_min": 7.0,
-          "preco_max": 8.0,
+          "preco": 10.0,
+          "preco_min": 10.0,
+          "preco_max": 10.0,
           "unidade": "R$",
           "preco_anterior": 7.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 42.86,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -1340,10 +1664,10 @@
           "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": -12.5,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BATATA IACON COMERCIAL",
@@ -1424,13 +1748,13 @@
         },
         {
           "produto": "BERINJELA",
-          "preco": 35.0,
+          "preco": 40.0,
           "preco_min": 35.0,
           "preco_max": 40.0,
           "unidade": "R$",
           "preco_anterior": 35.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -1480,12 +1804,12 @@
         {
           "produto": "BRÓCOLIS CHINÊS",
           "preco": 3.5,
-          "preco_min": 3.0,
-          "preco_max": 3.5,
+          "preco_min": 3.5,
+          "preco_max": 4.0,
           "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 3.5,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1512,13 +1836,13 @@
         },
         {
           "produto": "CAJU",
-          "preco": 75.0,
-          "preco_min": 75.0,
-          "preco_max": 80.0,
+          "preco": 110.0,
+          "preco_min": 110.0,
+          "preco_max": 120.0,
           "unidade": "R$",
           "preco_anterior": 75.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 46.67,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -1538,10 +1862,10 @@
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 65.0,
-          "variacao_pct": -15.38,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CAQUI FUYU",
@@ -1549,10 +1873,10 @@
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 75.0,
-          "variacao_pct": -26.67,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CARAMBOLA",
@@ -1644,19 +1968,19 @@
         },
         {
           "produto": "CEBOLA PERA",
-          "preco": 50.0,
+          "preco": 55.0,
           "preco_min": 45.0,
           "preco_max": 55.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 10.0,
+          "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "CEBOLA ROXA(O)",
           "preco": 60.0,
-          "preco_min": 50.0,
+          "preco_min": 55.0,
           "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
@@ -1688,19 +2012,19 @@
         },
         {
           "produto": "CENOURA",
-          "preco": 120.0,
-          "preco_min": 120.0,
+          "preco": 130.0,
+          "preco_min": 130.0,
           "preco_max": 130.0,
           "unidade": "R$",
           "preco_anterior": 120.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 8.33,
+          "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "CEREJA",
           "preco": 200.0,
-          "preco_min": 200.0,
+          "preco_min": 100.0,
           "preco_max": 200.0,
           "unidade": "R$",
           "preco_anterior": 200.0,
@@ -1722,7 +2046,7 @@
         {
           "produto": "CHUCHU",
           "preco": 40.0,
-          "preco_min": 40.0,
+          "preco_min": 35.0,
           "preco_max": 45.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
@@ -1743,13 +2067,13 @@
         },
         {
           "produto": "COCO SECO",
-          "preco": 60.0,
-          "preco_min": 55.0,
-          "preco_max": 64.0,
+          "preco": 64.0,
+          "preco_min": 60.0,
+          "preco_max": 65.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 6.67,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -1777,7 +2101,7 @@
         {
           "produto": "COGUMELO CHAMPIGNON",
           "preco": 12.0,
-          "preco_min": 12.0,
+          "preco_min": 9.0,
           "preco_max": 12.0,
           "unidade": "R$",
           "preco_anterior": 12.0,
@@ -1788,7 +2112,7 @@
         {
           "produto": "COGUMELO SHIMEJI",
           "preco": 10.0,
-          "preco_min": 9.0,
+          "preco_min": 10.0,
           "preco_max": 10.0,
           "unidade": "R$",
           "preco_anterior": 10.0,
@@ -2143,10 +2467,10 @@
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 70.0,
-          "variacao_pct": -14.29,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "LIMÃO SICILIANO",
@@ -2154,9 +2478,9 @@
           "preco_min": 220.0,
           "preco_max": 220.0,
           "unidade": "R$",
-          "preco_anterior": 200.0,
-          "variacao_pct": 10.0,
-          "aumentou": true,
+          "preco_anterior": 220.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2165,10 +2489,10 @@
           "preco_min": 53.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 65.0,
-          "variacao_pct": -10.77,
+          "preco_anterior": 58.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MAMÃO FORMOSA",
@@ -2264,9 +2588,9 @@
           "preco_min": 55.0,
           "preco_max": 70.0,
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 8.33,
-          "aumentou": true,
+          "preco_anterior": 65.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2646,7 +2970,7 @@
         {
           "produto": "PEPINO SALADA",
           "preco": 50.0,
-          "preco_min": 45.0,
+          "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
@@ -2756,7 +3080,7 @@
         {
           "produto": "PIMENTÃO VERDE",
           "preco": 50.0,
-          "preco_min": 50.0,
+          "preco_min": 40.0,
           "preco_max": 50.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
@@ -3042,7 +3366,7 @@
         {
           "produto": "TOMATE LONGA VIDA",
           "preco": 70.0,
-          "preco_min": 70.0,
+          "preco_min": 65.0,
           "preco_max": 75.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
@@ -3118,13 +3442,13 @@
         },
         {
           "produto": "UVA NIAGARA",
-          "preco": 70.0,
-          "preco_min": 65.0,
-          "preco_max": 80.0,
+          "preco": 90.0,
+          "preco_min": 75.0,
+          "preco_max": 110.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 28.57,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3142,7 +3466,7 @@
           "produto": "UVA RED GLOBE",
           "preco": 10.0,
           "preco_min": 9.0,
-          "preco_max": 11.0,
+          "preco_max": 12.0,
           "unidade": "R$",
           "preco_anterior": 10.0,
           "variacao_pct": 0.0,
@@ -3173,13 +3497,13 @@
         },
         {
           "produto": "UVA VITÓRIA",
-          "preco": 80.0,
-          "preco_min": 80.0,
-          "preco_max": 80.0,
+          "preco": 110.0,
+          "preco_min": 110.0,
+          "preco_max": 110.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 37.5,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3207,32 +3531,62 @@
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
-      "total_aumentos": 4,
-      "total_diminuicoes": 5,
+      "total_aumentos": 9,
+      "total_diminuicoes": 0,
       "aumentos": [
         {
-          "produto": "ABACAXI",
-          "preco": 7.0,
-          "preco_anterior": 6.0,
-          "variacao_pct": 16.67
+          "produto": "AMEIXA",
+          "preco": 100.0,
+          "preco_anterior": 58.0,
+          "variacao_pct": 72.41
         },
         {
-          "produto": "BRÓCOLIS CHINÊS",
-          "preco": 3.5,
-          "preco_anterior": 3.0,
-          "variacao_pct": 16.67
+          "produto": "CAJU",
+          "preco": 110.0,
+          "preco_anterior": 75.0,
+          "variacao_pct": 46.67
         },
         {
-          "produto": "LIMÃO SICILIANO",
-          "preco": 220.0,
-          "preco_anterior": 200.0,
+          "produto": "AMORA",
+          "preco": 10.0,
+          "preco_anterior": 7.0,
+          "variacao_pct": 42.86
+        },
+        {
+          "produto": "UVA VITÓRIA",
+          "preco": 110.0,
+          "preco_anterior": 80.0,
+          "variacao_pct": 37.5
+        },
+        {
+          "produto": "UVA NIAGARA",
+          "preco": 90.0,
+          "preco_anterior": 70.0,
+          "variacao_pct": 28.57
+        },
+        {
+          "produto": "BERINJELA",
+          "preco": 40.0,
+          "preco_anterior": 35.0,
+          "variacao_pct": 14.29
+        },
+        {
+          "produto": "CEBOLA PERA",
+          "preco": 55.0,
+          "preco_anterior": 50.0,
           "variacao_pct": 10.0
         },
         {
-          "produto": "MARACUJÁ AZEDO",
-          "preco": 65.0,
-          "preco_anterior": 60.0,
+          "produto": "CENOURA",
+          "preco": 130.0,
+          "preco_anterior": 120.0,
           "variacao_pct": 8.33
+        },
+        {
+          "produto": "COCO SECO",
+          "preco": 64.0,
+          "preco_anterior": 60.0,
+          "variacao_pct": 6.67
         }
       ]
     },
@@ -4732,7 +5086,7 @@
         {
           "produto": "MACA GALA IMPORTADA",
           "preco": 7.22,
-          "preco_min": 8.05,
+          "preco_min": 7.22,
           "preco_max": 10.0,
           "categoria": "GERAL",
           "unidade": "R$",
