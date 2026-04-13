@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "10/04/2026 14:35",
+  "ultima_atualizacao": "13/04/2026 16:00",
   "estados": [
     {
       "estado": "PR",
@@ -13,8 +13,8 @@
             "Foz do Iguaçu": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -37,8 +37,8 @@
             "Foz do Iguaçu": 65.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 65.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -122,9 +122,9 @@
             "Cascavel": 76.0
           },
           "unidade": "R$",
-          "preco_anterior": 76.0,
-          "variacao_pct": 5.26,
-          "aumentou": true,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -134,8 +134,8 @@
             "Foz do Iguaçu": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -146,8 +146,8 @@
             "Foz do Iguaçu": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -158,8 +158,8 @@
             "Foz do Iguaçu": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -170,8 +170,8 @@
             "Foz do Iguaçu": 55.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -207,8 +207,8 @@
             "Foz do Iguaçu": 15.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -219,8 +219,8 @@
             "Foz do Iguaçu": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -292,8 +292,8 @@
             "Foz do Iguaçu": 43.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 43.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -319,10 +319,10 @@
             "Cascavel": 126.0
           },
           "unidade": "R$",
-          "preco_anterior": 126.0,
-          "variacao_pct": -8.73,
+          "preco_anterior": 115.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
@@ -415,8 +415,8 @@
             "Foz do Iguaçu": 25.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -427,8 +427,8 @@
             "Foz do Iguaçu": 77.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 77.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -451,8 +451,8 @@
             "Foz do Iguaçu": 25.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -488,8 +488,8 @@
             "Foz do Iguaçu": 6.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -500,8 +500,8 @@
             "Foz do Iguaçu": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -512,8 +512,8 @@
             "Foz do Iguaçu": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -524,8 +524,8 @@
             "Foz do Iguaçu": 72.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 72.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -548,8 +548,8 @@
             "Foz do Iguaçu": 3.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -560,8 +560,8 @@
             "Foz do Iguaçu": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -584,8 +584,8 @@
             "Foz do Iguaçu": 64.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 64.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -608,8 +608,8 @@
             "Foz do Iguaçu": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -656,8 +656,8 @@
             "Foz do Iguaçu": 55.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -717,8 +717,8 @@
             "Foz do Iguaçu": 150.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -767,10 +767,10 @@
             "Cascavel": 120.0
           },
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": -12.5,
+          "preco_anterior": 105.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MAMAO PAPAYA/HAVAI cx 8 kg",
@@ -816,8 +816,8 @@
             "Foz do Iguaçu": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -829,10 +829,10 @@
             "Cascavel": 143.0
           },
           "unidade": "R$",
-          "preco_anterior": 143.0,
-          "variacao_pct": -40.56,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MELANCIA REDONDA kg",
@@ -941,8 +941,8 @@
             "Foz do Iguaçu": 240.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 240.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1068,8 +1068,8 @@
             "Foz do Iguaçu": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1080,8 +1080,8 @@
             "Foz do Iguaçu": 2.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1092,8 +1092,8 @@
             "Foz do Iguaçu": 10.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1104,8 +1104,8 @@
             "Foz do Iguaçu": 110.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1190,8 +1190,8 @@
             "Foz do Iguaçu": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1235,21 +1235,14 @@
       ],
       "fonte": "https://celepar7.pr.gov.br/ceasa/hoje.asp",
       "total_produtos": 100,
-      "total_aumentos": 1,
-      "total_diminuicoes": 3,
-      "aumentos": [
-        {
-          "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
-          "preco": 80.0,
-          "preco_anterior": 76.0,
-          "variacao_pct": 5.26
-        }
-      ]
+      "total_aumentos": 0,
+      "total_diminuicoes": 0,
+      "aumentos": []
     },
     {
       "estado": "SC",
       "nome": "CEASA Santa Catarina",
-      "data": "10/04/2026",
+      "data": "13/04/2026",
       "cotacoes": [
         {
           "produto": "ABACATE",
@@ -1286,31 +1279,31 @@
         },
         {
           "produto": "ABOBORA KABUTIÁ",
-          "preco": 48.0,
+          "preco": 45.0,
           "preco_min": 45.0,
-          "preco_max": 50.0,
+          "preco_max": 48.0,
           "unidade": "R$",
           "preco_anterior": 48.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -6.25,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "ABOBORA MENINA",
-          "preco": 35.0,
-          "preco_min": 30.0,
-          "preco_max": 35.0,
+          "preco": 40.0,
+          "preco_min": 35.0,
+          "preco_max": 40.0,
           "unidade": "R$",
           "preco_anterior": 35.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "ABOBORA MORANGA",
           "preco": 30.0,
           "preco_min": 30.0,
-          "preco_max": 32.0,
+          "preco_max": 35.0,
           "unidade": "R$",
           "preco_anterior": 30.0,
           "variacao_pct": 0.0,
@@ -1364,8 +1357,8 @@
         {
           "produto": "AIPIM",
           "preco": 60.0,
-          "preco_min": 60.0,
-          "preco_max": 70.0,
+          "preco_min": 55.0,
+          "preco_max": 60.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
           "variacao_pct": 0.0,
@@ -1477,9 +1470,9 @@
           "preco_min": 100.0,
           "preco_max": 100.0,
           "unidade": "R$",
-          "preco_anterior": 58.0,
-          "variacao_pct": 72.41,
-          "aumentou": true,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1510,9 +1503,9 @@
           "preco_min": 10.0,
           "preco_max": 10.0,
           "unidade": "R$",
-          "preco_anterior": 7.0,
-          "variacao_pct": 42.86,
-          "aumentou": true,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1540,7 +1533,7 @@
         {
           "produto": "AÇAFRÃO",
           "preco": 10.0,
-          "preco_min": 9.0,
+          "preco_min": 10.0,
           "preco_max": 10.0,
           "unidade": "R$",
           "preco_anterior": 10.0,
@@ -1573,7 +1566,7 @@
         {
           "produto": "BANANA BRANCO(A)",
           "preco": 75.0,
-          "preco_min": 70.0,
+          "preco_min": 65.0,
           "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 75.0,
@@ -1585,7 +1578,7 @@
           "produto": "BANANA CATURRA",
           "preco": 60.0,
           "preco_min": 50.0,
-          "preco_max": 70.0,
+          "preco_max": 60.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
           "variacao_pct": 0.0,
@@ -1629,7 +1622,7 @@
           "produto": "BATATA AIPO",
           "preco": 30.0,
           "preco_min": 30.0,
-          "preco_max": 45.0,
+          "preco_max": 35.0,
           "unidade": "R$",
           "preco_anterior": 30.0,
           "variacao_pct": 0.0,
@@ -1639,8 +1632,8 @@
         {
           "produto": "BATATA CARA",
           "preco": 90.0,
-          "preco_min": 87.0,
-          "preco_max": 100.0,
+          "preco_min": 80.0,
+          "preco_max": 90.0,
           "unidade": "R$",
           "preco_anterior": 90.0,
           "variacao_pct": 0.0,
@@ -1650,8 +1643,8 @@
         {
           "produto": "BATATA DOCE",
           "preco": 60.0,
-          "preco_min": 55.0,
-          "preco_max": 65.0,
+          "preco_min": 50.0,
+          "preco_max": 60.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
           "variacao_pct": 0.0,
@@ -1662,7 +1655,7 @@
           "produto": "BATATA DOCE PAULISTA",
           "preco": 70.0,
           "preco_min": 70.0,
-          "preco_max": 80.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
           "variacao_pct": 0.0,
@@ -1671,14 +1664,14 @@
         },
         {
           "produto": "BATATA IACON COMERCIAL",
-          "preco": 90.0,
-          "preco_min": 80.0,
-          "preco_max": 100.0,
+          "preco": 80.0,
+          "preco_min": 70.0,
+          "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 90.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -11.11,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BATATA INGLESA",
@@ -1705,8 +1698,8 @@
         {
           "produto": "BATATA INGLESA ROSA",
           "preco": 80.0,
-          "preco_min": 75.0,
-          "preco_max": 85.0,
+          "preco_min": 80.0,
+          "preco_max": 90.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
           "variacao_pct": 0.0,
@@ -1749,12 +1742,12 @@
         {
           "produto": "BERINJELA",
           "preco": 40.0,
-          "preco_min": 35.0,
-          "preco_max": 40.0,
+          "preco_min": 40.0,
+          "preco_max": 45.0,
           "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1804,7 +1797,7 @@
         {
           "produto": "BRÓCOLIS CHINÊS",
           "preco": 3.5,
-          "preco_min": 3.5,
+          "preco_min": 3.0,
           "preco_max": 4.0,
           "unidade": "R$",
           "preco_anterior": 3.5,
@@ -1840,9 +1833,9 @@
           "preco_min": 110.0,
           "preco_max": 120.0,
           "unidade": "R$",
-          "preco_anterior": 75.0,
-          "variacao_pct": 46.67,
-          "aumentou": true,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1968,24 +1961,24 @@
         },
         {
           "produto": "CEBOLA PERA",
-          "preco": 55.0,
-          "preco_min": 45.0,
-          "preco_max": 55.0,
+          "preco": 60.0,
+          "preco_min": 55.0,
+          "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 10.0,
+          "preco_anterior": 55.0,
+          "variacao_pct": 9.09,
           "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "CEBOLA ROXA(O)",
-          "preco": 60.0,
-          "preco_min": 55.0,
-          "preco_max": 70.0,
+          "preco": 80.0,
+          "preco_min": 75.0,
+          "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 33.33,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2014,11 +2007,11 @@
           "produto": "CENOURA",
           "preco": 130.0,
           "preco_min": 130.0,
-          "preco_max": 130.0,
+          "preco_max": 135.0,
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": 8.33,
-          "aumentou": true,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2071,9 +2064,9 @@
           "preco_min": 60.0,
           "preco_max": 65.0,
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 6.67,
-          "aumentou": true,
+          "preco_anterior": 64.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2144,13 +2137,13 @@
         },
         {
           "produto": "COUVE-FLOR",
-          "preco": 3.5,
-          "preco_min": 3.0,
+          "preco": 4.0,
+          "preco_min": 3.5,
           "preco_max": 4.0,
           "unidade": "R$",
           "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2222,8 +2215,8 @@
         {
           "produto": "FEIJÃO PRETO",
           "preco": 135.0,
-          "preco_min": 125.0,
-          "preco_max": 150.0,
+          "preco_min": 130.0,
+          "preco_max": 135.0,
           "unidade": "R$",
           "preco_anterior": 135.0,
           "variacao_pct": 0.0,
@@ -2277,8 +2270,8 @@
         {
           "produto": "GENGIBRE",
           "preco": 100.0,
-          "preco_min": 90.0,
-          "preco_max": 110.0,
+          "preco_min": 100.0,
+          "preco_max": 100.0,
           "unidade": "R$",
           "preco_anterior": 100.0,
           "variacao_pct": 0.0,
@@ -2585,7 +2578,7 @@
         {
           "produto": "MARACUJÁ AZEDO",
           "preco": 65.0,
-          "preco_min": 55.0,
+          "preco_min": 60.0,
           "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 65.0,
@@ -2694,13 +2687,13 @@
         },
         {
           "produto": "MELANCIA",
-          "preco": 2.7,
-          "preco_min": 2.6,
-          "preco_max": 2.9,
+          "preco": 3.0,
+          "preco_min": 2.8,
+          "preco_max": 3.0,
           "unidade": "R$",
           "preco_anterior": 2.7,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 11.11,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2716,13 +2709,13 @@
         },
         {
           "produto": "MELANCIA PINGO DOCE",
-          "preco": 52.5,
-          "preco_min": 52.5,
-          "preco_max": 52.5,
+          "preco": 60.0,
+          "preco_min": 60.0,
+          "preco_max": 67.5,
           "unidade": "R$",
           "preco_anterior": 52.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2773,7 +2766,7 @@
           "produto": "MILHO VERDE",
           "preco": 5.0,
           "preco_min": 5.0,
-          "preco_max": 6.0,
+          "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 5.0,
           "variacao_pct": 0.0,
@@ -2958,24 +2951,24 @@
         },
         {
           "produto": "PEPINO JAPONÊS",
-          "preco": 70.0,
+          "preco": 80.0,
           "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "PEPINO SALADA",
-          "preco": 50.0,
+          "preco": 60.0,
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 20.0,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3047,8 +3040,8 @@
         {
           "produto": "PIMENTA VERMELHO(A)",
           "preco": 120.0,
-          "preco_min": 100.0,
-          "preco_max": 120.0,
+          "preco_min": 120.0,
+          "preco_max": 130.0,
           "unidade": "R$",
           "preco_anterior": 120.0,
           "variacao_pct": 0.0,
@@ -3069,8 +3062,8 @@
         {
           "produto": "PIMENTÃO AMARELO(A)",
           "preco": 150.0,
-          "preco_min": 140.0,
-          "preco_max": 195.0,
+          "preco_min": 130.0,
+          "preco_max": 160.0,
           "unidade": "R$",
           "preco_anterior": 150.0,
           "variacao_pct": 0.0,
@@ -3079,14 +3072,14 @@
         },
         {
           "produto": "PIMENTÃO VERDE",
-          "preco": 50.0,
-          "preco_min": 40.0,
-          "preco_max": 50.0,
+          "preco": 35.0,
+          "preco_min": 35.0,
+          "preco_max": 40.0,
           "unidade": "R$",
           "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -30.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "PIMENTÃO VERMELHO(A)",
@@ -3112,14 +3105,14 @@
         },
         {
           "produto": "PINHÃO",
-          "preco": 260.0,
-          "preco_min": 240.0,
-          "preco_max": 280.0,
+          "preco": 240.0,
+          "preco_min": 200.0,
+          "preco_max": 240.0,
           "unidade": "R$",
           "preco_anterior": 260.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -7.69,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "PITAIA",
@@ -3246,7 +3239,7 @@
           "produto": "SALSA",
           "preco": 1.5,
           "preco_min": 1.5,
-          "preco_max": 1.8,
+          "preco_max": 2.0,
           "unidade": "R$",
           "preco_anterior": 1.5,
           "variacao_pct": 0.0,
@@ -3356,7 +3349,7 @@
           "produto": "TOMATE ITALIANO",
           "preco": 70.0,
           "preco_min": 70.0,
-          "preco_max": 75.0,
+          "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
           "variacao_pct": 0.0,
@@ -3365,13 +3358,13 @@
         },
         {
           "produto": "TOMATE LONGA VIDA",
-          "preco": 70.0,
-          "preco_min": 65.0,
-          "preco_max": 75.0,
+          "preco": 80.0,
+          "preco_min": 70.0,
+          "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3446,9 +3439,9 @@
           "preco_min": 75.0,
           "preco_max": 110.0,
           "unidade": "R$",
-          "preco_anterior": 70.0,
-          "variacao_pct": 28.57,
-          "aumentou": true,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3501,9 +3494,9 @@
           "preco_min": 110.0,
           "preco_max": 110.0,
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 37.5,
-          "aumentou": true,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3532,61 +3525,61 @@
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
       "total_aumentos": 9,
-      "total_diminuicoes": 0,
+      "total_diminuicoes": 4,
       "aumentos": [
         {
-          "produto": "AMEIXA",
-          "preco": 100.0,
-          "preco_anterior": 58.0,
-          "variacao_pct": 72.41
+          "produto": "CEBOLA ROXA(O)",
+          "preco": 80.0,
+          "preco_anterior": 60.0,
+          "variacao_pct": 33.33
         },
         {
-          "produto": "CAJU",
-          "preco": 110.0,
-          "preco_anterior": 75.0,
-          "variacao_pct": 46.67
+          "produto": "PEPINO SALADA",
+          "preco": 60.0,
+          "preco_anterior": 50.0,
+          "variacao_pct": 20.0
         },
         {
-          "produto": "AMORA",
-          "preco": 10.0,
-          "preco_anterior": 7.0,
-          "variacao_pct": 42.86
-        },
-        {
-          "produto": "UVA VITÓRIA",
-          "preco": 110.0,
-          "preco_anterior": 80.0,
-          "variacao_pct": 37.5
-        },
-        {
-          "produto": "UVA NIAGARA",
-          "preco": 90.0,
-          "preco_anterior": 70.0,
-          "variacao_pct": 28.57
-        },
-        {
-          "produto": "BERINJELA",
+          "produto": "ABOBORA MENINA",
           "preco": 40.0,
           "preco_anterior": 35.0,
           "variacao_pct": 14.29
         },
         {
+          "produto": "COUVE-FLOR",
+          "preco": 4.0,
+          "preco_anterior": 3.5,
+          "variacao_pct": 14.29
+        },
+        {
+          "produto": "MELANCIA PINGO DOCE",
+          "preco": 60.0,
+          "preco_anterior": 52.5,
+          "variacao_pct": 14.29
+        },
+        {
+          "produto": "PEPINO JAPONÊS",
+          "preco": 80.0,
+          "preco_anterior": 70.0,
+          "variacao_pct": 14.29
+        },
+        {
+          "produto": "TOMATE LONGA VIDA",
+          "preco": 80.0,
+          "preco_anterior": 70.0,
+          "variacao_pct": 14.29
+        },
+        {
+          "produto": "MELANCIA",
+          "preco": 3.0,
+          "preco_anterior": 2.7,
+          "variacao_pct": 11.11
+        },
+        {
           "produto": "CEBOLA PERA",
-          "preco": 55.0,
-          "preco_anterior": 50.0,
-          "variacao_pct": 10.0
-        },
-        {
-          "produto": "CENOURA",
-          "preco": 130.0,
-          "preco_anterior": 120.0,
-          "variacao_pct": 8.33
-        },
-        {
-          "produto": "COCO SECO",
-          "preco": 64.0,
-          "preco_anterior": 60.0,
-          "variacao_pct": 6.67
+          "preco": 60.0,
+          "preco_anterior": 55.0,
+          "variacao_pct": 9.09
         }
       ]
     },
