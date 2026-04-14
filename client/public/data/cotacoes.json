@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "13/04/2026 16:00",
+  "ultima_atualizacao": "14/04/2026 11:55",
   "estados": [
     {
       "estado": "PR",
@@ -1283,10 +1283,10 @@
           "preco_min": 45.0,
           "preco_max": 48.0,
           "unidade": "R$",
-          "preco_anterior": 48.0,
-          "variacao_pct": -6.25,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "ABOBORA MENINA",
@@ -1294,9 +1294,9 @@
           "preco_min": 35.0,
           "preco_max": 40.0,
           "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1668,10 +1668,10 @@
           "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 90.0,
-          "variacao_pct": -11.11,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BATATA INGLESA",
@@ -1965,9 +1965,9 @@
           "preco_min": 55.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 55.0,
-          "variacao_pct": 9.09,
-          "aumentou": true,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1976,9 +1976,9 @@
           "preco_min": 75.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 33.33,
-          "aumentou": true,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2141,9 +2141,9 @@
           "preco_min": 3.5,
           "preco_max": 4.0,
           "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2691,9 +2691,9 @@
           "preco_min": 2.8,
           "preco_max": 3.0,
           "unidade": "R$",
-          "preco_anterior": 2.7,
-          "variacao_pct": 11.11,
-          "aumentou": true,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2713,9 +2713,9 @@
           "preco_min": 60.0,
           "preco_max": 67.5,
           "unidade": "R$",
-          "preco_anterior": 52.5,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2955,9 +2955,9 @@
           "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 70.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2966,9 +2966,9 @@
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 20.0,
-          "aumentou": true,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3076,10 +3076,10 @@
           "preco_min": 35.0,
           "preco_max": 40.0,
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": -30.0,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTÃO VERMELHO(A)",
@@ -3109,10 +3109,10 @@
           "preco_min": 200.0,
           "preco_max": 240.0,
           "unidade": "R$",
-          "preco_anterior": 260.0,
-          "variacao_pct": -7.69,
+          "preco_anterior": 240.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PITAIA",
@@ -3362,9 +3362,9 @@
           "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 70.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3524,64 +3524,9 @@
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
-      "total_aumentos": 9,
-      "total_diminuicoes": 4,
-      "aumentos": [
-        {
-          "produto": "CEBOLA ROXA(O)",
-          "preco": 80.0,
-          "preco_anterior": 60.0,
-          "variacao_pct": 33.33
-        },
-        {
-          "produto": "PEPINO SALADA",
-          "preco": 60.0,
-          "preco_anterior": 50.0,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "ABOBORA MENINA",
-          "preco": 40.0,
-          "preco_anterior": 35.0,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "COUVE-FLOR",
-          "preco": 4.0,
-          "preco_anterior": 3.5,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "MELANCIA PINGO DOCE",
-          "preco": 60.0,
-          "preco_anterior": 52.5,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "PEPINO JAPONÊS",
-          "preco": 80.0,
-          "preco_anterior": 70.0,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "TOMATE LONGA VIDA",
-          "preco": 80.0,
-          "preco_anterior": 70.0,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "MELANCIA",
-          "preco": 3.0,
-          "preco_anterior": 2.7,
-          "variacao_pct": 11.11
-        },
-        {
-          "produto": "CEBOLA PERA",
-          "preco": 60.0,
-          "preco_anterior": 55.0,
-          "variacao_pct": 9.09
-        }
-      ]
+      "total_aumentos": 0,
+      "total_diminuicoes": 0,
+      "aumentos": []
     },
     {
       "estado": "RS",
