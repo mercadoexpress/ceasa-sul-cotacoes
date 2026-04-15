@@ -18719,5 +18719,1846 @@
         "diminuiu": false
       }
     ]
+  },
+  {
+    "data": "13/04/2026",
+    "cotacoes": [
+      {
+        "produto": "ABACATE AVOCADO cx 3 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACATE FORTUNA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACATE GEADA cx 20 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Londrina": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACATE MANTEIGA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACATE MARGARIDA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 66.0,
+        "variacao_pct": -24.24,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "ABACATE QUINTAL cx 20 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI HAVAI GRAUDO cx 18 kg",
+        "preco": 81.0,
+        "precos_cidades": {
+          "Londrina": 81.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 65.0,
+        "variacao_pct": 24.62,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI HAVAI MEDIO cx 18 kg",
+        "preco": 72.0,
+        "precos_cidades": {
+          "Londrina": 72.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA GRAUDO cx 15 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Londrina": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 75.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA MEDIO cx 15 kg",
+        "preco": 68.0,
+        "precos_cidades": {
+          "Londrina": 68.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 68.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA HOKAIDO/KABOTIA sc 20 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Londrina": 55.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA MENINA/PAULISTA sc 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA MORANGA sc 20 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Londrina": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA BRANCA EXTRA AA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 20.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA VERDE EXTRA A cx 20 kg",
+        "preco": 25.0,
+        "precos_cidades": {
+          "Londrina": 25.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": -37.5,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "AGRIAO mç 400 g",
+        "preco": 3.35,
+        "precos_cidades": {
+          "Londrina": 3.35
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AIPIM-MANDIOCA PRIMEIRA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AIPIM-MANDIOCA TOLETO kg",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Londrina": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALECRIM MAÇO mç 200 g",
+        "preco": 10.0,
+        "precos_cidades": {
+          "Londrina": 10.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE AMERICANA cx 7,5 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": -20.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "ALFACE CRESPA GRANDE cx 7 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 55.0,
+        "variacao_pct": -27.27,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "ALFACE ROXA GRANDE cx 7 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Londrina": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO IMPORTADO BRANCO TP 3 A 4 cx 10 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO PORRO MAÇO 4 UNID mç 2 kg",
+        "preco": 33.0,
+        "precos_cidades": {
+          "Londrina": 33.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 15.0,
+        "variacao_pct": 120.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALMEIRAO PÃO DE AÇUCAR mç 400 g",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Londrina": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA VERMELHA IMPORTADA cx 10 kg",
+        "preco": 122.0,
+        "precos_cidades": {
+          "Londrina": 122.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ASPARGO IMPORTADO mç 500 g",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Londrina": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ATEMOIA cx 18 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Londrina": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 150.0,
+        "variacao_pct": 20.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ATEMOIA 15 UNID cx 3 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Londrina": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ATIPICOS kg",
+        "preco": 10.0,
+        "precos_cidades": {
+          "Londrina": 10.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA CATURRA PRIMEIRA cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA CATURRA SEGUNDA cx 20 kg",
+        "preco": 65.0,
+        "precos_cidades": {
+          "Londrina": 65.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA MAÇA PRIMEIRA cx 20 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Londrina": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA PRATA cx 20 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Londrina": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 130.0,
+        "variacao_pct": -15.38,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BANANA TERRA cx 20 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Londrina": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA CASCA ROSADA ESPECIAL sc 25 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM ESPECIAL sc 25 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Londrina": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": -5.56,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BATATA COMUM MISTA/BONECA sc 25 kg",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Londrina": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 43.0,
+        "variacao_pct": 4.65,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM PRIMEIRINHA sc 25 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE BRANCA EXTRA cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE ROXA EXTRA cx 20 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Londrina": 55.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BERINJELA EXTRA AA cx 12 kg",
+        "preco": 25.0,
+        "precos_cidades": {
+          "Londrina": 25.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA EXTRA AA cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 115.0,
+        "variacao_pct": -13.04,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Londrina": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 15.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI CHOCOLATE cx 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Londrina": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 160.0,
+        "variacao_pct": -25.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "CAQUI FUYU cx 10 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 85.0,
+        "variacao_pct": -41.18,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "CAQUI FUYU cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI TAUBATE cx 8 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": -14.29,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "CARA cx 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Londrina": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CARAMBOLA cx 7 kg",
+        "preco": 68.0,
+        "precos_cidades": {
+          "Londrina": 68.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAXI cx 16 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA PERA sc 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA ROXA sc 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLINHA mç 400 g",
+        "preco": 10.0,
+        "precos_cidades": {
+          "Londrina": 10.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": -60.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Londrina": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 110.0,
+        "variacao_pct": 27.27,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "CHEIRO-VERDE mç 400 g",
+        "preco": 10.0,
+        "precos_cidades": {
+          "Londrina": 10.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": -60.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "CHUCHU EXTRA AA cx 20 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": -33.33,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "COENTRO mç 400 g",
+        "preco": 18.0,
+        "precos_cidades": {
+          "Londrina": 18.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 350.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE BROCOLO dz 6 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 72.0,
+        "variacao_pct": -16.67,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "COUVE CHINESA GRANDE eg 15 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE FLOR GRANDE dz 24 kg",
+        "preco": 84.0,
+        "precos_cidades": {
+          "Londrina": 84.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE MANTEIGA mç 400 g",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Londrina": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.5,
+        "variacao_pct": -28.57,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "ERVILHA PR TORTA cx 12 kg",
+        "preco": 250.0,
+        "precos_cidades": {
+          "Londrina": 250.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ESCAROLA/CHICORIA GRANDE cx 7 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Londrina": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ESPINAFRE mç 400 g",
+        "preco": 4.15,
+        "precos_cidades": {
+          "Londrina": 4.15
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "GENGIBRE PRIMEIRA cx 16 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Londrina": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 240.0,
+        "variacao_pct": -41.67,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "GOIABA VERMELHA  cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": -50.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "HORTELA   mç 200 g",
+        "preco": 8.0,
+        "precos_cidades": {
+          "Londrina": 8.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.0,
+        "variacao_pct": 166.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "INHAME-TAIA PRIMEIRA cx 20 kg",
+        "preco": 130.0,
+        "precos_cidades": {
+          "Londrina": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JABUTICABA   bj 300 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Londrina": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JACA kg",
+        "preco": 2.0,
+        "precos_cidades": {
+          "Londrina": 2.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JILO bj 450 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Londrina": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JILO PRIMEIRA cx 16 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 160.0,
+        "variacao_pct": -62.5,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "KIWI IMPORTADO cx 10 kg",
+        "preco": 244.0,
+        "precos_cidades": {
+          "Londrina": 244.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA LIMA MEDIA cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": -16.67,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "LARANJA PERA GRAUDA cx 20 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Londrina": 55.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 55.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA PERA MEDIA cx 20 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": -33.33,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "LIMAO ROSA cx 20 kg",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Londrina": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO TAHITI GRAUDO cx 23 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 40.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO TAHITI MEDIO cx 23 kg",
+        "preco": 20.0,
+        "precos_cidades": {
+          "Londrina": 20.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA FUJI CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 135.0,
+        "precos_cidades": {
+          "Londrina": 135.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 150.0,
+        "variacao_pct": -10.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MAÇA FUJI CAT 3 TP 100 A 150 cx 18 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Londrina": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 135.0,
+        "precos_cidades": {
+          "Londrina": 135.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 145.0,
+        "variacao_pct": -6.9,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MAÇA GRAND SMITH TP 80 A 100 cx 18 kg",
+        "preco": 230.0,
+        "precos_cidades": {
+          "Londrina": 230.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA RED DELICIOUS TP 80 A 100 cx 19 kg",
+        "preco": 270.0,
+        "precos_cidades": {
+          "Londrina": 270.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO FORMOSA MADURO cx 15 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 105.0,
+        "variacao_pct": -14.29,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
+        "preco": 140.0,
+        "precos_cidades": {
+          "Londrina": 140.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA  PRIMEIRA cx 10 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA PALMER cx 20 kg",
+        "preco": 95.0,
+        "precos_cidades": {
+          "Londrina": 95.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 95.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA TOMMY ATKING cx 20 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Londrina": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 110.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANJERICAO   mç 100 g",
+        "preco": 8.0,
+        "precos_cidades": {
+          "Londrina": 8.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 100.0,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "MARACUJA AZEDO cx 11 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Londrina": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 85.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MARACUJA DOCE cx 2 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Londrina": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAXIXI PRIMEIRA bj 500 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Londrina": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELANCIA REDONDA kg",
+        "preco": 2.8,
+        "precos_cidades": {
+          "Londrina": 2.8
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.8,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Londrina": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 85.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-8 cx 13 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO REI 5 A 7 UN cx 10 kg",
+        "preco": 135.0,
+        "precos_cidades": {
+          "Londrina": 135.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MILHO VERDE BANDEJA C/5 UN bj 1 kg",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Londrina": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 8.5,
+        "variacao_pct": -41.18,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MILHO VERDE SC C/50 ESPIGAS sc c/50 espigas",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Londrina": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MIRTILO cx 2 kg",
+        "preco": 170.0,
+        "precos_cidades": {
+          "Londrina": 170.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Londrina": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "NABO BRANCO mç 3 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "NOZ PECAN kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Londrina": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO BRANCO EXTRA cx c/ 30 dz",
+        "preco": 210.0,
+        "precos_cidades": {
+          "Londrina": 210.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO BRANCO GRANDE cx c/ 30 dz",
+        "preco": 205.0,
+        "precos_cidades": {
+          "Londrina": 205.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": 16.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA A cx 20 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Londrina": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": -33.33,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PERA IMPORTADA PACKHAM´S TP 80 A 100 cx 18 kg",
+        "preco": 240.0,
+        "precos_cidades": {
+          "Londrina": 240.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA PORTUGUESA  cx 10 kg",
+        "preco": 165.0,
+        "precos_cidades": {
+          "Londrina": 165.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Londrina": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 160.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA NACIONAL YARI cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA AMERICANA bj 250 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Londrina": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA AMERICANA cx 12 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA BIQUINHO  bj 250 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Londrina": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA CAMBUCI cx 12 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA CAMBUCI BANDEJA cx 300 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Londrina": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA DEDO DE MOÇA/AR bj 150 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Londrina": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA DEDO DE MOÇA/AR cx 10 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA MALAGUETA  bj 150 g",
+        "preco": 7.0,
+        "precos_cidades": {
+          "Londrina": 7.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 180.0,
+        "variacao_pct": -55.56,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PIMENTÃO VERDE EXTRA A cx 12 kg",
+        "preco": 25.0,
+        "precos_cidades": {
+          "Londrina": 25.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERDE EXTRA AA cx 12 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": -16.67,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PIMENTÃO VERMELHO EXTRA AA cx 12 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 180.0,
+        "variacao_pct": -55.56,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "PITAIA C/12UN cx 4 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Londrina": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "QUIABO bj 300 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Londrina": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "QUIABO PRIMEIRA cx 15 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "RABANETE DZ DE MAÇOS cx 12 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Londrina": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO ROXO eng 25 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Londrina": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 155.0,
+        "variacao_pct": -51.61,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "REPOLHO VERDE GRANDE eng 25 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ROMA IMPORTADA   cx 3 kg",
+        "preco": 158.0,
+        "precos_cidades": {
+          "Londrina": 158.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "RUCULA mç 300 g",
+        "preco": 3.35,
+        "precos_cidades": {
+          "Londrina": 3.35
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.0,
+        "variacao_pct": 11.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "SALSAO (Aipo) mç 2 kg",
+        "preco": 8.0,
+        "precos_cidades": {
+          "Londrina": 8.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 10.0,
+        "variacao_pct": -20.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "SALSINHA mç 400 g",
+        "preco": 10.0,
+        "precos_cidades": {
+          "Londrina": 10.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA CRAVO cx 20 kg",
+        "preco": 94.0,
+        "precos_cidades": {
+          "Londrina": 94.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA MURKOTE GRAUDA cx 23 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA PONKAN GRAUDA cx 20 kg",
+        "preco": 75.0,
+        "precos_cidades": {
+          "Londrina": 75.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 75.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE EXTRA A cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Londrina": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CEREJA  cx 20 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Londrina": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CEREJA BANDEJA bj 200 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Londrina": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": -16.67,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA BENITAKE NACIONAL cx 8 kg",
+        "preco": 76.0,
+        "precos_cidades": {
+          "Londrina": 76.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 88.0,
+        "variacao_pct": -13.64,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA BRASIL/CENTENIA NACIONAL cx 8 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 88.0,
+        "variacao_pct": -9.09,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA ITALIA NACIONAL cx 8 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA NIAGARA ROSADA cx 8 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 64.0,
+        "variacao_pct": 40.62,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA PRETA NACIONAL cx 8 kg",
+        "preco": 72.0,
+        "precos_cidades": {
+          "Londrina": 72.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA RUBI NACIONAL cx 8 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA THOMPSON NACIONAL cx 5 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 90.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA VITORIA NACIONAL cx 5 kg",
+        "preco": 95.0,
+        "precos_cidades": {
+          "Londrina": 95.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "VAGEM BANDEJA bj 300 g",
+        "preco": 3.5,
+        "precos_cidades": {
+          "Londrina": 3.5
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "VAGEM MACARRAO EXTRA AA cx 15 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Londrina": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      }
+    ]
   }
 ]
