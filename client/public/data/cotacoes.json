@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "15/04/2026 11:54",
+  "ultima_atualizacao": "16/04/2026 11:57",
   "estados": [
     {
       "estado": "PR",
@@ -13,8 +13,8 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -25,8 +25,8 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -37,8 +37,8 @@
             "Londrina": 35.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -49,8 +49,8 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -61,10 +61,10 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": 66.0,
-          "variacao_pct": -24.24,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "ABACATE QUINTAL cx 20 kg",
@@ -73,8 +73,8 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -85,9 +85,9 @@
             "Londrina": 81.0
           },
           "unidade": "R$",
-          "preco_anterior": 65.0,
-          "variacao_pct": 24.62,
-          "aumentou": true,
+          "preco_anterior": 81.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -97,8 +97,8 @@
             "Londrina": 72.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 72.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -133,8 +133,8 @@
             "Londrina": 55.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -145,8 +145,8 @@
             "Londrina": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -157,8 +157,8 @@
             "Londrina": 35.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -169,9 +169,9 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 20.0,
-          "aumentou": true,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -181,8 +181,8 @@
             "Londrina": 25.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -193,10 +193,10 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": -37.5,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "AGRIAO mç 400 g",
@@ -205,8 +205,8 @@
             "Londrina": 3.35
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.35,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -217,8 +217,8 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -229,8 +229,8 @@
             "Londrina": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -241,8 +241,8 @@
             "Londrina": 10.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -253,10 +253,10 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": -20.0,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "ALFACE CRESPA GRANDE cx 7 kg",
@@ -265,10 +265,10 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": 55.0,
-          "variacao_pct": -27.27,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "ALFACE ROXA GRANDE cx 7 kg",
@@ -277,8 +277,8 @@
             "Londrina": 35.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -301,9 +301,9 @@
             "Londrina": 33.0
           },
           "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 120.0,
-          "aumentou": true,
+          "preco_anterior": 33.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -313,8 +313,8 @@
             "Londrina": 2.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -325,8 +325,8 @@
             "Londrina": 122.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 122.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -337,8 +337,8 @@
             "Londrina": 45.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -349,9 +349,9 @@
             "Londrina": 180.0
           },
           "unidade": "R$",
-          "preco_anterior": 150.0,
-          "variacao_pct": 20.0,
-          "aumentou": true,
+          "preco_anterior": 180.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -361,8 +361,8 @@
             "Londrina": 85.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -373,8 +373,8 @@
             "Londrina": 10.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -397,8 +397,8 @@
             "Londrina": 65.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 65.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -409,8 +409,8 @@
             "Londrina": 150.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -421,10 +421,10 @@
             "Londrina": 110.0
           },
           "unidade": "R$",
-          "preco_anterior": 130.0,
-          "variacao_pct": -15.38,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BANANA TERRA cx 20 kg",
@@ -433,8 +433,8 @@
             "Londrina": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 140.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -445,8 +445,8 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -457,10 +457,10 @@
             "Londrina": 85.0
           },
           "unidade": "R$",
-          "preco_anterior": 90.0,
-          "variacao_pct": -5.56,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BATATA COMUM MISTA/BONECA sc 25 kg",
@@ -469,9 +469,9 @@
             "Londrina": 45.0
           },
           "unidade": "R$",
-          "preco_anterior": 43.0,
-          "variacao_pct": 4.65,
-          "aumentou": true,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -481,8 +481,8 @@
             "Londrina": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -493,8 +493,8 @@
             "Londrina": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -505,8 +505,8 @@
             "Londrina": 55.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -529,10 +529,10 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": 115.0,
-          "variacao_pct": -13.04,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
@@ -553,10 +553,10 @@
             "Londrina": 120.0
           },
           "unidade": "R$",
-          "preco_anterior": 160.0,
-          "variacao_pct": -25.0,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CAQUI FUYU cx 10 kg",
@@ -565,10 +565,10 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": 85.0,
-          "variacao_pct": -41.18,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CAQUI FUYU cx 20 kg",
@@ -577,8 +577,8 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -589,10 +589,10 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 70.0,
-          "variacao_pct": -14.29,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CARA cx 20 kg",
@@ -601,8 +601,8 @@
             "Londrina": 120.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -613,8 +613,8 @@
             "Londrina": 68.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 68.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -625,8 +625,8 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -661,10 +661,10 @@
             "Londrina": 10.0
           },
           "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": -60.0,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
@@ -673,9 +673,9 @@
             "Londrina": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": 110.0,
-          "variacao_pct": 27.27,
-          "aumentou": true,
+          "preco_anterior": 140.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -685,10 +685,10 @@
             "Londrina": 10.0
           },
           "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": -60.0,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CHUCHU EXTRA AA cx 20 kg",
@@ -697,10 +697,10 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": -33.33,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "COENTRO mç 400 g",
@@ -709,9 +709,9 @@
             "Londrina": 18.0
           },
           "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 350.0,
-          "aumentou": true,
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -721,10 +721,10 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 72.0,
-          "variacao_pct": -16.67,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "COUVE CHINESA GRANDE eg 15 kg",
@@ -733,8 +733,8 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -745,8 +745,8 @@
             "Londrina": 84.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 84.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -757,10 +757,10 @@
             "Londrina": 2.5
           },
           "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": -28.57,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "ERVILHA PR TORTA cx 12 kg",
@@ -769,8 +769,8 @@
             "Londrina": 250.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 250.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -781,8 +781,8 @@
             "Londrina": 30.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -793,8 +793,8 @@
             "Londrina": 4.15
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.15,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -805,10 +805,10 @@
             "Londrina": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": 240.0,
-          "variacao_pct": -41.67,
+          "preco_anterior": 140.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "GOIABA VERMELHA  cx 20 kg",
@@ -817,10 +817,10 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": -50.0,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "HORTELA   mç 200 g",
@@ -829,9 +829,9 @@
             "Londrina": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": 166.67,
-          "aumentou": true,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -841,8 +841,8 @@
             "Londrina": 130.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -853,8 +853,8 @@
             "Londrina": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -865,8 +865,8 @@
             "Londrina": 2.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -877,8 +877,8 @@
             "Londrina": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -889,10 +889,10 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 160.0,
-          "variacao_pct": -62.5,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "KIWI IMPORTADO cx 10 kg",
@@ -901,8 +901,8 @@
             "Londrina": 244.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 244.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -913,10 +913,10 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": -16.67,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "LARANJA PERA GRAUDA cx 20 kg",
@@ -937,10 +937,10 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": -33.33,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "LIMAO ROSA cx 20 kg",
@@ -949,8 +949,8 @@
             "Londrina": 45.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -973,8 +973,8 @@
             "Londrina": 20.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -985,10 +985,10 @@
             "Londrina": 135.0
           },
           "unidade": "R$",
-          "preco_anterior": 150.0,
-          "variacao_pct": -10.0,
+          "preco_anterior": 135.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MAÇA FUJI CAT 3 TP 100 A 150 cx 18 kg",
@@ -997,8 +997,8 @@
             "Londrina": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 140.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1009,10 +1009,10 @@
             "Londrina": 135.0
           },
           "unidade": "R$",
-          "preco_anterior": 145.0,
-          "variacao_pct": -6.9,
+          "preco_anterior": 135.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MAÇA GRAND SMITH TP 80 A 100 cx 18 kg",
@@ -1021,8 +1021,8 @@
             "Londrina": 230.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 230.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1033,8 +1033,8 @@
             "Londrina": 270.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 270.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1045,10 +1045,10 @@
             "Londrina": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": 105.0,
-          "variacao_pct": -14.29,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
@@ -1057,8 +1057,8 @@
             "Londrina": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 140.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1069,8 +1069,8 @@
             "Londrina": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1105,9 +1105,9 @@
             "Londrina": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 100.0,
-          "aumentou": true,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1129,8 +1129,8 @@
             "Londrina": 30.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1141,8 +1141,8 @@
             "Londrina": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1189,8 +1189,8 @@
             "Londrina": 135.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 135.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1201,10 +1201,10 @@
             "Londrina": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": 8.5,
-          "variacao_pct": -41.18,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MILHO VERDE SC C/50 ESPIGAS sc c/50 espigas",
@@ -1213,8 +1213,8 @@
             "Londrina": 30.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1225,8 +1225,8 @@
             "Londrina": 170.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 170.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1237,8 +1237,8 @@
             "Londrina": 35.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1249,8 +1249,8 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1261,8 +1261,8 @@
             "Londrina": 35.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1273,8 +1273,8 @@
             "Londrina": 210.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 210.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1285,8 +1285,8 @@
             "Londrina": 205.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 205.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1297,9 +1297,9 @@
             "Londrina": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1309,8 +1309,8 @@
             "Londrina": 30.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1321,10 +1321,10 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 90.0,
-          "variacao_pct": -33.33,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PERA IMPORTADA PACKHAM´S TP 80 A 100 cx 18 kg",
@@ -1333,8 +1333,8 @@
             "Londrina": 240.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 240.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1345,8 +1345,8 @@
             "Londrina": 165.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 165.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1381,8 +1381,8 @@
             "Londrina": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1393,8 +1393,8 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1405,8 +1405,8 @@
             "Londrina": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1417,8 +1417,8 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1429,8 +1429,8 @@
             "Londrina": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1441,8 +1441,8 @@
             "Londrina": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1453,8 +1453,8 @@
             "Londrina": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1465,8 +1465,8 @@
             "Londrina": 7.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1477,10 +1477,10 @@
             "Londrina": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": 180.0,
-          "variacao_pct": -55.56,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTÃO VERDE EXTRA A cx 12 kg",
@@ -1489,8 +1489,8 @@
             "Londrina": 25.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1501,10 +1501,10 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": -16.67,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTÃO VERMELHO EXTRA AA cx 12 kg",
@@ -1513,10 +1513,10 @@
             "Londrina": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": 180.0,
-          "variacao_pct": -55.56,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PITAIA C/12UN cx 4 kg",
@@ -1525,8 +1525,8 @@
             "Londrina": 30.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1537,8 +1537,8 @@
             "Londrina": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1549,8 +1549,8 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1561,8 +1561,8 @@
             "Londrina": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1573,10 +1573,10 @@
             "Londrina": 75.0
           },
           "unidade": "R$",
-          "preco_anterior": 155.0,
-          "variacao_pct": -51.61,
+          "preco_anterior": 75.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "REPOLHO VERDE GRANDE eng 25 kg",
@@ -1597,8 +1597,8 @@
             "Londrina": 158.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 158.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1609,9 +1609,9 @@
             "Londrina": 3.35
           },
           "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": 11.67,
-          "aumentou": true,
+          "preco_anterior": 3.35,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1621,10 +1621,10 @@
             "Londrina": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": -20.0,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "SALSINHA mç 400 g",
@@ -1633,8 +1633,8 @@
             "Londrina": 10.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1645,8 +1645,8 @@
             "Londrina": 94.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 94.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1657,8 +1657,8 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1681,8 +1681,8 @@
             "Londrina": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1693,8 +1693,8 @@
             "Londrina": 160.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 160.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1705,8 +1705,8 @@
             "Londrina": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1717,10 +1717,10 @@
             "Londrina": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": -16.67,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "UVA BENITAKE NACIONAL cx 8 kg",
@@ -1729,10 +1729,10 @@
             "Londrina": 76.0
           },
           "unidade": "R$",
-          "preco_anterior": 88.0,
-          "variacao_pct": -13.64,
+          "preco_anterior": 76.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "UVA BRASIL/CENTENIA NACIONAL cx 8 kg",
@@ -1741,10 +1741,10 @@
             "Londrina": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": 88.0,
-          "variacao_pct": -9.09,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "UVA ITALIA NACIONAL cx 8 kg",
@@ -1753,8 +1753,8 @@
             "Londrina": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1765,9 +1765,9 @@
             "Londrina": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": 64.0,
-          "variacao_pct": 40.62,
-          "aumentou": true,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1777,8 +1777,8 @@
             "Londrina": 72.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 72.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1789,8 +1789,8 @@
             "Londrina": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1813,8 +1813,8 @@
             "Londrina": 95.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 95.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1825,8 +1825,8 @@
             "Londrina": 3.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1845,87 +1845,14 @@
       ],
       "fonte": "https://celepar7.pr.gov.br/ceasa/hoje.asp",
       "total_produtos": 153,
-      "total_aumentos": 12,
-      "total_diminuicoes": 33,
-      "aumentos": [
-        {
-          "produto": "COENTRO mç 400 g",
-          "preco": 18.0,
-          "preco_anterior": 4.0,
-          "variacao_pct": 350.0
-        },
-        {
-          "produto": "HORTELA   mç 200 g",
-          "preco": 8.0,
-          "preco_anterior": 3.0,
-          "variacao_pct": 166.67
-        },
-        {
-          "produto": "ALHO PORRO MAÇO 4 UNID mç 2 kg",
-          "preco": 33.0,
-          "preco_anterior": 15.0,
-          "variacao_pct": 120.0
-        },
-        {
-          "produto": "MANJERICAO   mç 100 g",
-          "preco": 8.0,
-          "preco_anterior": 4.0,
-          "variacao_pct": 100.0
-        },
-        {
-          "produto": "UVA NIAGARA ROSADA cx 8 kg",
-          "preco": 90.0,
-          "preco_anterior": 64.0,
-          "variacao_pct": 40.62
-        },
-        {
-          "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
-          "preco": 140.0,
-          "preco_anterior": 110.0,
-          "variacao_pct": 27.27
-        },
-        {
-          "produto": "ABACAXI HAVAI GRAUDO cx 18 kg",
-          "preco": 81.0,
-          "preco_anterior": 65.0,
-          "variacao_pct": 24.62
-        },
-        {
-          "produto": "ABOBRINHA BRANCA EXTRA AA cx 20 kg",
-          "preco": 60.0,
-          "preco_anterior": 50.0,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "ATEMOIA cx 18 kg",
-          "preco": 180.0,
-          "preco_anterior": 150.0,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
-          "preco": 70.0,
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.67
-        },
-        {
-          "produto": "RUCULA mç 300 g",
-          "preco": 3.35,
-          "preco_anterior": 3.0,
-          "variacao_pct": 11.67
-        },
-        {
-          "produto": "BATATA COMUM MISTA/BONECA sc 25 kg",
-          "preco": 45.0,
-          "preco_anterior": 43.0,
-          "variacao_pct": 4.65
-        }
-      ]
+      "total_aumentos": 0,
+      "total_diminuicoes": 0,
+      "aumentos": []
     },
     {
       "estado": "SC",
       "nome": "CEASA Santa Catarina",
-      "data": "14/04/2026",
+      "data": "15/04/2026",
       "cotacoes": [
         {
           "produto": "ABACATE",
@@ -2041,7 +1968,7 @@
           "produto": "AIPIM",
           "preco": 60.0,
           "preco_min": 60.0,
-          "preco_max": 60.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
           "variacao_pct": 0.0,
@@ -2116,14 +2043,14 @@
         },
         {
           "produto": "ALHO NOBRE",
-          "preco": 115.0,
-          "preco_min": 115.0,
-          "preco_max": 125.0,
+          "preco": 110.0,
+          "preco_min": 110.0,
+          "preco_max": 120.0,
           "unidade": "R$",
           "preco_anterior": 115.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -4.35,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "ALHO PORÓ",
@@ -2208,10 +2135,10 @@
           "preco_min": 0.45,
           "preco_max": 40.0,
           "unidade": "R$",
-          "preco_anterior": 38.0,
-          "variacao_pct": -7.89,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "AÇAFRÃO",
@@ -2238,7 +2165,7 @@
         {
           "produto": "AÇÚCAR MASCAVO",
           "preco": 12.0,
-          "preco_min": 10.0,
+          "preco_min": 12.0,
           "preco_max": 12.0,
           "unidade": "R$",
           "preco_anterior": 12.0,
@@ -2294,7 +2221,7 @@
           "produto": "BANHA",
           "preco": 13.0,
           "preco_min": 13.0,
-          "preco_max": 13.5,
+          "preco_max": 13.9,
           "unidade": "R$",
           "preco_anterior": 13.0,
           "variacao_pct": 0.0,
@@ -2326,8 +2253,8 @@
         {
           "produto": "BATATA DOCE",
           "preco": 60.0,
-          "preco_min": 50.0,
-          "preco_max": 60.0,
+          "preco_min": 60.0,
+          "preco_max": 65.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
           "variacao_pct": 0.0,
@@ -2338,7 +2265,7 @@
           "produto": "BATATA DOCE PAULISTA",
           "preco": 70.0,
           "preco_min": 70.0,
-          "preco_max": 70.0,
+          "preco_max": 75.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
           "variacao_pct": 0.0,
@@ -2414,7 +2341,7 @@
         {
           "produto": "BEBIDAS ALCOOLICAS VINHO",
           "preco": 49.9,
-          "preco_min": 49.0,
+          "preco_min": 45.0,
           "preco_max": 49.9,
           "unidade": "R$",
           "preco_anterior": 49.9,
@@ -2425,7 +2352,7 @@
         {
           "produto": "BERINJELA",
           "preco": 40.0,
-          "preco_min": 35.0,
+          "preco_min": 30.0,
           "preco_max": 40.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
@@ -2481,11 +2408,11 @@
           "produto": "BRÓCOLIS CHINÊS",
           "preco": 4.0,
           "preco_min": 3.5,
-          "preco_max": 4.5,
+          "preco_max": 4.0,
           "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2568,8 +2495,8 @@
         {
           "produto": "CARNES CHARQUE",
           "preco": 51.9,
-          "preco_min": 50.0,
-          "preco_max": 55.0,
+          "preco_min": 51.9,
+          "preco_max": 52.5,
           "unidade": "R$",
           "preco_anterior": 51.9,
           "variacao_pct": 0.0,
@@ -2579,8 +2506,8 @@
         {
           "produto": "CARNES COSTELA",
           "preco": 38.9,
-          "preco_min": 36.9,
-          "preco_max": 40.0,
+          "preco_min": 36.5,
+          "preco_max": 38.9,
           "unidade": "R$",
           "preco_anterior": 38.9,
           "variacao_pct": 0.0,
@@ -2601,8 +2528,8 @@
         {
           "produto": "CARNES LINGUIÇAS",
           "preco": 34.0,
-          "preco_min": 33.9,
-          "preco_max": 34.0,
+          "preco_min": 33.0,
+          "preco_max": 34.5,
           "unidade": "R$",
           "preco_anterior": 34.0,
           "variacao_pct": 0.0,
@@ -2648,10 +2575,10 @@
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": -8.33,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CEBOLA ROXA(O)",
@@ -2690,7 +2617,7 @@
           "produto": "CENOURA",
           "preco": 130.0,
           "preco_min": 130.0,
-          "preco_max": 140.0,
+          "preco_max": 130.0,
           "unidade": "R$",
           "preco_anterior": 130.0,
           "variacao_pct": 0.0,
@@ -2821,7 +2748,7 @@
         {
           "produto": "COUVE-FLOR",
           "preco": 4.0,
-          "preco_min": 3.5,
+          "preco_min": 4.0,
           "preco_max": 4.5,
           "unidade": "R$",
           "preco_anterior": 4.0,
@@ -2854,8 +2781,8 @@
         {
           "produto": "FARINHA MANDIOCA",
           "preco": 9.0,
-          "preco_min": 6.5,
-          "preco_max": 12.0,
+          "preco_min": 9.0,
+          "preco_max": 9.0,
           "unidade": "R$",
           "preco_anterior": 9.0,
           "variacao_pct": 0.0,
@@ -2876,7 +2803,7 @@
         {
           "produto": "FEIJÃO BRANCO(A)",
           "preco": 360.0,
-          "preco_min": 300.0,
+          "preco_min": 330.0,
           "preco_max": 360.0,
           "unidade": "R$",
           "preco_anterior": 360.0,
@@ -2886,13 +2813,13 @@
         },
         {
           "produto": "FEIJÃO CARIOCA",
-          "preco": 180.0,
+          "preco": 200.0,
           "preco_min": 180.0,
-          "preco_max": 225.0,
+          "preco_max": 200.0,
           "unidade": "R$",
           "preco_anterior": 180.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 11.11,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2908,14 +2835,14 @@
         },
         {
           "produto": "FEIJÃO VERMELHO(A)",
-          "preco": 250.0,
-          "preco_min": 240.0,
-          "preco_max": 260.0,
+          "preco": 220.0,
+          "preco_min": 220.0,
+          "preco_max": 220.0,
           "unidade": "R$",
           "preco_anterior": 250.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -12.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "FIGO ROXA(O)",
@@ -3250,7 +3177,7 @@
         {
           "produto": "MANTEIGA",
           "preco": 38.0,
-          "preco_min": 30.0,
+          "preco_min": 38.0,
           "preco_max": 38.0,
           "unidade": "R$",
           "preco_anterior": 38.0,
@@ -3262,7 +3189,7 @@
           "produto": "MARACUJÁ AZEDO",
           "preco": 65.0,
           "preco_min": 60.0,
-          "preco_max": 75.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 65.0,
           "variacao_pct": 0.0,
@@ -3349,8 +3276,8 @@
         {
           "produto": "MEL",
           "preco": 32.0,
-          "preco_min": 30.0,
-          "preco_max": 33.0,
+          "preco_min": 32.0,
+          "preco_max": 32.5,
           "unidade": "R$",
           "preco_anterior": 32.0,
           "variacao_pct": 0.0,
@@ -3360,7 +3287,7 @@
         {
           "produto": "MELADO",
           "preco": 10.0,
-          "preco_min": 10.0,
+          "preco_min": 9.0,
           "preco_max": 10.0,
           "unidade": "R$",
           "preco_anterior": 10.0,
@@ -3449,7 +3376,7 @@
           "produto": "MILHO VERDE",
           "preco": 5.0,
           "preco_min": 5.0,
-          "preco_max": 6.0,
+          "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 5.0,
           "variacao_pct": 0.0,
@@ -3513,20 +3440,20 @@
         },
         {
           "produto": "OVOS BRANCO(A)",
-          "preco": 230.0,
-          "preco_min": 210.0,
-          "preco_max": 230.0,
+          "preco": 210.0,
+          "preco_min": 200.0,
+          "preco_max": 210.0,
           "unidade": "R$",
           "preco_anterior": 230.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -8.7,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "OVOS CAIPIRA",
           "preco": 320.0,
-          "preco_min": 300.0,
-          "preco_max": 340.0,
+          "preco_min": 320.0,
+          "preco_max": 330.0,
           "unidade": "R$",
           "preco_anterior": 320.0,
           "variacao_pct": 0.0,
@@ -3537,7 +3464,7 @@
           "produto": "OVOS CODORNA",
           "preco": 6.0,
           "preco_min": 6.0,
-          "preco_max": 6.5,
+          "preco_max": 6.0,
           "unidade": "R$",
           "preco_anterior": 6.0,
           "variacao_pct": 0.0,
@@ -3546,14 +3473,14 @@
         },
         {
           "produto": "OVOS VERMELHO(A)",
-          "preco": 8.33,
+          "preco": 8.0,
           "preco_min": 8.0,
           "preco_max": 8.33,
           "unidade": "R$",
           "preco_anterior": 8.33,
-          "variacao_pct": 0.0,
+          "variacao_pct": -3.96,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "PHYSALIS",
@@ -3570,7 +3497,7 @@
           "produto": "PAES/DOCES BOLACHA",
           "preco": 20.0,
           "preco_min": 20.0,
-          "preco_max": 22.0,
+          "preco_max": 20.0,
           "unidade": "R$",
           "preco_anterior": 20.0,
           "variacao_pct": 0.0,
@@ -3580,8 +3507,8 @@
         {
           "produto": "PAES/DOCES BOLO",
           "preco": 12.0,
-          "preco_min": 11.0,
-          "preco_max": 12.0,
+          "preco_min": 12.0,
+          "preco_max": 12.5,
           "unidade": "R$",
           "preco_anterior": 12.0,
           "variacao_pct": 0.0,
@@ -3603,7 +3530,7 @@
           "produto": "PAES/DOCES PAO",
           "preco": 7.0,
           "preco_min": 7.0,
-          "preco_max": 7.0,
+          "preco_max": 8.0,
           "unidade": "R$",
           "preco_anterior": 7.0,
           "variacao_pct": 0.0,
@@ -3646,8 +3573,8 @@
         {
           "produto": "PEPINO SALADA",
           "preco": 60.0,
-          "preco_min": 50.0,
-          "preco_max": 60.0,
+          "preco_min": 55.0,
+          "preco_max": 65.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
           "variacao_pct": 0.0,
@@ -3748,21 +3675,21 @@
           "preco_min": 130.0,
           "preco_max": 140.0,
           "unidade": "R$",
-          "preco_anterior": 150.0,
-          "variacao_pct": -6.67,
+          "preco_anterior": 140.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTÃO VERDE",
-          "preco": 40.0,
-          "preco_min": 40.0,
-          "preco_max": 50.0,
+          "preco": 35.0,
+          "preco_min": 30.0,
+          "preco_max": 35.0,
           "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
-          "diminuiu": false
+          "preco_anterior": 40.0,
+          "variacao_pct": -12.5,
+          "aumentou": false,
+          "diminuiu": true
         },
         {
           "produto": "PIMENTÃO VERMELHO(A)",
@@ -3789,8 +3716,8 @@
         {
           "produto": "PINHÃO",
           "preco": 240.0,
-          "preco_min": 220.0,
-          "preco_max": 260.0,
+          "preco_min": 200.0,
+          "preco_max": 240.0,
           "unidade": "R$",
           "preco_anterior": 240.0,
           "variacao_pct": 0.0,
@@ -3821,24 +3748,24 @@
         },
         {
           "produto": "QUEIJO COLONIAL",
-          "preco": 35.0,
+          "preco": 37.0,
           "preco_min": 35.0,
-          "preco_max": 35.8,
+          "preco_max": 37.0,
           "unidade": "R$",
           "preco_anterior": 35.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 5.71,
+          "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "QUEIJO PRATO",
-          "preco": 35.0,
-          "preco_min": 35.0,
-          "preco_max": 35.0,
+          "preco": 37.0,
+          "preco_min": 37.0,
+          "preco_max": 37.0,
           "unidade": "R$",
           "preco_anterior": 35.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 5.71,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3888,8 +3815,8 @@
         {
           "produto": "REPOLHO VERDE",
           "preco": 4.0,
-          "preco_min": 4.0,
-          "preco_max": 5.0,
+          "preco_min": 3.8,
+          "preco_max": 4.5,
           "unidade": "R$",
           "preco_anterior": 4.0,
           "variacao_pct": 0.0,
@@ -3922,7 +3849,7 @@
           "produto": "SALSA",
           "preco": 1.5,
           "preco_min": 1.5,
-          "preco_max": 1.8,
+          "preco_max": 2.0,
           "unidade": "R$",
           "preco_anterior": 1.5,
           "variacao_pct": 0.0,
@@ -4030,23 +3957,23 @@
         },
         {
           "produto": "TOMATE ITALIANO",
-          "preco": 70.0,
-          "preco_min": 70.0,
-          "preco_max": 80.0,
+          "preco": 65.0,
+          "preco_min": 60.0,
+          "preco_max": 65.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -7.14,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "TOMATE LONGA VIDA",
-          "preco": 70.0,
-          "preco_min": 70.0,
-          "preco_max": 80.0,
+          "preco": 60.0,
+          "preco_min": 60.0,
+          "preco_max": 70.0,
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": -12.5,
+          "preco_anterior": 70.0,
+          "variacao_pct": -14.29,
           "aumentou": false,
           "diminuiu": true
         },
@@ -4207,20 +4134,26 @@
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
-      "total_aumentos": 2,
-      "total_diminuicoes": 4,
+      "total_aumentos": 3,
+      "total_diminuicoes": 7,
       "aumentos": [
         {
-          "produto": "BRÓCOLIS CHINÊS",
-          "preco": 4.0,
-          "preco_anterior": 3.5,
-          "variacao_pct": 14.29
+          "produto": "FEIJÃO CARIOCA",
+          "preco": 200.0,
+          "preco_anterior": 180.0,
+          "variacao_pct": 11.11
         },
         {
-          "produto": "PIMENTÃO VERDE",
-          "preco": 40.0,
+          "produto": "QUEIJO COLONIAL",
+          "preco": 37.0,
           "preco_anterior": 35.0,
-          "variacao_pct": 14.29
+          "variacao_pct": 5.71
+        },
+        {
+          "produto": "QUEIJO PRATO",
+          "preco": 37.0,
+          "preco_anterior": 35.0,
+          "variacao_pct": 5.71
         }
       ]
     },
