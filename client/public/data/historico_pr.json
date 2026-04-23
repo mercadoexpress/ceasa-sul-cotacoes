@@ -9,263 +9,6 @@
           "Cascavel": 11.0
         },
         "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
-        "preco": 80.0,
-        "precos_cidades": {
-          "Cascavel": 80.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "BATATA COMUM ESPECIAL sc 25 kg",
-        "preco": 90.0,
-        "precos_cidades": {
-          "Cascavel": 90.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "BATATA COMUM PRIMEIRINHA sc 25 kg",
-        "preco": 55.0,
-        "precos_cidades": {
-          "Cascavel": 55.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "BATATA DOCE ROXA EXTRA cx 20 kg",
-        "preco": 90.0,
-        "precos_cidades": {
-          "Cascavel": 90.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "BETERRABA EXTRA AA cx 20 kg",
-        "preco": 120.0,
-        "precos_cidades": {
-          "Cascavel": 120.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "CARA cx 20 kg",
-        "preco": 220.0,
-        "precos_cidades": {
-          "Cascavel": 220.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "CHUCHU EXTRA AA cx 20 kg",
-        "preco": 64.0,
-        "precos_cidades": {
-          "Cascavel": 64.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "GENGIBRE PRIMEIRA cx 16 kg",
-        "preco": 256.0,
-        "precos_cidades": {
-          "Cascavel": 256.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "INHAME-TAIA PRIMEIRA cx 20 kg",
-        "preco": 220.0,
-        "precos_cidades": {
-          "Cascavel": 220.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "KIWI IMPORTADO cx 10 kg",
-        "preco": 320.0,
-        "precos_cidades": {
-          "Cascavel": 320.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MAMAO FORMOSA MADURO cx 15 kg",
-        "preco": 135.0,
-        "precos_cidades": {
-          "Cascavel": 135.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MANGA TOMMY ATKING cx 20 kg",
-        "preco": 124.0,
-        "precos_cidades": {
-          "Cascavel": 124.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MELANCIA REDONDA kg",
-        "preco": 2.3,
-        "precos_cidades": {
-          "Cascavel": 2.3
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
-        "preco": 110.0,
-        "precos_cidades": {
-          "Cascavel": 110.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
-        "preco": 130.0,
-        "precos_cidades": {
-          "Cascavel": 130.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "REPOLHO VERDE GRANDE eng 25 kg",
-        "preco": 88.0,
-        "precos_cidades": {
-          "Cascavel": 88.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "TANGERINA PONKAN MEDIA cx 20 kg",
-        "preco": 110.0,
-        "precos_cidades": {
-          "Cascavel": 110.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "TOMATE LONGA VIDA EXTRA A cx 20 kg",
-        "preco": 90.0,
-        "precos_cidades": {
-          "Cascavel": 90.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
-        "preco": 166.0,
-        "precos_cidades": {
-          "Cascavel": 166.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "VAGEM MACARRAO EXTRA AA cx 15 kg",
-        "preco": 225.0,
-        "precos_cidades": {
-          "Cascavel": 225.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      }
-    ]
-  },
-  {
-    "data": "16/03/2026",
-    "cotacoes": [
-      {
-        "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
-        "preco": 11.0,
-        "precos_cidades": {
-          "Cascavel": 11.0
-        },
-        "unidade": "R$",
         "preco_anterior": 11.0,
         "variacao_pct": 0.0,
         "aumentou": false,
@@ -25215,6 +24958,2519 @@
         "unidade": "R$",
         "preco_anterior": null,
         "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "VAGEM MACARRAO EXTRA AA cx 15 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      }
+    ]
+  },
+  {
+    "data": "17/04/2026",
+    "cotacoes": [
+      {
+        "produto": "ABACATE FORTUNA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Curitiba": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACATE GEADA cx 20 kg",
+        "preco": 26.67,
+        "precos_cidades": {
+          "Curitiba": 26.67
+        },
+        "unidade": "R$",
+        "preco_anterior": 26.67,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI HAVAI GRAUDO cx 18 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Curitiba": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA GRAUDO cx 15 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA GRAUDO un 1,8 kg",
+        "preco": 8.0,
+        "precos_cidades": {
+          "Curitiba": 8.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 8.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
+        "preco": 7.0,
+        "precos_cidades": {
+          "Curitiba": 7.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 7.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA HOKAIDO/KABOTIA sc 20 kg",
+        "preco": 28.57,
+        "precos_cidades": {
+          "Curitiba": 28.57
+        },
+        "unidade": "R$",
+        "preco_anterior": 28.57,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA MENINA/PAULISTA sc 20 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA MORANGA sc 20 kg",
+        "preco": 28.0,
+        "precos_cidades": {
+          "Curitiba": 28.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 28.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA BJ C/3 A 4 UN bj 500 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA BRANCA EXTRA AA cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Curitiba": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBRINHA VERDE EXTRA A cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Curitiba": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AÇAFRÃO CURCUMA  bj 300 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AGRIAO mç 400 g",
+        "preco": 1.88,
+        "precos_cidades": {
+          "Curitiba": 1.88
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.88,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AGRIÃO HIDROPONICO pc 300 g",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Curitiba": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AIPIM-MANDIOCA PRIMEIRA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AIPIM-MANDIOCA SEGUNDA cx 20 kg",
+        "preco": 12.5,
+        "precos_cidades": {
+          "Curitiba": 12.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 12.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AIPIM-MANDIOCA TOLETO kg",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE AMERICANA cx 7,5 kg",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Curitiba": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 15.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE AMERICANA BANDEJA C/2 UN bj 500 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE CRESPA GRANDE cx 7 kg",
+        "preco": 10.59,
+        "precos_cidades": {
+          "Curitiba": 10.59
+        },
+        "unidade": "R$",
+        "preco_anterior": 10.59,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE FRISÉE  cx 7 kg",
+        "preco": 20.0,
+        "precos_cidades": {
+          "Curitiba": 20.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 20.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE LISA GRANDE cx 7 kg",
+        "preco": 23.86,
+        "precos_cidades": {
+          "Curitiba": 23.86
+        },
+        "unidade": "R$",
+        "preco_anterior": 23.86,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE ROXA GRANDE cx 7 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Curitiba": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 30.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFAFA BROTO mç 150 g",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO IMPORTADO BRANCO TP 3 A 4 cx 10 kg",
+        "preco": 31.64,
+        "precos_cidades": {
+          "Curitiba": 31.64
+        },
+        "unidade": "R$",
+        "preco_anterior": 31.64,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO NACIONAL  DESCASCADO pc 1 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO NACIONAL ROXO TP 3 A 4 cx 10 kg",
+        "preco": 37.5,
+        "precos_cidades": {
+          "Curitiba": 37.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 37.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALHO PORRO MAÇO 4 UNID mç 2 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALMEIRAO C. ESPADA mç 300 g",
+        "preco": 1.0,
+        "precos_cidades": {
+          "Curitiba": 1.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALMEIRAO PÃO DE AÇUCAR mç 400 g",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA VERMELHA cx 18 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA VERMELHA IMPORTADA cx 10 kg",
+        "preco": 66.0,
+        "precos_cidades": {
+          "Curitiba": 66.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 66.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMENDOIM COM CASCA sc 25 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ASPARGO IMPORTADO mç 500 g",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ATEMOIA cx 18 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA CATURRA PRIMEIRA cx 20 kg",
+        "preco": 12.06,
+        "precos_cidades": {
+          "Curitiba": 12.06
+        },
+        "unidade": "R$",
+        "preco_anterior": 12.06,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA CATURRA SEGUNDA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA PRATA cx 20 kg",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Curitiba": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 15.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA TERRA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA CASCA ROSADA ESPECIAL sc 25 kg",
+        "preco": 25.0,
+        "precos_cidades": {
+          "Curitiba": 25.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM ESPECIAL sc 25 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM MISTA/BONECA sc 25 kg",
+        "preco": 22.5,
+        "precos_cidades": {
+          "Curitiba": 22.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 22.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA COMUM PRIMEIRINHA sc 25 kg",
+        "preco": 16.0,
+        "precos_cidades": {
+          "Curitiba": 16.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 16.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA YAKON cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE BANDEJA C/3 A 4 bj 750 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Curitiba": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE BRANCA EXTRA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE LARANJA  cx 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Curitiba": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BATATA DOCE ROXA EXTRA cx 20 kg",
+        "preco": 4.56,
+        "precos_cidades": {
+          "Curitiba": 4.56
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.56,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BERINJELA BANDEJA C/3 UN bj 450 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BERINJELA EXTRA A cx 12 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BERINJELA EXTRA AA cx 12 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA cx 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Curitiba": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA BANDEJA bj 750 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA EXTRA A cx 20 kg",
+        "preco": 8.65,
+        "precos_cidades": {
+          "Curitiba": 8.65
+        },
+        "unidade": "R$",
+        "preco_anterior": 8.65,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA EXTRA AA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI FUYU cx 10 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI FUYU cx 20 kg",
+        "preco": 26.0,
+        "precos_cidades": {
+          "Curitiba": 26.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 26.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI TAUBATE cx 8 kg",
+        "preco": 13.33,
+        "precos_cidades": {
+          "Curitiba": 13.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 13.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CARA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CARAMBOLA cx 3 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAXI cx 16 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLA PERA sc 20 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Curitiba": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 30.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CEBOLINHA mç 400 g",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CENOURA BABY cx 10 kg",
+        "preco": 300.0,
+        "precos_cidades": {
+          "Curitiba": 300.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 300.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CENOURA COMUM BANDEJA bj 500 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CENOURA COMUM EXTRA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Curitiba": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 60.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CENOURA COMUM EXTRA A cx 20 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Curitiba": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 85.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Curitiba": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CHEIRO-VERDE mç 400 g",
+        "preco": 2.0,
+        "precos_cidades": {
+          "Curitiba": 2.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CHUCHU EXTRA A cx 20 kg",
+        "preco": 5.56,
+        "precos_cidades": {
+          "Curitiba": 5.56
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.56,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CHUCHU EXTRA AA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COCO SECO sc 14 kg",
+        "preco": 25.0,
+        "precos_cidades": {
+          "Curitiba": 25.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 25.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COCO VERDE un 1,5 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COENTRO mç 400 g",
+        "preco": 1.25,
+        "precos_cidades": {
+          "Curitiba": 1.25
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.25,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE BROCOLO dz 6 kg",
+        "preco": 21.43,
+        "precos_cidades": {
+          "Curitiba": 21.43
+        },
+        "unidade": "R$",
+        "preco_anterior": 21.43,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE BROCOLO mç 500 g",
+        "preco": 1.33,
+        "precos_cidades": {
+          "Curitiba": 1.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE CHINESA un 1,5 kg",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Curitiba": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE CHINESA GRANDE eg 15 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE CHINESA  MEDIO eg 15 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE FLOR un 1,5 kg",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE FLOR MEDIA dz 20 kg",
+        "preco": 9.0,
+        "precos_cidades": {
+          "Curitiba": 9.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 9.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE MANTEIGA mç 400 g",
+        "preco": 0.73,
+        "precos_cidades": {
+          "Curitiba": 0.73
+        },
+        "unidade": "R$",
+        "preco_anterior": 0.73,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ERVA DOCE mç 400 g",
+        "preco": 7.0,
+        "precos_cidades": {
+          "Curitiba": 7.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 7.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ERVILHA TORTA bj 200 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ESCAROLA/CHICORIA BANDEJA bj 300 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ESCAROLA/CHICORIA GRANDE cx 7 kg",
+        "preco": 20.0,
+        "precos_cidades": {
+          "Curitiba": 20.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 20.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ESPINAFRE mç 400 g",
+        "preco": 1.25,
+        "precos_cidades": {
+          "Curitiba": 1.25
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.25,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "FIGO ROXO cx 1,5 kg",
+        "preco": 20.0,
+        "precos_cidades": {
+          "Curitiba": 20.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 20.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "FRAMBOESA cx 2 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "GENGIBRE bj 250 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "GENGIBRE PRIMEIRA cx 16 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "GOIABA VERMELHA  cx 20 kg",
+        "preco": 73.33,
+        "precos_cidades": {
+          "Curitiba": 73.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 73.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "HORTELA bj 50 g",
+        "preco": 1.25,
+        "precos_cidades": {
+          "Curitiba": 1.25
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.25,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "INHAME-TAIA PRIMEIRA cx 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Curitiba": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JABUTICABA cx 3 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JILO bj 450 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JILO PRIMEIRA cx 16 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "JILO SEGUNDA cx 16 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "KIWI IMPORTADO cx 10 kg",
+        "preco": 133.33,
+        "precos_cidades": {
+          "Curitiba": 133.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 133.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "KIWI NACIONAL cx 8 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA BAHIA GRAUDA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA BAHIA IMPORTADA cx 18 kg",
+        "preco": 31.43,
+        "precos_cidades": {
+          "Curitiba": 31.43
+        },
+        "unidade": "R$",
+        "preco_anterior": 31.43,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA LIMA GRAUDA cx 20 kg",
+        "preco": 55.0,
+        "precos_cidades": {
+          "Curitiba": 55.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 55.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA PERA GRAUDA cx 20 kg",
+        "preco": 29.33,
+        "precos_cidades": {
+          "Curitiba": 29.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 29.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA PERA MEDIA cx 20 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Curitiba": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMA PERSIA cx 23 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Curitiba": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMÃO IMPORTADO cx 20 kg",
+        "preco": 227.0,
+        "precos_cidades": {
+          "Curitiba": 227.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 227.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO ROSA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO TAHITI GRAUDO cx 23 kg",
+        "preco": 33.65,
+        "precos_cidades": {
+          "Curitiba": 33.65
+        },
+        "unidade": "R$",
+        "preco_anterior": 33.65,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LIMAO TAHITI MEDIO cx 23 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LOURO mç 500 g",
+        "preco": 8.0,
+        "precos_cidades": {
+          "Curitiba": 8.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 8.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA FUJI CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 15.56,
+        "precos_cidades": {
+          "Curitiba": 15.56
+        },
+        "unidade": "R$",
+        "preco_anterior": 15.56,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 20.0,
+        "precos_cidades": {
+          "Curitiba": 20.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 20.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GRAND SMITH TP 80 A 100 cx 18 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Curitiba": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA RED DELICIOUS TP 80 A 100 cx 19 kg",
+        "preco": 40.0,
+        "precos_cidades": {
+          "Curitiba": 40.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 40.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO FORMOSA kg",
+        "preco": 4.33,
+        "precos_cidades": {
+          "Curitiba": 4.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO FORMOSA MADURO cx 15 kg",
+        "preco": 53.41,
+        "precos_cidades": {
+          "Curitiba": 53.41
+        },
+        "unidade": "R$",
+        "preco_anterior": 53.41,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAMAO PAPAYA/HAVAI cx 8 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA bj 450 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
+        "preco": 20.0,
+        "precos_cidades": {
+          "Curitiba": 20.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 20.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 8 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANDIOQUINHA/BATATA SALSA  SACOLA cx 5 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA ESPADA ROSA cx 6 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA PALMER cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA TOMMY ATKING cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MARACUJA AZEDO cx 12 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Curitiba": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELANCIA BABY cx 10 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELANCIA REDONDA kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
+        "preco": 85.0,
+        "precos_cidades": {
+          "Curitiba": 85.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 85.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO PELE DE SAPO 5-6-8-10 UN cx 13 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MILHO VERDE BANDEJA C/4 UN bj 750 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MILHO VERDE SC C/50 ESPIGAS sc c/50 espigas",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MIRTILO cx 2 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
+        "preco": 11.69,
+        "precos_cidades": {
+          "Curitiba": 11.69
+        },
+        "unidade": "R$",
+        "preco_anterior": 11.69,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MOSTARDA mç 400 g",
+        "preco": 1.0,
+        "precos_cidades": {
+          "Curitiba": 1.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ORA-PRO-NOBIS bj 50 g",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Curitiba": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OREGANO BANDEJA bj 50 g",
+        "preco": 1.5,
+        "precos_cidades": {
+          "Curitiba": 1.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO BRANCO EXTRA cx c/ 30 dz",
+        "preco": 117.87,
+        "precos_cidades": {
+          "Curitiba": 117.87
+        },
+        "unidade": "R$",
+        "preco_anterior": 117.87,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO BRANCO GRANDE cx c/ 30 dz",
+        "preco": 125.49,
+        "precos_cidades": {
+          "Curitiba": 125.49
+        },
+        "unidade": "R$",
+        "preco_anterior": 125.49,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO BRANCO MEDIO cx c/ 30 dz",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO CODORNA cx c/ 50 dz",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "OVO VERMELHO EXTRA cx c/ 30 dz",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PALMITO PUPUNHA PEÇA un 2 kg",
+        "preco": 15.0,
+        "precos_cidades": {
+          "Curitiba": 15.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 15.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO AODAI/SALADA EXTRA A cx 20 kg",
+        "preco": 13.33,
+        "precos_cidades": {
+          "Curitiba": 13.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 13.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO CONSERVA EXTRA A cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA A cx 20 kg",
+        "preco": 10.0,
+        "precos_cidades": {
+          "Curitiba": 10.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 10.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
+        "preco": 22.5,
+        "precos_cidades": {
+          "Curitiba": 22.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 22.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA PACKHAM´S TP 80 A 100 cx 18 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Curitiba": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA NACIONAL YARI cx 10 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA NACIONAL YARI cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PHISALIS VELUVA cx 1,5 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA AMERICANA bj 250 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA BIQUINHO  bj 250 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA CAMBUCI cx 12 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA CAMBUCI BANDEJA cx 300 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA DEDO DE MOÇA/AR bj 150 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTA MALAGUETA  bj 150 g",
+        "preco": 10.0,
+        "precos_cidades": {
+          "Curitiba": 10.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 10.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
+        "preco": 32.5,
+        "precos_cidades": {
+          "Curitiba": 32.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 32.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO COLORIDO EXTRA AA cx 12 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Curitiba": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 120.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERDE BANDEJA bj 300 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERDE EXTRA A cx 12 kg",
+        "preco": 24.0,
+        "precos_cidades": {
+          "Curitiba": 24.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 24.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERDE EXTRA AA cx 12 kg",
+        "preco": 35.0,
+        "precos_cidades": {
+          "Curitiba": 35.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 35.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PIMENTÃO VERMELHO EXTRA A cx 12 kg",
+        "preco": 22.5,
+        "precos_cidades": {
+          "Curitiba": 22.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 22.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PINHA (FRUTA DO CONDE) cx 3 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PINHAO kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PITAIA C/12UN cx 4 kg",
+        "preco": 50.0,
+        "precos_cidades": {
+          "Curitiba": 50.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 50.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "QUEIJO SOJA TUFU pç 500 g",
+        "preco": 14.0,
+        "precos_cidades": {
+          "Curitiba": 14.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 14.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "QUIABO bj 300 g",
+        "preco": 4.0,
+        "precos_cidades": {
+          "Curitiba": 4.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 4.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "QUIABO PRIMEIRA cx 15 kg",
+        "preco": 33.33,
+        "precos_cidades": {
+          "Curitiba": 33.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 33.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "RABANETE MAÇO mç 1 kg",
+        "preco": 3.0,
+        "precos_cidades": {
+          "Curitiba": 3.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 3.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO ROXO eng 25 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Curitiba": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 30.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO VERDE CABEÇA MEDIA cb 2 kg",
+        "preco": 1.0,
+        "precos_cidades": {
+          "Curitiba": 1.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "REPOLHO VERDE GRANDE eng 25 kg",
+        "preco": 31.43,
+        "precos_cidades": {
+          "Curitiba": 31.43
+        },
+        "unidade": "R$",
+        "preco_anterior": 31.43,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "RUCULA mç 300 g",
+        "preco": 1.07,
+        "precos_cidades": {
+          "Curitiba": 1.07
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.07,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "RUCULA HIDROPONICA mç 300 g",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Curitiba": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "SALSAO (Aipo) mç 2 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "SALSINHA mç 400 g",
+        "preco": 2.14,
+        "precos_cidades": {
+          "Curitiba": 2.14
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.14,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "SALVIA bj 50 g",
+        "preco": 1.5,
+        "precos_cidades": {
+          "Curitiba": 1.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA IMPORTADA cx 10 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Curitiba": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA MIMOSA/MEXERICA COMUM cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA MURKOTE GRAUDA cx 23 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA PONKAN MEDIA cx 20 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE EXTRA A cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Curitiba": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE EXTRA AA cx 20 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Curitiba": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 110.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CAQUI/SALADA EXTRA AA cx 2 kg",
+        "preco": 11.5,
+        "precos_cidades": {
+          "Curitiba": 11.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 11.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CEREJA  cx 20 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Curitiba": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 150.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CEREJA BANDEJA bj 200 g",
+        "preco": 1.33,
+        "precos_cidades": {
+          "Curitiba": 1.33
+        },
+        "unidade": "R$",
+        "preco_anterior": 1.33,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CEREJA BANDEJA bj 450 g",
+        "preco": 2.5,
+        "precos_cidades": {
+          "Curitiba": 2.5
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.5,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE CEREJA EXTRA AA cx 3 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE HOLANDES  bj 500 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE HOLANDES EXTRA AA cx 8 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE LONGA VIDA EXTRA A cx 20 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Curitiba": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 80.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE LONGA VIDA EXTRA AA cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Curitiba": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+        "preco": 110.0,
+        "precos_cidades": {
+          "Curitiba": 110.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 110.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMILHO bj 50 g",
+        "preco": 2.0,
+        "precos_cidades": {
+          "Curitiba": 2.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 2.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA CRINSON NACIONAL cx 5 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA MOSCATEL IMPORTADA cx 9 kg",
+        "preco": 130.0,
+        "precos_cidades": {
+          "Curitiba": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 130.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA NIAGARA ROSADA cx 8 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA REDGLO IMPORTADA cx 9 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA RUBI NACIONAL cx 8 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA THOMPSON NACIONAL cx 5 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA VITORIA NACIONAL cx 5 kg",
+        "preco": 0.0,
+        "precos_cidades": {
+          "Curitiba": 0.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "VAGEM BANDEJA bj 300 g",
+        "preco": 5.0,
+        "precos_cidades": {
+          "Curitiba": 5.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 5.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "VAGEM MACARRAO EXTRA A cx 15 kg",
+        "preco": 32.0,
+        "precos_cidades": {
+          "Curitiba": 32.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 32.0,
+        "variacao_pct": 0.0,
         "aumentou": false,
         "diminuiu": false
       },

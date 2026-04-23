@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "22/04/2026 11:58",
+  "ultima_atualizacao": "23/04/2026 11:57",
   "estados": [
     {
       "estado": "PR",
@@ -2524,7 +2524,7 @@
     {
       "estado": "SC",
       "nome": "CEASA Santa Catarina",
-      "data": "17/04/2026",
+      "data": "22/04/2026",
       "cotacoes": [
         {
           "produto": "ABACATE",
@@ -2550,13 +2550,13 @@
         },
         {
           "produto": "ABOBORA ABOBRINHA ITALIANA",
-          "preco": 60.0,
+          "preco": 70.0,
           "preco_min": 60.0,
           "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 60.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 16.67,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2605,14 +2605,14 @@
         },
         {
           "produto": "ACELGA",
-          "preco": 5.0,
-          "preco_min": 4.0,
+          "preco": 4.0,
+          "preco_min": 3.5,
           "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -20.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "ACEROLA",
@@ -2848,7 +2848,7 @@
         {
           "produto": "BANANA BRANCO(A)",
           "preco": 75.0,
-          "preco_min": 70.0,
+          "preco_min": 65.0,
           "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 75.0,
@@ -2935,14 +2935,14 @@
         },
         {
           "produto": "BATATA DOCE PAULISTA",
-          "preco": 70.0,
+          "preco": 65.0,
           "preco_min": 65.0,
-          "preco_max": 75.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -7.14,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BATATA IACON COMERCIAL",
@@ -2957,13 +2957,13 @@
         },
         {
           "produto": "BATATA INGLESA",
-          "preco": 40.0,
-          "preco_min": 36.0,
-          "preco_max": 50.0,
+          "preco": 50.0,
+          "preco_min": 50.0,
+          "preco_max": 55.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 25.0,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2979,13 +2979,13 @@
         },
         {
           "produto": "BATATA INGLESA ROSA",
-          "preco": 80.0,
-          "preco_min": 80.0,
-          "preco_max": 90.0,
+          "preco": 100.0,
+          "preco_min": 95.0,
+          "preco_max": 105.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 25.0,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3023,14 +3023,14 @@
         },
         {
           "produto": "BERINJELA",
-          "preco": 40.0,
-          "preco_min": 35.0,
+          "preco": 35.0,
+          "preco_min": 30.0,
           "preco_max": 40.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -12.5,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BETERRABA",
@@ -3078,14 +3078,14 @@
         },
         {
           "produto": "BRÓCOLIS CHINÊS",
-          "preco": 3.5,
-          "preco_min": 3.5,
-          "preco_max": 4.0,
+          "preco": 3.0,
+          "preco_min": 3.0,
+          "preco_max": 3.5,
           "unidade": "R$",
           "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
+          "variacao_pct": -14.29,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "BRÓCOLIS RAMOSO",
@@ -3254,14 +3254,14 @@
         },
         {
           "produto": "CEBOLA ROXA(O)",
-          "preco": 80.0,
-          "preco_min": 75.0,
+          "preco": 70.0,
+          "preco_min": 60.0,
           "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -12.5,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "CEBOLINHA",
@@ -3320,14 +3320,14 @@
         },
         {
           "produto": "CHUCHU",
-          "preco": 40.0,
+          "preco": 35.0,
           "preco_min": 35.0,
           "preco_max": 40.0,
           "unidade": "R$",
           "preco_anterior": 40.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -12.5,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "CHUCHU MINI",
@@ -3419,13 +3419,13 @@
         },
         {
           "produto": "COUVE-FLOR",
-          "preco": 4.0,
+          "preco": 4.5,
           "preco_min": 4.0,
-          "preco_max": 4.5,
+          "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 4.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 12.5,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3474,20 +3474,20 @@
         },
         {
           "produto": "FEIJÃO BRANCO(A)",
-          "preco": 360.0,
-          "preco_min": 330.0,
+          "preco": 330.0,
+          "preco_min": 300.0,
           "preco_max": 360.0,
           "unidade": "R$",
           "preco_anterior": 360.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -8.33,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "FEIJÃO CARIOCA",
           "preco": 200.0,
           "preco_min": 180.0,
-          "preco_max": 200.0,
+          "preco_max": 220.0,
           "unidade": "R$",
           "preco_anterior": 200.0,
           "variacao_pct": 0.0,
@@ -3497,8 +3497,8 @@
         {
           "produto": "FEIJÃO PRETO",
           "preco": 135.0,
-          "preco_min": 130.0,
-          "preco_max": 135.0,
+          "preco_min": 125.0,
+          "preco_max": 150.0,
           "unidade": "R$",
           "preco_anterior": 135.0,
           "variacao_pct": 0.0,
@@ -3507,13 +3507,13 @@
         },
         {
           "produto": "FEIJÃO VERMELHO(A)",
-          "preco": 220.0,
-          "preco_min": 220.0,
-          "preco_max": 220.0,
+          "preco": 240.0,
+          "preco_min": 240.0,
+          "preco_max": 260.0,
           "unidade": "R$",
           "preco_anterior": 220.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 9.09,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3969,13 +3969,13 @@
         },
         {
           "produto": "MELANCIA",
-          "preco": 3.0,
-          "preco_min": 2.8,
-          "preco_max": 3.0,
+          "preco": 3.2,
+          "preco_min": 3.0,
+          "preco_max": 3.2,
           "unidade": "R$",
           "preco_anterior": 3.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 6.67,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -4057,14 +4057,14 @@
         },
         {
           "produto": "MORANGO",
-          "preco": 30.0,
-          "preco_min": 28.0,
-          "preco_max": 35.0,
+          "preco": 25.0,
+          "preco_min": 25.0,
+          "preco_max": 30.0,
           "unidade": "R$",
           "preco_anterior": 30.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -16.67,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "MOSTARDA EM FOLHA",
@@ -4113,7 +4113,7 @@
         {
           "produto": "OVOS BRANCO(A)",
           "preco": 210.0,
-          "preco_min": 200.0,
+          "preco_min": 210.0,
           "preco_max": 210.0,
           "unidade": "R$",
           "preco_anterior": 210.0,
@@ -4123,20 +4123,20 @@
         },
         {
           "produto": "OVOS CAIPIRA",
-          "preco": 320.0,
-          "preco_min": 320.0,
-          "preco_max": 330.0,
+          "preco": 330.0,
+          "preco_min": 300.0,
+          "preco_max": 340.0,
           "unidade": "R$",
           "preco_anterior": 320.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 3.12,
+          "aumentou": true,
           "diminuiu": false
         },
         {
           "produto": "OVOS CODORNA",
           "preco": 6.0,
           "preco_min": 6.0,
-          "preco_max": 6.0,
+          "preco_max": 6.5,
           "unidade": "R$",
           "preco_anterior": 6.0,
           "variacao_pct": 0.0,
@@ -4146,7 +4146,7 @@
         {
           "produto": "OVOS VERMELHO(A)",
           "preco": 8.0,
-          "preco_min": 8.0,
+          "preco_min": 7.33,
           "preco_max": 8.33,
           "unidade": "R$",
           "preco_anterior": 8.0,
@@ -4389,7 +4389,7 @@
           "produto": "PINHÃO",
           "preco": 200.0,
           "preco_min": 200.0,
-          "preco_max": 240.0,
+          "preco_max": 220.0,
           "unidade": "R$",
           "preco_anterior": 200.0,
           "variacao_pct": 0.0,
@@ -4487,8 +4487,8 @@
         {
           "produto": "REPOLHO VERDE",
           "preco": 4.0,
-          "preco_min": 3.5,
-          "preco_max": 4.0,
+          "preco_min": 4.0,
+          "preco_max": 4.5,
           "unidade": "R$",
           "preco_anterior": 4.0,
           "variacao_pct": 0.0,
@@ -4629,25 +4629,25 @@
         },
         {
           "produto": "TOMATE ITALIANO",
-          "preco": 65.0,
-          "preco_min": 60.0,
-          "preco_max": 65.0,
-          "unidade": "R$",
-          "preco_anterior": 65.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TOMATE LONGA VIDA",
           "preco": 60.0,
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": 65.0,
+          "variacao_pct": -7.69,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
+        },
+        {
+          "produto": "TOMATE LONGA VIDA",
+          "preco": 50.0,
+          "preco_min": 45.0,
+          "preco_max": 60.0,
+          "unidade": "R$",
+          "preco_anterior": 60.0,
+          "variacao_pct": -16.67,
+          "aumentou": false,
+          "diminuiu": true
         },
         {
           "produto": "TOMILHO",
@@ -4806,9 +4806,52 @@
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
-      "total_aumentos": 0,
-      "total_diminuicoes": 0,
-      "aumentos": []
+      "total_aumentos": 7,
+      "total_diminuicoes": 10,
+      "aumentos": [
+        {
+          "produto": "BATATA INGLESA",
+          "preco": 50.0,
+          "preco_anterior": 40.0,
+          "variacao_pct": 25.0
+        },
+        {
+          "produto": "BATATA INGLESA ROSA",
+          "preco": 100.0,
+          "preco_anterior": 80.0,
+          "variacao_pct": 25.0
+        },
+        {
+          "produto": "ABOBORA ABOBRINHA ITALIANA",
+          "preco": 70.0,
+          "preco_anterior": 60.0,
+          "variacao_pct": 16.67
+        },
+        {
+          "produto": "COUVE-FLOR",
+          "preco": 4.5,
+          "preco_anterior": 4.0,
+          "variacao_pct": 12.5
+        },
+        {
+          "produto": "FEIJÃO VERMELHO(A)",
+          "preco": 240.0,
+          "preco_anterior": 220.0,
+          "variacao_pct": 9.09
+        },
+        {
+          "produto": "MELANCIA",
+          "preco": 3.2,
+          "preco_anterior": 3.0,
+          "variacao_pct": 6.67
+        },
+        {
+          "produto": "OVOS CAIPIRA",
+          "preco": 330.0,
+          "preco_anterior": 320.0,
+          "variacao_pct": 3.12
+        }
+      ]
     },
     {
       "estado": "RS",
