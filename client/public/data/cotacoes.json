@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "05/05/2026 11:59",
+  "ultima_atualizacao": "06/05/2026 12:26",
   "estados": [
     {
       "estado": "PR",
@@ -13,8 +13,8 @@
             "Curitiba": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -49,8 +49,8 @@
             "Curitiba": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -61,8 +61,8 @@
             "Curitiba": 45.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -73,8 +73,8 @@
             "Curitiba": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -147,9 +147,9 @@
             "Curitiba": 26.25
           },
           "unidade": "R$",
-          "preco_anterior": 23.33,
-          "variacao_pct": 12.52,
-          "aumentou": true,
+          "preco_anterior": 26.25,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -171,8 +171,8 @@
             "Curitiba": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -207,8 +207,8 @@
             "Curitiba": 2.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -231,8 +231,8 @@
             "Curitiba": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -243,8 +243,8 @@
             "Curitiba": 16.67
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 16.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -255,8 +255,8 @@
             "Curitiba": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -267,8 +267,8 @@
             "Curitiba": 2.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -291,8 +291,8 @@
             "Curitiba": 20.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -303,8 +303,8 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -327,9 +327,9 @@
             "Curitiba": 21.43
           },
           "unidade": "R$",
-          "preco_anterior": 18.75,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 21.43,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -339,8 +339,8 @@
             "Curitiba": 10.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 10.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -375,8 +375,8 @@
             "Curitiba": 16.67
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 16.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -411,8 +411,8 @@
             "Curitiba": 18.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -435,8 +435,8 @@
             "Curitiba": 6.67
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.67,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -447,9 +447,9 @@
             "Curitiba": 1.33
           },
           "unidade": "R$",
-          "preco_anterior": 1.0,
-          "variacao_pct": 33.0,
-          "aumentou": true,
+          "preco_anterior": 1.33,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -459,8 +459,8 @@
             "Curitiba": 120.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -483,8 +483,8 @@
             "Curitiba": 28.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 28.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -508,10 +508,10 @@
             "Londrina": 26.8
           },
           "unidade": "R$",
-          "preco_anterior": 26.8,
-          "variacao_pct": -55.22,
+          "preco_anterior": 12.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BANANA CATURRA PRIMEIRA cx 20 kg",
@@ -569,8 +569,8 @@
             "Curitiba": 6.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -581,8 +581,8 @@
             "Curitiba": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -593,9 +593,9 @@
             "Curitiba": 52.5
           },
           "unidade": "R$",
-          "preco_anterior": 49.5,
-          "variacao_pct": 6.06,
-          "aumentou": true,
+          "preco_anterior": 52.5,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -605,9 +605,9 @@
             "Curitiba": 30.63
           },
           "unidade": "R$",
-          "preco_anterior": 26.25,
-          "variacao_pct": 16.69,
-          "aumentou": true,
+          "preco_anterior": 30.63,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -617,8 +617,8 @@
             "Curitiba": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -641,8 +641,8 @@
             "Curitiba": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -677,8 +677,8 @@
             "Curitiba": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -715,8 +715,8 @@
             "Curitiba": 150.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -800,8 +800,8 @@
             "Curitiba": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -812,9 +812,9 @@
             "Curitiba": 80.75
           },
           "unidade": "R$",
-          "preco_anterior": 77.27,
-          "variacao_pct": 4.5,
-          "aumentou": true,
+          "preco_anterior": 80.75,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -824,9 +824,9 @@
             "Curitiba": 3.33
           },
           "unidade": "R$",
-          "preco_anterior": 2.5,
-          "variacao_pct": 33.2,
-          "aumentou": true,
+          "preco_anterior": 3.33,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -836,8 +836,8 @@
             "Curitiba": 18.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -885,8 +885,8 @@
             "Curitiba": 2.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -909,8 +909,8 @@
             "Curitiba": 12.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -933,9 +933,9 @@
             "Curitiba": 31.5
           },
           "unidade": "R$",
-          "preco_anterior": 17.5,
-          "variacao_pct": 80.0,
-          "aumentou": true,
+          "preco_anterior": 31.5,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -945,8 +945,8 @@
             "Curitiba": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -994,8 +994,8 @@
             "Curitiba": 30.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1018,8 +1018,8 @@
             "Curitiba": 45.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1030,9 +1030,9 @@
             "Curitiba": 1.5
           },
           "unidade": "R$",
-          "preco_anterior": 1.0,
-          "variacao_pct": 50.0,
-          "aumentou": true,
+          "preco_anterior": 1.5,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1042,8 +1042,8 @@
             "Curitiba": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1054,8 +1054,8 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1066,8 +1066,8 @@
             "Curitiba": 125.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 125.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1078,8 +1078,8 @@
             "Curitiba": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1090,8 +1090,8 @@
             "Curitiba": 12.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 12.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1102,9 +1102,9 @@
             "Curitiba": 2.08
           },
           "unidade": "R$",
-          "preco_anterior": 1.25,
-          "variacao_pct": 66.4,
-          "aumentou": true,
+          "preco_anterior": 2.08,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1138,8 +1138,8 @@
             "Curitiba": 15.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 15.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1186,8 +1186,8 @@
             "Curitiba": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1332,8 +1332,8 @@
             "Curitiba": 150.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1344,8 +1344,8 @@
             "Curitiba": 20.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1357,9 +1357,9 @@
             "Londrina": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": 140.0,
-          "variacao_pct": 21.43,
-          "aumentou": true,
+          "preco_anterior": 170.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1382,8 +1382,8 @@
             "Curitiba": 50.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1468,8 +1468,8 @@
             "Curitiba": 4.66
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.66,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1516,9 +1516,9 @@
             "Curitiba": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 46.67,
-          "variacao_pct": 28.56,
-          "aumentou": true,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1528,8 +1528,8 @@
             "Curitiba": 17.75
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 17.75,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1565,8 +1565,8 @@
             "Curitiba": 55.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1625,9 +1625,9 @@
             "Curitiba": 69.64
           },
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.07,
-          "aumentou": true,
+          "preco_anterior": 69.64,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1650,8 +1650,8 @@
             "Curitiba": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1663,9 +1663,9 @@
             "Londrina": 2.9
           },
           "unidade": "R$",
-          "preco_anterior": 2.9,
-          "variacao_pct": 3.45,
-          "aumentou": true,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1725,8 +1725,8 @@
             "Curitiba": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1761,8 +1761,8 @@
             "Curitiba": 130.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1773,9 +1773,9 @@
             "Curitiba": 22.06
           },
           "unidade": "R$",
-          "preco_anterior": 16.67,
-          "variacao_pct": 32.33,
-          "aumentou": true,
+          "preco_anterior": 22.06,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1797,8 +1797,8 @@
             "Curitiba": 25.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 25.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1809,8 +1809,8 @@
             "Curitiba": 7.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1821,8 +1821,8 @@
             "Curitiba": 190.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 190.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1845,8 +1845,8 @@
             "Curitiba": 230.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 230.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1869,8 +1869,8 @@
             "Curitiba": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1881,9 +1881,9 @@
             "Curitiba": 56.47
           },
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 12.94,
-          "aumentou": true,
+          "preco_anterior": 56.47,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1893,9 +1893,9 @@
             "Curitiba": 68.57
           },
           "unidade": "R$",
-          "preco_anterior": 40.0,
-          "variacao_pct": 71.42,
-          "aumentou": true,
+          "preco_anterior": 68.57,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1905,8 +1905,8 @@
             "Curitiba": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1953,8 +1953,8 @@
             "Curitiba": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1977,8 +1977,8 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2014,8 +2014,8 @@
             "Curitiba": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2026,8 +2026,8 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2050,8 +2050,8 @@
             "Curitiba": 7.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2062,8 +2062,8 @@
             "Curitiba": 120.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2074,9 +2074,9 @@
             "Curitiba": 45.0
           },
           "unidade": "R$",
-          "preco_anterior": 37.5,
-          "variacao_pct": 20.0,
-          "aumentou": true,
+          "preco_anterior": 45.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2110,8 +2110,8 @@
             "Curitiba": 13.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 13.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2134,9 +2134,9 @@
             "Curitiba": 56.0
           },
           "unidade": "R$",
-          "preco_anterior": 46.67,
-          "variacao_pct": 19.99,
-          "aumentou": true,
+          "preco_anterior": 56.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2158,8 +2158,8 @@
             "Curitiba": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2183,8 +2183,8 @@
             "Curitiba": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2195,8 +2195,8 @@
             "Curitiba": 30.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2207,8 +2207,8 @@
             "Curitiba": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2219,8 +2219,8 @@
             "Curitiba": 2.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2281,10 +2281,10 @@
             "Londrina": 60.0
           },
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": -16.67,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "REPOLHO VERDE MEDIO eng 25 kg",
@@ -2293,9 +2293,9 @@
             "Curitiba": 44.44
           },
           "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 77.76,
-          "aumentou": true,
+          "preco_anterior": 44.44,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2305,8 +2305,8 @@
             "Curitiba": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2329,9 +2329,9 @@
             "Curitiba": 2.14
           },
           "unidade": "R$",
-          "preco_anterior": 1.87,
-          "variacao_pct": 14.44,
-          "aumentou": true,
+          "preco_anterior": 2.14,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2353,8 +2353,8 @@
             "Curitiba": 7.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2365,8 +2365,8 @@
             "Curitiba": 2.5
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2377,8 +2377,8 @@
             "Curitiba": 230.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 230.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2427,8 +2427,8 @@
             "Curitiba": 40.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2476,8 +2476,8 @@
             "Curitiba": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2500,8 +2500,8 @@
             "Curitiba": 20.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 20.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2512,8 +2512,8 @@
             "Curitiba": 130.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2549,9 +2549,9 @@
             "Londrina": 130.0
           },
           "unidade": "R$",
-          "preco_anterior": 130.0,
-          "variacao_pct": 15.38,
-          "aumentou": true,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2561,8 +2561,8 @@
             "Curitiba": 2.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2585,8 +2585,8 @@
             "Curitiba": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2634,8 +2634,8 @@
             "Curitiba": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2646,8 +2646,8 @@
             "Curitiba": 130.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2694,8 +2694,8 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2706,8 +2706,8 @@
             "Curitiba": 80.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -2726,147 +2726,14 @@
       ],
       "fonte": "https://celepar7.pr.gov.br/ceasa/hoje.asp",
       "total_produtos": 224,
-      "total_aumentos": 22,
-      "total_diminuicoes": 2,
-      "aumentos": [
-        {
-          "produto": "COUVE BROCOLO dz 6 kg",
-          "preco": 31.5,
-          "preco_anterior": 17.5,
-          "variacao_pct": 80.0
-        },
-        {
-          "produto": "REPOLHO VERDE MEDIO eng 25 kg",
-          "preco": 44.44,
-          "preco_anterior": 25.0,
-          "variacao_pct": 77.76
-        },
-        {
-          "produto": "PEPINO JAPONES EXTRA A cx 20 kg",
-          "preco": 68.57,
-          "preco_anterior": 40.0,
-          "variacao_pct": 71.42
-        },
-        {
-          "produto": "ESPINAFRE mç 400 g",
-          "preco": 2.08,
-          "preco_anterior": 1.25,
-          "variacao_pct": 66.4
-        },
-        {
-          "produto": "COUVE MANTEIGA mç 400 g",
-          "preco": 1.5,
-          "preco_anterior": 1.0,
-          "variacao_pct": 50.0
-        },
-        {
-          "produto": "CHEIRO-VERDE mç 400 g",
-          "preco": 3.33,
-          "preco_anterior": 2.5,
-          "variacao_pct": 33.2
-        },
-        {
-          "produto": "ALMEIRAO C. ESPADA mç 300 g",
-          "preco": 1.33,
-          "preco_anterior": 1.0,
-          "variacao_pct": 33.0
-        },
-        {
-          "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
-          "preco": 22.06,
-          "preco_anterior": 16.67,
-          "variacao_pct": 32.33
-        },
-        {
-          "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
-          "preco": 60.0,
-          "preco_anterior": 46.67,
-          "variacao_pct": 28.56
-        },
-        {
-          "produto": "LIMAO SICILIANO  cx 15 kg",
-          "preco": 170.0,
-          "preco_anterior": 140.0,
-          "variacao_pct": 21.43
-        },
-        {
-          "produto": "PIMENTÃO VERDE EXTRA A cx 12 kg",
-          "preco": 45.0,
-          "preco_anterior": 37.5,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "PITAIA C/12UN cx 4 kg",
-          "preco": 56.0,
-          "preco_anterior": 46.67,
-          "variacao_pct": 19.99
-        },
-        {
-          "produto": "BERINJELA EXTRA A cx 12 kg",
-          "preco": 30.63,
-          "preco_anterior": 26.25,
-          "variacao_pct": 16.69
-        },
-        {
-          "produto": "MARACUJA AZEDO cx 12 kg",
-          "preco": 69.64,
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.07
-        },
-        {
-          "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
-          "preco": 150.0,
-          "preco_anterior": 130.0,
-          "variacao_pct": 15.38
-        },
-        {
-          "produto": "RUCULA mç 300 g",
-          "preco": 2.14,
-          "preco_anterior": 1.87,
-          "variacao_pct": 14.44
-        },
-        {
-          "produto": "ALFACE CRESPA GRANDE cx 7 kg",
-          "preco": 21.43,
-          "preco_anterior": 18.75,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "PEPINO AODAI/SALADA EXTRA A cx 20 kg",
-          "preco": 56.47,
-          "preco_anterior": 50.0,
-          "variacao_pct": 12.94
-        },
-        {
-          "produto": "ABOBORA MENINA/PAULISTA sc 20 kg",
-          "preco": 26.25,
-          "preco_anterior": 23.33,
-          "variacao_pct": 12.52
-        },
-        {
-          "produto": "BATATA DOCE ROXA EXTRA cx 20 kg",
-          "preco": 52.5,
-          "preco_anterior": 49.5,
-          "variacao_pct": 6.06
-        },
-        {
-          "produto": "CENOURA COMUM EXTRA A cx 20 kg",
-          "preco": 80.75,
-          "preco_anterior": 77.27,
-          "variacao_pct": 4.5
-        },
-        {
-          "produto": "MELANCIA REDONDA kg",
-          "preco": 3.0,
-          "preco_anterior": 2.9,
-          "variacao_pct": 3.45
-        }
-      ]
+      "total_aumentos": 0,
+      "total_diminuicoes": 0,
+      "aumentos": []
     },
     {
       "estado": "SC",
       "nome": "CEASA Santa Catarina",
-      "data": "04/05/2026",
+      "data": "05/05/2026",
       "cotacoes": [
         {
           "produto": "ABACATE",
@@ -2940,16 +2807,16 @@
           "preco_min": 35.0,
           "preco_max": 40.0,
           "unidade": "R$",
-          "preco_anterior": 40.0,
-          "variacao_pct": -12.5,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "ACELGA",
           "preco": 4.0,
           "preco_min": 3.0,
-          "preco_max": 4.0,
+          "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 4.0,
           "variacao_pct": 0.0,
@@ -3028,9 +2895,9 @@
           "preco_min": 1.5,
           "preco_max": 2.0,
           "unidade": "R$",
-          "preco_anterior": 1.8,
-          "variacao_pct": 11.11,
-          "aumentou": true,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3039,9 +2906,9 @@
           "preco_min": 1.8,
           "preco_max": 2.0,
           "unidade": "R$",
-          "preco_anterior": 1.8,
-          "variacao_pct": 11.11,
-          "aumentou": true,
+          "preco_anterior": 2.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3094,9 +2961,9 @@
           "preco_min": 105.0,
           "preco_max": 135.0,
           "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 25.0,
-          "aumentou": true,
+          "preco_anterior": 125.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3279,7 +3146,7 @@
           "produto": "BATATA DOCE PAULISTA",
           "preco": 65.0,
           "preco_min": 60.0,
-          "preco_max": 65.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 65.0,
           "variacao_pct": 0.0,
@@ -3303,9 +3170,9 @@
           "preco_min": 60.0,
           "preco_max": 70.0,
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 40.0,
-          "aumentou": true,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3325,9 +3192,9 @@
           "preco_min": 120.0,
           "preco_max": 130.0,
           "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 30.0,
-          "aumentou": true,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3366,12 +3233,12 @@
         {
           "produto": "BERINJELA",
           "preco": 40.0,
-          "preco_min": 30.0,
-          "preco_max": 40.0,
+          "preco_min": 35.0,
+          "preco_max": 50.0,
           "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 40.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3586,12 +3453,12 @@
         {
           "produto": "CEBOLA PERA",
           "preco": 70.0,
-          "preco_min": 65.0,
+          "preco_min": 60.0,
           "preco_max": 70.0,
           "unidade": "R$",
-          "preco_anterior": 55.0,
-          "variacao_pct": 27.27,
-          "aumentou": true,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3600,9 +3467,9 @@
           "preco_min": 75.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 75.0,
-          "variacao_pct": 6.67,
-          "aumentou": true,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3633,10 +3500,10 @@
           "preco_min": 110.0,
           "preco_max": 120.0,
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": -8.33,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CEREJA",
@@ -3666,9 +3533,9 @@
           "preco_min": 30.0,
           "preco_max": 35.0,
           "unidade": "R$",
-          "preco_anterior": 30.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3762,12 +3629,12 @@
         {
           "produto": "COUVE-FLOR",
           "preco": 7.0,
-          "preco_min": 7.0,
-          "preco_max": 7.5,
+          "preco_min": 6.0,
+          "preco_max": 7.0,
           "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 40.0,
-          "aumentou": true,
+          "preco_anterior": 7.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3908,9 +3775,9 @@
           "preco_min": 50.0,
           "preco_max": 58.0,
           "unidade": "R$",
-          "preco_anterior": 45.0,
-          "variacao_pct": 11.11,
-          "aumentou": true,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -4106,10 +3973,10 @@
           "preco_min": 48.0,
           "preco_max": 55.0,
           "unidade": "R$",
-          "preco_anterior": 55.0,
-          "variacao_pct": -9.09,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MAMÃO FORMOSA",
@@ -4128,9 +3995,9 @@
           "preco_min": 75.0,
           "preco_max": 85.0,
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 6.25,
-          "aumentou": true,
+          "preco_anterior": 85.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -4315,10 +4182,10 @@
           "preco_min": 3.2,
           "preco_max": 3.2,
           "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": -8.57,
+          "preco_anterior": 3.2,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MELANCIA KODAMA",
@@ -4390,7 +4257,7 @@
           "produto": "MILHO VERDE",
           "preco": 5.0,
           "preco_min": 5.0,
-          "preco_max": 5.0,
+          "preco_max": 6.0,
           "unidade": "R$",
           "preco_anterior": 5.0,
           "variacao_pct": 0.0,
@@ -4399,12 +4266,12 @@
         },
         {
           "produto": "MORANGO",
-          "preco": 30.0,
-          "preco_min": 25.0,
-          "preco_max": 35.0,
+          "preco": 35.0,
+          "preco_min": 30.0,
+          "preco_max": 38.0,
           "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 20.0,
+          "preco_anterior": 30.0,
+          "variacao_pct": 16.67,
           "aumentou": true,
           "diminuiu": false
         },
@@ -4458,10 +4325,10 @@
           "preco_min": 190.0,
           "preco_max": 200.0,
           "unidade": "R$",
-          "preco_anterior": 210.0,
-          "variacao_pct": -4.76,
+          "preco_anterior": 200.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "OVOS CAIPIRA",
@@ -4579,15 +4446,15 @@
           "preco_min": 110.0,
           "preco_max": 120.0,
           "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 20.0,
-          "aumentou": true,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "PEPINO SALADA",
           "preco": 70.0,
-          "preco_min": 60.0,
+          "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
@@ -4667,9 +4534,9 @@
           "preco_min": 130.0,
           "preco_max": 130.0,
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": 8.33,
-          "aumentou": true,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -4731,7 +4598,7 @@
           "produto": "PINHÃO",
           "preco": 200.0,
           "preco_min": 180.0,
-          "preco_max": 200.0,
+          "preco_max": 220.0,
           "unidade": "R$",
           "preco_anterior": 200.0,
           "variacao_pct": 0.0,
@@ -4784,13 +4651,13 @@
         },
         {
           "produto": "QUIABO",
-          "preco": 4.0,
+          "preco": 5.0,
           "preco_min": 4.0,
-          "preco_max": 5.0,
+          "preco_max": 6.0,
           "unidade": "R$",
           "preco_anterior": 4.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 25.0,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -4817,13 +4684,13 @@
         },
         {
           "produto": "REPOLHO ROXA(O)",
-          "preco": 4.5,
+          "preco": 5.0,
           "preco_min": 4.0,
           "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 4.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 11.11,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -4863,7 +4730,7 @@
           "produto": "SALSA",
           "preco": 1.5,
           "preco_min": 1.5,
-          "preco_max": 2.0,
+          "preco_max": 1.8,
           "unidade": "R$",
           "preco_anterior": 1.5,
           "variacao_pct": 0.0,
@@ -4920,9 +4787,9 @@
           "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 70.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 80.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -4972,12 +4839,12 @@
         {
           "produto": "TOMATE ITALIANO",
           "preco": 70.0,
-          "preco_min": 60.0,
-          "preco_max": 70.0,
+          "preco_min": 70.0,
+          "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -4986,9 +4853,9 @@
           "preco_min": 70.0,
           "preco_max": 80.0,
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -5063,9 +4930,9 @@
           "preco_min": 110.0,
           "preco_max": 125.0,
           "unidade": "R$",
-          "preco_anterior": 115.0,
-          "variacao_pct": 8.7,
-          "aumentou": true,
+          "preco_anterior": 125.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -5148,122 +5015,26 @@
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
-      "total_aumentos": 19,
-      "total_diminuicoes": 5,
+      "total_aumentos": 3,
+      "total_diminuicoes": 0,
       "aumentos": [
         {
-          "produto": "BATATA INGLESA",
-          "preco": 70.0,
-          "preco_anterior": 50.0,
-          "variacao_pct": 40.0
-        },
-        {
-          "produto": "COUVE-FLOR",
-          "preco": 7.0,
-          "preco_anterior": 5.0,
-          "variacao_pct": 40.0
-        },
-        {
-          "produto": "BATATA INGLESA ROSA",
-          "preco": 130.0,
-          "preco_anterior": 100.0,
-          "variacao_pct": 30.0
-        },
-        {
-          "produto": "CEBOLA PERA",
-          "preco": 70.0,
-          "preco_anterior": 55.0,
-          "variacao_pct": 27.27
-        },
-        {
-          "produto": "AMEIXA",
-          "preco": 125.0,
-          "preco_anterior": 100.0,
+          "produto": "QUIABO",
+          "preco": 5.0,
+          "preco_anterior": 4.0,
           "variacao_pct": 25.0
         },
         {
           "produto": "MORANGO",
-          "preco": 30.0,
-          "preco_anterior": 25.0,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "PEPINO JAPONÊS",
-          "preco": 120.0,
-          "preco_anterior": 100.0,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "CHUCHU",
           "preco": 35.0,
           "preco_anterior": 30.0,
           "variacao_pct": 16.67
         },
         {
-          "produto": "TOMATE ITALIANO",
-          "preco": 70.0,
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.67
-        },
-        {
-          "produto": "TOMATE LONGA VIDA",
-          "preco": 70.0,
-          "preco_anterior": 60.0,
-          "variacao_pct": 16.67
-        },
-        {
-          "produto": "BERINJELA",
-          "preco": 40.0,
-          "preco_anterior": 35.0,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "TAIA",
-          "preco": 80.0,
-          "preco_anterior": 70.0,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "ALFACE CRESPA",
-          "preco": 2.0,
-          "preco_anterior": 1.8,
+          "produto": "REPOLHO ROXA(O)",
+          "preco": 5.0,
+          "preco_anterior": 4.5,
           "variacao_pct": 11.11
-        },
-        {
-          "produto": "ALFACE",
-          "preco": 2.0,
-          "preco_anterior": 1.8,
-          "variacao_pct": 11.11
-        },
-        {
-          "produto": "GOIABA VERMELHO(A)",
-          "preco": 50.0,
-          "preco_anterior": 45.0,
-          "variacao_pct": 11.11
-        },
-        {
-          "produto": "UVA NIAGARA",
-          "preco": 125.0,
-          "preco_anterior": 115.0,
-          "variacao_pct": 8.7
-        },
-        {
-          "produto": "PIMENTA VERMELHO(A)",
-          "preco": 130.0,
-          "preco_anterior": 120.0,
-          "variacao_pct": 8.33
-        },
-        {
-          "produto": "CEBOLA ROXA(O)",
-          "preco": 80.0,
-          "preco_anterior": 75.0,
-          "variacao_pct": 6.67
-        },
-        {
-          "produto": "MAMÃO PAPAYA - HAWAI",
-          "preco": 85.0,
-          "preco_anterior": 80.0,
-          "variacao_pct": 6.25
         }
       ]
     },
