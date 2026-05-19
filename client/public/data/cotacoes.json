@@ -1,11 +1,23 @@
 {
-  "ultima_atualizacao": "18/05/2026 14:28",
+  "ultima_atualizacao": "19/05/2026 13:54",
   "estados": [
     {
       "estado": "PR",
       "nome": "CEASA Paraná",
-      "data": "16/05/2026",
+      "data": "18/05/2026",
       "cotacoes": [
+        {
+          "produto": "ABACATE MARGARIDA cx 20 kg",
+          "preco": 74.0,
+          "precos_cidades": {
+            "Cascavel": 74.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
         {
           "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
           "preco": 11.0,
@@ -13,22 +25,58 @@
             "Cascavel": 11.0
           },
           "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 120.0,
-          "aumentou": true,
+          "preco_anterior": 11.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "AMEIXA PRETA IMPORTADA cx 10 kg",
-          "preco": 150.0,
+          "produto": "ABOBORA HOKAIDO/KABOTIA sc 20 kg",
+          "preco": 70.0,
           "precos_cidades": {
-            "Cascavel": 150.0
+            "Cascavel": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": 167.0,
-          "variacao_pct": -10.18,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
+        },
+        {
+          "produto": "ABOBORA MORANGA sc 20 kg",
+          "preco": 46.0,
+          "precos_cidades": {
+            "Cascavel": 46.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABOBORA SECA/PESCOÇO kg",
+          "preco": 3.5,
+          "precos_cidades": {
+            "Cascavel": 3.5
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABOBRINHA VERDE EXTRA AA cx 20 kg",
+          "preco": 200.0,
+          "precos_cidades": {
+            "Cascavel": 200.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
         },
         {
           "produto": "BATATA COMUM ESPECIAL sc 25 kg",
@@ -37,10 +85,10 @@
             "Cascavel": 190.0
           },
           "unidade": "R$",
-          "preco_anterior": 215.0,
-          "variacao_pct": -11.63,
+          "preco_anterior": 190.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BATATA DOCE ROXA EXTRA cx 20 kg",
@@ -49,8 +97,8 @@
             "Cascavel": 66.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 66.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -67,10 +115,10 @@
           "diminuiu": false
         },
         {
-          "produto": "CAQUI CHOCOLATE cx 20 kg",
-          "preco": 140.0,
+          "produto": "CEBOLA ROXA sc 20 kg",
+          "preco": 110.0,
           "precos_cidades": {
-            "Cascavel": 140.0
+            "Cascavel": 110.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -79,14 +127,14 @@
           "diminuiu": false
         },
         {
-          "produto": "CAQUI FUYU cx 10 kg",
-          "preco": 70.0,
+          "produto": "CENOURA COMUM EXTRA AA cx 20 kg",
+          "preco": 110.0,
           "precos_cidades": {
-            "Cascavel": 70.0
+            "Cascavel": 110.0
           },
           "unidade": "R$",
-          "preco_anterior": 70.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -97,16 +145,16 @@
             "Cascavel": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 50.0,
-          "aumentou": true,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "COUVE BROCOLO dz 6 kg",
-          "preco": 96.0,
+          "produto": "COUVE CHINESA un 1,5 kg",
+          "preco": 8.0,
           "precos_cidades": {
-            "Cascavel": 96.0
+            "Cascavel": 8.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -121,45 +169,81 @@
             "Cascavel": 120.0
           },
           "unidade": "R$",
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "GENGIBRE PRIMEIRA cx 16 kg",
+          "preco": 192.0,
+          "precos_cidades": {
+            "Cascavel": 192.0
+          },
+          "unidade": "R$",
           "preco_anterior": null,
           "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "LARANJA BAHIA IMPORTADA cx 18 kg",
-          "preco": 113.0,
+          "produto": "INHAME-TAIA PRIMEIRA cx 20 kg",
+          "preco": 220.0,
           "precos_cidades": {
-            "Cascavel": 113.0
+            "Cascavel": 220.0
           },
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": -5.83,
-          "aumentou": false,
-          "diminuiu": true
-        },
-        {
-          "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
-          "preco": 144.0,
-          "precos_cidades": {
-            "Cascavel": 144.0
-          },
-          "unidade": "R$",
-          "preco_anterior": 144.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "MANGA TOMMY ATKING cx 20 kg",
-          "preco": 130.0,
+          "produto": "JILO PRIMEIRA cx 16 kg",
+          "preco": 192.0,
           "precos_cidades": {
-            "Cascavel": 130.0
+            "Cascavel": 192.0
           },
           "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 30.0,
-          "aumentou": true,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LIMAO TAHITI MEDIO cx 23 kg",
+          "preco": 69.0,
+          "precos_cidades": {
+            "Cascavel": 69.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MAMAO FORMOSA MADURO cx 15 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Cascavel": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
+          "preco": 200.0,
+          "precos_cidades": {
+            "Cascavel": 200.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -167,6 +251,18 @@
           "preco": 88.0,
           "precos_cidades": {
             "Cascavel": 88.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 88.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MILHO VERDE BANDEJA C/5 UN bj 1 kg",
+          "preco": 8.4,
+          "precos_cidades": {
+            "Cascavel": 8.4
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -179,6 +275,18 @@
           "preco": 54.0,
           "precos_cidades": {
             "Cascavel": 54.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 54.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PEPINO AODAI/SALADA EXTRA AA cx 20 kg",
+          "preco": 160.0,
+          "precos_cidades": {
+            "Cascavel": 160.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -199,18 +307,6 @@
           "diminuiu": false
         },
         {
-          "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
-          "preco": 171.0,
-          "precos_cidades": {
-            "Cascavel": 171.0
-          },
-          "unidade": "R$",
-          "preco_anterior": 160.0,
-          "variacao_pct": 6.88,
-          "aumentou": true,
-          "diminuiu": false
-        },
-        {
           "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
           "preco": 180.0,
           "precos_cidades": {
@@ -223,22 +319,118 @@
           "diminuiu": false
         },
         {
-          "produto": "PINHAO kg",
-          "preco": 14.0,
+          "produto": "PIMENTÃO VERDE EXTRA AA cx 12 kg",
+          "preco": 90.0,
           "precos_cidades": {
-            "Cascavel": 14.0
+            "Cascavel": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": 14.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "TANGERINA MONTEN/BERGAM cx 20 kg",
-          "preco": 114.0,
+          "produto": "PIMENTÃO VERMELHO EXTRA AA cx 12 kg",
+          "preco": 192.0,
           "precos_cidades": {
-            "Cascavel": 114.0
+            "Cascavel": 192.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "QUIABO PRIMEIRA cx 15 kg",
+          "preco": 165.0,
+          "precos_cidades": {
+            "Cascavel": 165.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "REPOLHO ROXO eng 25 kg",
+          "preco": 200.0,
+          "precos_cidades": {
+            "Cascavel": 200.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "REPOLHO VERDE GRANDE eng 25 kg",
+          "preco": 100.0,
+          "precos_cidades": {
+            "Cascavel": 100.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TANGERINA PONKAN MEDIA cx 20 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Cascavel": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TOMATE CEREJA EXTRA AA cx 3 kg",
+          "preco": 48.0,
+          "precos_cidades": {
+            "Cascavel": 48.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TOMATE LONGA VIDA EXTRA A cx 20 kg",
+          "preco": 160.0,
+          "precos_cidades": {
+            "Cascavel": 160.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+          "preco": 240.0,
+          "precos_cidades": {
+            "Cascavel": 240.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA ITALIA NACIONAL cx 8 kg",
+          "preco": 92.0,
+          "precos_cidades": {
+            "Cascavel": 92.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -253,6 +445,18 @@
             "Cascavel": 88.0
           },
           "unidade": "R$",
+          "preco_anterior": 88.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "VAGEM MACARRAO EXTRA AA cx 15 kg",
+          "preco": 255.0,
+          "precos_cidades": {
+            "Cascavel": 255.0
+          },
+          "unidade": "R$",
           "preco_anterior": null,
           "variacao_pct": null,
           "aumentou": false,
@@ -260,35 +464,10 @@
         }
       ],
       "fonte": "https://celepar7.pr.gov.br/ceasa/hoje.asp",
-      "total_produtos": 21,
-      "total_aumentos": 4,
-      "total_diminuicoes": 3,
-      "aumentos": [
-        {
-          "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
-          "preco": 11.0,
-          "preco_anterior": 5.0,
-          "variacao_pct": 120.0
-        },
-        {
-          "produto": "CHUCHU EXTRA AA cx 20 kg",
-          "preco": 90.0,
-          "preco_anterior": 60.0,
-          "variacao_pct": 50.0
-        },
-        {
-          "produto": "MANGA TOMMY ATKING cx 20 kg",
-          "preco": 130.0,
-          "preco_anterior": 100.0,
-          "variacao_pct": 30.0
-        },
-        {
-          "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
-          "preco": 171.0,
-          "preco_anterior": 160.0,
-          "variacao_pct": 6.88
-        }
-      ]
+      "total_produtos": 38,
+      "total_aumentos": 0,
+      "total_diminuicoes": 0,
+      "aumentos": []
     },
     {
       "estado": "SC",
@@ -323,9 +502,9 @@
           "preco_min": 80.0,
           "preco_max": 90.0,
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 12.5,
-          "aumentou": true,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -708,10 +887,10 @@
           "preco_min": 60.0,
           "preco_max": 65.0,
           "unidade": "R$",
-          "preco_anterior": 65.0,
-          "variacao_pct": -7.69,
+          "preco_anterior": 60.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "BATATA IACON COMERCIAL",
@@ -1016,10 +1195,10 @@
           "preco_min": 70.0,
           "preco_max": 75.0,
           "unidade": "R$",
-          "preco_anterior": 75.0,
-          "variacao_pct": -6.67,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "CEBOLA ROXA(O)",
@@ -1027,9 +1206,9 @@
           "preco_min": 90.0,
           "preco_max": 100.0,
           "unidade": "R$",
-          "preco_anterior": 85.0,
-          "variacao_pct": 17.65,
-          "aumentou": true,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1060,9 +1239,9 @@
           "preco_min": 110.0,
           "preco_max": 120.0,
           "unidade": "R$",
-          "preco_anterior": 110.0,
-          "variacao_pct": 4.55,
-          "aumentou": true,
+          "preco_anterior": 115.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1742,10 +1921,10 @@
           "preco_min": 2.8,
           "preco_max": 3.0,
           "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": -6.67,
+          "preco_anterior": 2.8,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MELANCIA KODAMA",
@@ -2006,9 +2185,9 @@
           "preco_min": 120.0,
           "preco_max": 130.0,
           "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 20.0,
-          "aumentou": true,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2094,10 +2273,10 @@
           "preco_min": 120.0,
           "preco_max": 130.0,
           "unidade": "R$",
-          "preco_anterior": 130.0,
-          "variacao_pct": -100.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTA VERMELHO(A) COMERCIAL",
@@ -2116,9 +2295,9 @@
           "preco_min": 140.0,
           "preco_max": 155.0,
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": 25.0,
-          "aumentou": true,
+          "preco_anterior": 150.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2127,10 +2306,10 @@
           "preco_min": 30.0,
           "preco_max": 30.0,
           "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": -14.29,
+          "preco_anterior": 30.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PIMENTÃO VERMELHO(A)",
@@ -2391,9 +2570,9 @@
           "preco_min": 12.0,
           "preco_max": 16.0,
           "unidade": "R$",
-          "preco_anterior": 12.0,
-          "variacao_pct": 33.33,
-          "aumentou": true,
+          "preco_anterior": 16.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2402,9 +2581,9 @@
           "preco_min": 125.0,
           "preco_max": 130.0,
           "unidade": "R$",
-          "preco_anterior": 110.0,
-          "variacao_pct": 13.64,
-          "aumentou": true,
+          "preco_anterior": 125.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2413,9 +2592,9 @@
           "preco_min": 120.0,
           "preco_max": 130.0,
           "unidade": "R$",
-          "preco_anterior": 110.0,
-          "variacao_pct": 9.09,
-          "aumentou": true,
+          "preco_anterior": 120.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2575,58 +2754,9 @@
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 207,
-      "total_aumentos": 8,
-      "total_diminuicoes": 5,
-      "aumentos": [
-        {
-          "produto": "TOMATE CEREJA",
-          "preco": 16.0,
-          "preco_anterior": 12.0,
-          "variacao_pct": 33.33
-        },
-        {
-          "produto": "PIMENTÃO AMARELO(A)",
-          "preco": 150.0,
-          "preco_anterior": 120.0,
-          "variacao_pct": 25.0
-        },
-        {
-          "produto": "PEPINO JAPONÊS",
-          "preco": 120.0,
-          "preco_anterior": 100.0,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "CEBOLA ROXA(O)",
-          "preco": 100.0,
-          "preco_anterior": 85.0,
-          "variacao_pct": 17.65
-        },
-        {
-          "produto": "TOMATE ITALIANO",
-          "preco": 125.0,
-          "preco_anterior": 110.0,
-          "variacao_pct": 13.64
-        },
-        {
-          "produto": "ABOBORA ABOBRINHA ITALIANA",
-          "preco": 90.0,
-          "preco_anterior": 80.0,
-          "variacao_pct": 12.5
-        },
-        {
-          "produto": "TOMATE LONGA VIDA",
-          "preco": 120.0,
-          "preco_anterior": 110.0,
-          "variacao_pct": 9.09
-        },
-        {
-          "produto": "CENOURA",
-          "preco": 115.0,
-          "preco_anterior": 110.0,
-          "variacao_pct": 4.55
-        }
-      ]
+      "total_aumentos": 0,
+      "total_diminuicoes": 0,
+      "aumentos": []
     },
     {
       "estado": "RS",
