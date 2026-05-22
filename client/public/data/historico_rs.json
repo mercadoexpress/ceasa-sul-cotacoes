@@ -14149,7 +14149,7 @@
       {
         "produto": "UVA FINAS DE MESA",
         "preco": 11.42,
-        "preco_min": 12.78,
+        "preco_min": 10.0,
         "preco_max": 16.25,
         "categoria": "GERAL",
         "unidade": "R$",
