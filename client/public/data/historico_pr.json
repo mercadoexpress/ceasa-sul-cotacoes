@@ -1,262 +1,5 @@
 [
   {
-    "data": "16/05/2026",
-    "cotacoes": [
-      {
-        "produto": "ABACAXI PEROLA MEDIO un 1,5 kg",
-        "preco": 11.0,
-        "precos_cidades": {
-          "Cascavel": 11.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 5.0,
-        "variacao_pct": 120.0,
-        "aumentou": true,
-        "diminuiu": false
-      },
-      {
-        "produto": "AMEIXA PRETA IMPORTADA cx 10 kg",
-        "preco": 150.0,
-        "precos_cidades": {
-          "Cascavel": 150.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 167.0,
-        "variacao_pct": -10.18,
-        "aumentou": false,
-        "diminuiu": true
-      },
-      {
-        "produto": "BATATA COMUM ESPECIAL sc 25 kg",
-        "preco": 190.0,
-        "precos_cidades": {
-          "Cascavel": 190.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 215.0,
-        "variacao_pct": -11.63,
-        "aumentou": false,
-        "diminuiu": true
-      },
-      {
-        "produto": "BATATA DOCE ROXA EXTRA cx 20 kg",
-        "preco": 66.0,
-        "precos_cidades": {
-          "Cascavel": 66.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "BETERRABA EXTRA AA cx 20 kg",
-        "preco": 100.0,
-        "precos_cidades": {
-          "Cascavel": 100.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 100.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "CAQUI CHOCOLATE cx 20 kg",
-        "preco": 140.0,
-        "precos_cidades": {
-          "Cascavel": 140.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "CAQUI FUYU cx 10 kg",
-        "preco": 70.0,
-        "precos_cidades": {
-          "Cascavel": 70.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 70.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "CHUCHU EXTRA AA cx 20 kg",
-        "preco": 90.0,
-        "precos_cidades": {
-          "Cascavel": 90.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 60.0,
-        "variacao_pct": 50.0,
-        "aumentou": true,
-        "diminuiu": false
-      },
-      {
-        "produto": "COUVE BROCOLO dz 6 kg",
-        "preco": 96.0,
-        "precos_cidades": {
-          "Cascavel": 96.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "COUVE FLOR MEDIA dz 20 kg",
-        "preco": 120.0,
-        "precos_cidades": {
-          "Cascavel": 120.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "LARANJA BAHIA IMPORTADA cx 18 kg",
-        "preco": 113.0,
-        "precos_cidades": {
-          "Cascavel": 113.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 120.0,
-        "variacao_pct": -5.83,
-        "aumentou": false,
-        "diminuiu": true
-      },
-      {
-        "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
-        "preco": 144.0,
-        "precos_cidades": {
-          "Cascavel": 144.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 144.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MANGA TOMMY ATKING cx 20 kg",
-        "preco": 130.0,
-        "precos_cidades": {
-          "Cascavel": 130.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 100.0,
-        "variacao_pct": 30.0,
-        "aumentou": true,
-        "diminuiu": false
-      },
-      {
-        "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
-        "preco": 88.0,
-        "precos_cidades": {
-          "Cascavel": 88.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
-        "preco": 54.0,
-        "precos_cidades": {
-          "Cascavel": 54.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PEPINO JAPONES EXTRA AA cx 20 kg",
-        "preco": 200.0,
-        "precos_cidades": {
-          "Cascavel": 200.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 200.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
-        "preco": 171.0,
-        "precos_cidades": {
-          "Cascavel": 171.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 160.0,
-        "variacao_pct": 6.88,
-        "aumentou": true,
-        "diminuiu": false
-      },
-      {
-        "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
-        "preco": 180.0,
-        "precos_cidades": {
-          "Cascavel": 180.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 180.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PINHAO kg",
-        "preco": 14.0,
-        "precos_cidades": {
-          "Cascavel": 14.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 14.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "TANGERINA MONTEN/BERGAM cx 20 kg",
-        "preco": 114.0,
-        "precos_cidades": {
-          "Cascavel": 114.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "UVA NIAGARA ROSADA cx 8 kg",
-        "preco": 88.0,
-        "precos_cidades": {
-          "Cascavel": 88.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      }
-    ]
-  },
-  {
     "data": "18/05/2026",
     "cotacoes": [
       {
@@ -74583,6 +74326,299 @@
         "preco_anterior": 130.0,
         "variacao_pct": 15.38,
         "aumentou": true,
+        "diminuiu": false
+      }
+    ]
+  },
+  {
+    "data": "27/06/2026",
+    "cotacoes": [
+      {
+        "produto": "AMEIXA PRETA IMPORTADA cx 10 kg",
+        "preco": 220.0,
+        "precos_cidades": {
+          "Cascavel": 220.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BETERRABA EXTRA AA cx 20 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Cascavel": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "CAQUI FUYU cx 10 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Cascavel": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE BROCOLO dz 6 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "COUVE FLOR MEDIA dz 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Cascavel": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "GOIABA VERMELHA  cx 20 kg",
+        "preco": 116.0,
+        "precos_cidades": {
+          "Cascavel": 116.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "KIWI IMPORTADO cx 10 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Cascavel": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA PERA MEDIA cx 20 kg",
+        "preco": 64.0,
+        "precos_cidades": {
+          "Cascavel": 64.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA FUJI CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 106.0,
+        "precos_cidades": {
+          "Cascavel": 106.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA FUJI CAT 3 TP 100 A 150 cx 18 kg",
+        "preco": 72.0,
+        "precos_cidades": {
+          "Cascavel": 72.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MAÇA GALA CAT 1 TP 80 A 100 cx 18 kg",
+        "preco": 135.0,
+        "precos_cidades": {
+          "Cascavel": 135.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MANGA TOMMY ATKING cx 20 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Cascavel": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
+        "preco": 42.0,
+        "precos_cidades": {
+          "Cascavel": 42.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "NECTARINA IMPORTADA cx 9 kg",
+        "preco": 198.0,
+        "precos_cidades": {
+          "Cascavel": 198.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
+        "preco": 166.0,
+        "precos_cidades": {
+          "Cascavel": 166.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PESSEGO IMPORTADO cx 9 kg",
+        "preco": 288.0,
+        "precos_cidades": {
+          "Cascavel": 288.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PINHAO kg",
+        "preco": 12.0,
+        "precos_cidades": {
+          "Cascavel": 12.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "QUIABO PRIMEIRA cx 15 kg",
+        "preco": 270.0,
+        "precos_cidades": {
+          "Cascavel": 270.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 270.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA MONTEN/BERGAM cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Cascavel": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA PONKAN MEDIA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Cascavel": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Cascavel": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 150.0,
+        "variacao_pct": 6.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA BENITAKE NACIONAL cx 8 kg",
+        "preco": 84.0,
+        "precos_cidades": {
+          "Cascavel": 84.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA BRASIL/CENTENIA NACIONAL cx 8 kg",
+        "preco": 84.0,
+        "precos_cidades": {
+          "Cascavel": 84.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA NIAGARA ROSADA cx 8 kg",
+        "preco": 88.0,
+        "precos_cidades": {
+          "Cascavel": 88.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
         "diminuiu": false
       }
     ]
