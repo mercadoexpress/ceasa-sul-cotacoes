@@ -3,359 +3,6 @@
     "data": "06/08/2026",
     "cotacoes": [
       {
-        "produto": "ABACAXI HAVAI GRAUDO cx 18 kg",
-        "preco": 63.0,
-        "precos_cidades": {
-          "Londrina": 63.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "ABACAXI HAVAI MEDIO cx 18 kg",
-        "preco": 58.0,
-        "precos_cidades": {
-          "Londrina": 58.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "ABACAXI PEROLA GRAUDO cx 15 kg",
-        "preco": 70.0,
-        "precos_cidades": {
-          "Londrina": 70.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 70.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "ABACAXI PEROLA MEDIO cx 15 kg",
-        "preco": 56.0,
-        "precos_cidades": {
-          "Londrina": 56.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 56.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "ABOBORA SECA/PESCOÇO kg",
-        "preco": 4.0,
-        "precos_cidades": {
-          "Londrina": 4.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "ALHO NACIONAL ROXO TP 6 A 7 cx 10 kg",
-        "preco": 180.0,
-        "precos_cidades": {
-          "Londrina": 180.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "AMEIXA VERMELHA IMPORTADA cx 10 kg",
-        "preco": 200.0,
-        "precos_cidades": {
-          "Londrina": 200.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
-        "preco": 15.0,
-        "precos_cidades": {
-          "Londrina": 15.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 15.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "CEBOLA PERA sc 20 kg",
-        "preco": 85.0,
-        "precos_cidades": {
-          "Londrina": 85.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "COCO SECO sc 14 kg",
-        "preco": 66.0,
-        "precos_cidades": {
-          "Londrina": 66.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "GOIABA VERMELHA  cx 20 kg",
-        "preco": 110.0,
-        "precos_cidades": {
-          "Londrina": 110.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "LIMAO SICILIANO  cx 15 kg",
-        "preco": 130.0,
-        "precos_cidades": {
-          "Londrina": 130.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "LIMAO TAHITI GRAUDO cx 23 kg",
-        "preco": 110.0,
-        "precos_cidades": {
-          "Londrina": 110.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MAÇA FUJI CAT 3 TP 100 A 150 cx 18 kg",
-        "preco": 55.0,
-        "precos_cidades": {
-          "Londrina": 55.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MAÇA GALA CAT 3 TP 100 A 150 cx 18 kg",
-        "preco": 65.0,
-        "precos_cidades": {
-          "Londrina": 65.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MAMAO FORMOSA MADURO cx 15 kg",
-        "preco": 86.0,
-        "precos_cidades": {
-          "Londrina": 86.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MARACUJA AZEDO cx 11 kg",
-        "preco": 120.0,
-        "precos_cidades": {
-          "Londrina": 120.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
-        "preco": 70.0,
-        "precos_cidades": {
-          "Londrina": 70.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 70.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MELAO AMARELO COMUM TP-14 cx 13 kg",
-        "preco": 80.0,
-        "precos_cidades": {
-          "Londrina": 80.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 80.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MELAO AMARELO COMUM TP-8 cx 13 kg",
-        "preco": 75.0,
-        "precos_cidades": {
-          "Londrina": 75.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 75.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "MELAO ORANGE 5 A 6 UN cx 6 kg",
-        "preco": 69.0,
-        "precos_cidades": {
-          "Londrina": 69.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "NECTARINA IMPORTADA cx 9 kg",
-        "preco": 120.0,
-        "precos_cidades": {
-          "Londrina": 120.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "NOZ PECAN kg",
-        "preco": 125.0,
-        "precos_cidades": {
-          "Londrina": 125.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PERA IMPORTADA PACKHAM´S TP 80 A 100 cx 18 kg",
-        "preco": 150.0,
-        "precos_cidades": {
-          "Londrina": 150.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
-        "preco": 185.0,
-        "precos_cidades": {
-          "Londrina": 185.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PESSEGO IMPORTADO cx 9 kg",
-        "preco": 200.0,
-        "precos_cidades": {
-          "Londrina": 200.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "PHISALIS VELUVA cx 1,5 kg",
-        "preco": 60.0,
-        "precos_cidades": {
-          "Londrina": 60.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "TOMATE CEREJA  cx 20 kg",
-        "preco": 150.0,
-        "precos_cidades": {
-          "Londrina": 150.0
-        },
-        "unidade": "R$",
-        "preco_anterior": null,
-        "variacao_pct": null,
-        "aumentou": false,
-        "diminuiu": false
-      },
-      {
-        "produto": "UVA VITORIA NACIONAL cx 5 kg",
-        "preco": 70.0,
-        "precos_cidades": {
-          "Londrina": 70.0
-        },
-        "unidade": "R$",
-        "preco_anterior": 70.0,
-        "variacao_pct": 0.0,
-        "aumentou": false,
-        "diminuiu": false
-      }
-    ]
-  },
-  {
-    "data": "06/08/2026",
-    "cotacoes": [
-      {
         "produto": "ABACATE AVOCADO cx 3 kg",
         "preco": 60.0,
         "precos_cidades": {
@@ -67222,6 +66869,299 @@
         "unidade": "R$",
         "preco_anterior": null,
         "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      }
+    ]
+  },
+  {
+    "data": "17/09/2026",
+    "cotacoes": [
+      {
+        "produto": "ABACATE BREDA  cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABACAXI PEROLA GRAUDO cx 15 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 70.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "ABOBORA HOKAIDO/KABOTIA sc 20 kg",
+        "preco": 45.0,
+        "precos_cidades": {
+          "Londrina": 45.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 27.0,
+        "variacao_pct": 66.67,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "ALFACE AMERICANA cx 7,5 kg",
+        "preco": 25.0,
+        "precos_cidades": {
+          "Londrina": 25.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 18.28,
+        "variacao_pct": 36.76,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "AMEIXA VERMELHA IMPORTADA cx 10 kg",
+        "preco": 165.0,
+        "precos_cidades": {
+          "Londrina": 165.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "BANANA MAÇA PRIMEIRA cx 20 kg",
+        "preco": 120.0,
+        "precos_cidades": {
+          "Londrina": 120.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 140.0,
+        "variacao_pct": -14.29,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "BANANA TERRA cx 20 kg",
+        "preco": 175.0,
+        "precos_cidades": {
+          "Londrina": 175.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 170.0,
+        "variacao_pct": 2.94,
+        "aumentou": true,
+        "diminuiu": false
+      },
+      {
+        "produto": "KIWI IMPORTADO cx 10 kg",
+        "preco": 280.0,
+        "precos_cidades": {
+          "Londrina": 280.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 280.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "LARANJA LIMA MEDIA cx 20 kg",
+        "preco": 60.0,
+        "precos_cidades": {
+          "Londrina": 60.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 100.0,
+        "variacao_pct": -40.0,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "LARANJA PERA MEDIA cx 20 kg",
+        "preco": 30.0,
+        "precos_cidades": {
+          "Londrina": 30.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 33.33,
+        "variacao_pct": -9.99,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "LIMAO TAHITI GRAUDO cx 23 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Londrina": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 180.0,
+        "variacao_pct": -11.11,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "LIMAO TAHITI MEDIO cx 23 kg",
+        "preco": 130.0,
+        "precos_cidades": {
+          "Londrina": 130.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 180.0,
+        "variacao_pct": -27.78,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MANGA TOMMY ATKING cx 20 kg",
+        "preco": 90.0,
+        "precos_cidades": {
+          "Londrina": 90.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 128.0,
+        "variacao_pct": -29.69,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "MARACUJA AZEDO cx 11 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO AMARELO COMUM TP-8 cx 13 kg",
+        "preco": 78.0,
+        "precos_cidades": {
+          "Londrina": 78.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "MELAO ORANGE 5 A 6 UN cx 6 kg",
+        "preco": 70.0,
+        "precos_cidades": {
+          "Londrina": 70.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "NECTARINA IMPORTADA cx 9 kg",
+        "preco": 150.0,
+        "precos_cidades": {
+          "Londrina": 150.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 150.0,
+        "variacao_pct": 0.0,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA PORTUGUESA  cx 10 kg",
+        "preco": 180.0,
+        "precos_cidades": {
+          "Londrina": 180.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
+        "preco": 220.0,
+        "precos_cidades": {
+          "Londrina": 220.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 225.0,
+        "variacao_pct": -2.22,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "TANGERINA CRAVO cx 20 kg",
+        "preco": 100.0,
+        "precos_cidades": {
+          "Londrina": 100.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TANGERINA MURKOTE GRAUDA cx 23 kg",
+        "preco": 80.0,
+        "precos_cidades": {
+          "Londrina": 80.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
+        "preco": 160.0,
+        "precos_cidades": {
+          "Londrina": 160.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 230.0,
+        "variacao_pct": -30.43,
+        "aumentou": false,
+        "diminuiu": true
+      },
+      {
+        "produto": "UVA NIAGARA ROSADA cx 8 kg",
+        "preco": 96.0,
+        "precos_cidades": {
+          "Londrina": 96.0
+        },
+        "unidade": "R$",
+        "preco_anterior": null,
+        "variacao_pct": null,
+        "aumentou": false,
+        "diminuiu": false
+      },
+      {
+        "produto": "UVA VITORIA NACIONAL cx 5 kg",
+        "preco": 65.0,
+        "precos_cidades": {
+          "Londrina": 65.0
+        },
+        "unidade": "R$",
+        "preco_anterior": 65.0,
+        "variacao_pct": 0.0,
         "aumentou": false,
         "diminuiu": false
       }
