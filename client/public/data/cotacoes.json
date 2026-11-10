@@ -1,13 +1,62 @@
 {
-  "ultima_atualizacao": "09/11/2026 21:16",
+  "ultima_atualizacao": "10/11/2026 18:27",
   "estados": [
     {
       "estado": "PR",
       "nome": "CEASA Paraná",
-      "data": "09/11/2026",
+      "data": "10/11/2026",
       "cotacoes": [
         {
+          "produto": "ABACATE AVOCADO cx 3 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Curitiba": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "ABACATE BREDA  cx 20 kg",
+          "preco": 110.0,
+          "precos_cidades": {
+            "Curitiba": 110.0,
+            "Londrina": 70.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABACATE COMUM cx 20 kg",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABACATE MARGARIDA cx 20 kg",
+          "preco": 80.0,
+          "precos_cidades": {
+            "Curitiba": 80.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABACATE QUINTAL cx 20 kg",
           "preco": 110.0,
           "precos_cidades": {
             "Curitiba": 110.0
@@ -19,10 +68,47 @@
           "diminuiu": false
         },
         {
-          "produto": "ABACATE FORTUNA cx 20 kg",
-          "preco": 110.0,
+          "produto": "ABACAXI HAVAI GRAUDO cx 18 kg",
+          "preco": 65.0,
           "precos_cidades": {
-            "Curitiba": 110.0
+            "Curitiba": 65.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABACAXI PEROLA GRAUDO cx 15 kg",
+          "preco": 65.0,
+          "precos_cidades": {
+            "Curitiba": 65.0,
+            "Londrina": 62.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABACAXI PEROLA GRAUDO un 1,8 kg",
+          "preco": 8.0,
+          "precos_cidades": {
+            "Curitiba": 8.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ABACAXI PEROLA MEDIO cx 15 kg",
+          "preco": 53.0,
+          "precos_cidades": {
+            "Londrina": 53.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -55,6 +141,18 @@
           "diminuiu": false
         },
         {
+          "produto": "ABOBORA MORANGA sc 20 kg",
+          "preco": 35.0,
+          "precos_cidades": {
+            "Curitiba": 35.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "ABOBORA SECA/PESCOÇO kg",
           "preco": 3.0,
           "precos_cidades": {
@@ -67,27 +165,15 @@
           "diminuiu": false
         },
         {
-          "produto": "ABOBRINHA AMARELA EXTRA cx 20 kg",
-          "preco": 40.0,
-          "precos_cidades": {
-            "Curitiba": 40.0
-          },
-          "unidade": "R$",
-          "preco_anterior": 40.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
           "produto": "ABOBRINHA VERDE EXTRA A cx 20 kg",
           "preco": 100.0,
           "precos_cidades": {
             "Curitiba": 100.0
           },
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 25.0,
-          "aumentou": true,
+          "preco_anterior": 100.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -115,6 +201,18 @@
           "diminuiu": false
         },
         {
+          "produto": "AIPIM-MANDIOCA PRIMEIRA cx 20 kg",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "AIPIM-MANDIOCA SEGUNDA cx 20 kg",
           "preco": 50.0,
           "precos_cidades": {
@@ -123,6 +221,30 @@
           "unidade": "R$",
           "preco_anterior": 50.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "AIPIM-MANDIOCA TOLETO kg",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Curitiba": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ALCACHOFRA cx 8 kg",
+          "preco": 110.0,
+          "precos_cidades": {
+            "Curitiba": 110.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -259,6 +381,42 @@
           "diminuiu": false
         },
         {
+          "produto": "ALFAVACA mç 300 g",
+          "preco": 2.5,
+          "precos_cidades": {
+            "Curitiba": 2.5
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ALHO NACIONAL  DESCASCADO pc 1 kg",
+          "preco": 20.0,
+          "precos_cidades": {
+            "Curitiba": 20.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ALHO NACIONAL ROXO TP 3 A 4 cx 10 kg",
+          "preco": 100.0,
+          "precos_cidades": {
+            "Curitiba": 100.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "ALHO PORRO MAÇO 4 UNID mç 2 kg",
           "preco": 15.0,
           "precos_cidades": {
@@ -295,18 +453,6 @@
           "diminuiu": false
         },
         {
-          "produto": "AMEIXA AMARELA cx 18 kg",
-          "preco": 200.0,
-          "precos_cidades": {
-            "Curitiba": 200.0
-          },
-          "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
           "produto": "AMEIXA VERMELHA cx 10 kg",
           "preco": 100.0,
           "precos_cidades": {
@@ -331,14 +477,62 @@
           "diminuiu": false
         },
         {
-          "produto": "AMORA PRETA  bj 300 g",
-          "preco": 8.0,
+          "produto": "AMEIXA VERMELHA IMPORTADA cx 10 kg",
+          "preco": 140.0,
           "precos_cidades": {
-            "Curitiba": 8.0
+            "Curitiba": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "AMENDOIM COM CASCA sc 25 kg",
+          "preco": 280.0,
+          "precos_cidades": {
+            "Curitiba": 280.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "AMORA cx 2 kg",
+          "preco": 65.0,
+          "precos_cidades": {
+            "Curitiba": 65.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ASPARGO mç 300 g",
+          "preco": 30.0,
+          "precos_cidades": {
+            "Curitiba": 30.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ATEMOIA cx 18 kg",
+          "preco": 160.0,
+          "precos_cidades": {
+            "Curitiba": 160.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -367,14 +561,14 @@
           "diminuiu": false
         },
         {
-          "produto": "BANANA CATURRA SEGUNDA cx 20 kg",
-          "preco": 38.0,
+          "produto": "BANANA MAÇA PRIMEIRA cx 20 kg",
+          "preco": 140.0,
           "precos_cidades": {
-            "Curitiba": 38.0
+            "Curitiba": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": 38.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -391,15 +585,63 @@
           "diminuiu": false
         },
         {
+          "produto": "BANANA TERRA cx 20 kg",
+          "preco": 140.0,
+          "precos_cidades": {
+            "Curitiba": 140.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "BATATA COMUM ESPECIAL sc 25 kg",
           "preco": 110.0,
           "precos_cidades": {
             "Curitiba": 110.0
           },
           "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 10.0,
-          "aumentou": true,
+          "preco_anterior": 110.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "BATATA YAKON bj 500 g",
+          "preco": 6.0,
+          "precos_cidades": {
+            "Curitiba": 6.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "BATATA YAKON cx 20 kg",
+          "preco": 100.0,
+          "precos_cidades": {
+            "Curitiba": 100.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "BATATA DOCE BANDEJA C/3 A 4 bj 750 g",
+          "preco": 3.0,
+          "precos_cidades": {
+            "Curitiba": 3.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -407,6 +649,18 @@
           "preco": 70.0,
           "precos_cidades": {
             "Curitiba": 70.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "BATATA DOCE LARANJA  cx 20 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Curitiba": 60.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -452,14 +706,26 @@
         },
         {
           "produto": "BETERRABA EXTRA A cx 20 kg",
-          "preco": 65.0,
+          "preco": 70.0,
           "precos_cidades": {
-            "Curitiba": 65.0
+            "Curitiba": 70.0
           },
           "unidade": "R$",
-          "preco_anterior": 40.0,
-          "variacao_pct": 62.5,
+          "preco_anterior": 65.0,
+          "variacao_pct": 7.69,
           "aumentou": true,
+          "diminuiu": false
+        },
+        {
+          "produto": "BETERRABA EXTRA AA cx 20 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Curitiba": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -469,8 +735,8 @@
             "Curitiba": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -481,20 +747,45 @@
             "Curitiba": 3.0
           },
           "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 50.0,
-          "aumentou": true,
+          "preco_anterior": 3.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "BROTO DE FEIJÃO/MOYASHI PACOTE pc 500 g",
           "preco": 6.0,
           "precos_cidades": {
-            "Curitiba": 6.0
+            "Curitiba": 6.0,
+            "Londrina": 9.0
           },
           "unidade": "R$",
           "preco_anterior": 6.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CAIXA PLASTICA VAZIA un 3 kg",
+          "preco": 30.0,
+          "precos_cidades": {
+            "Curitiba": 30.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CAJU cx 1,5 kg",
+          "preco": 50.0,
+          "precos_cidades": {
+            "Curitiba": 50.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -514,12 +805,25 @@
           "produto": "CEBOLA PERA sc 20 kg",
           "preco": 140.0,
           "precos_cidades": {
-            "Curitiba": 140.0
+            "Curitiba": 140.0,
+            "Londrina": 150.0
           },
           "unidade": "R$",
-          "preco_anterior": 130.0,
-          "variacao_pct": 7.69,
-          "aumentou": true,
+          "preco_anterior": 140.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CEBOLA ROXA sc 20 kg",
+          "preco": 180.0,
+          "precos_cidades": {
+            "Londrina": 180.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -529,9 +833,9 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 25.0,
-          "aumentou": true,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -553,6 +857,30 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CENOURA BABY cx 10 kg",
+          "preco": 300.0,
+          "precos_cidades": {
+            "Curitiba": 300.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CENOURA COMUM BANDEJA bj 500 g",
+          "preco": 4.0,
+          "precos_cidades": {
+            "Curitiba": 4.0
+          },
+          "unidade": "R$",
           "preco_anterior": null,
           "variacao_pct": null,
           "aumentou": false,
@@ -567,6 +895,18 @@
           "unidade": "R$",
           "preco_anterior": 35.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CEREJA IMPORTADA cx 4 kg",
+          "preco": 500.0,
+          "precos_cidades": {
+            "Curitiba": 500.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -591,6 +931,42 @@
           "unidade": "R$",
           "preco_anterior": 25.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CHUCHU BABY bj 550 g",
+          "preco": 3.0,
+          "precos_cidades": {
+            "Curitiba": 3.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COCO SECO sc 14 kg",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "COCO VERDE un 1,5 kg",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Curitiba": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -637,8 +1013,8 @@
             "Curitiba": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -647,6 +1023,18 @@
           "preco": 13.0,
           "precos_cidades": {
             "Curitiba": 13.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 13.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "CONSERVA DIVERSAS VIDRO vd 530 gr",
+          "preco": 7.0,
+          "precos_cidades": {
+            "Curitiba": 7.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -668,18 +1056,6 @@
         },
         {
           "produto": "COUVE BROCOLO mç 500 g",
-          "preco": 4.0,
-          "precos_cidades": {
-            "Curitiba": 4.0
-          },
-          "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COUVE BROCOLO   bj 250 g",
           "preco": 4.0,
           "precos_cidades": {
             "Curitiba": 4.0
@@ -727,6 +1103,18 @@
           "diminuiu": false
         },
         {
+          "produto": "COUVE DE BRUXELA pc 500 g",
+          "preco": 12.0,
+          "precos_cidades": {
+            "Curitiba": 12.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "COUVE FLOR un 1,5 kg",
           "preco": 5.0,
           "precos_cidades": {
@@ -734,18 +1122,6 @@
           },
           "unidade": "R$",
           "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COUVE FLOR GRANDE dz 24 kg",
-          "preco": 60.0,
-          "precos_cidades": {
-            "Curitiba": 60.0
-          },
-          "unidade": "R$",
-          "preco_anterior": 60.0,
           "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
@@ -805,6 +1181,30 @@
             "Curitiba": 18.0
           },
           "unidade": "R$",
+          "preco_anterior": 18.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ENDIVIA NACIONAL cx 5 kg",
+          "preco": 200.0,
+          "precos_cidades": {
+            "Curitiba": 200.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ENDRO mç 400 g",
+          "preco": 8.0,
+          "precos_cidades": {
+            "Curitiba": 8.0
+          },
+          "unidade": "R$",
           "preco_anterior": null,
           "variacao_pct": null,
           "aumentou": false,
@@ -817,8 +1217,8 @@
             "Curitiba": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -829,8 +1229,8 @@
             "Curitiba": 6.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 6.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -907,26 +1307,75 @@
           "diminuiu": false
         },
         {
-          "produto": "FRAMBOESA   bj 300 g",
-          "preco": 12.0,
+          "produto": "FEIJAO PRETO kg",
+          "preco": 5.0,
           "precos_cidades": {
-            "Curitiba": 12.0
+            "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": 12.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
-          "produto": "GENGIBRE SEGUNDA cx 16 kg",
-          "preco": 50.0,
+          "produto": "FIGO ROXO cx 1,5 kg",
+          "preco": 60.0,
           "precos_cidades": {
-            "Curitiba": 50.0
+            "Curitiba": 60.0,
+            "Londrina": 84.0
           },
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "GENGIBRE PRIMEIRA cx 16 kg",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "GOIABA VERMELHA  cx 20 kg",
+          "preco": 130.0,
+          "precos_cidades": {
+            "Curitiba": 130.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "GRANADILLA cx 9 un",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "GRAVIOLA   cx 20 kg",
+          "preco": 275.0,
+          "precos_cidades": {
+            "Curitiba": 275.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -955,15 +1404,39 @@
           "diminuiu": false
         },
         {
+          "produto": "INHAME-TAIA bj 500 g",
+          "preco": 4.0,
+          "precos_cidades": {
+            "Curitiba": 4.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "INHAME-TAIA PRIMEIRA cx 20 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Curitiba": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "INHAME-TAIA SEGUNDA cx 20 kg",
           "preco": 90.0,
           "precos_cidades": {
             "Curitiba": 90.0
           },
           "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 12.5,
-          "aumentou": true,
+          "preco_anterior": 90.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1027,14 +1500,111 @@
           "diminuiu": false
         },
         {
-          "produto": "LARANJA PERA MEDIA cx 20 kg",
+          "produto": "KIWI IMPORTADO cx 10 kg",
+          "preco": 200.0,
+          "precos_cidades": {
+            "Curitiba": 200.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA BAHIA IMPORTADA cx 18 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Curitiba": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA BAHIA MEDIA cx 20 kg",
+          "preco": 80.0,
+          "precos_cidades": {
+            "Curitiba": 80.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA FOLHA MURCHA cx 23 kg",
+          "preco": 50.0,
+          "precos_cidades": {
+            "Curitiba": 50.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA LIMA GRAUDA cx 20 kg",
+          "preco": 80.0,
+          "precos_cidades": {
+            "Curitiba": 80.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA PERA GRAUDA cx 20 kg",
           "preco": 45.0,
           "precos_cidades": {
             "Curitiba": 45.0
           },
           "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LARANJA PERA MEDIA cx 20 kg",
+          "preco": 45.0,
+          "precos_cidades": {
+            "Curitiba": 45.0,
+            "Londrina": 25.0
+          },
+          "unidade": "R$",
           "preco_anterior": 45.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LICHIA cx 3 kg",
+          "preco": 85.0,
+          "precos_cidades": {
+            "Curitiba": 85.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LIMÃO IMPORTADO cx 20 kg",
+          "preco": 187.0,
+          "precos_cidades": {
+            "Curitiba": 187.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1051,19 +1621,93 @@
           "diminuiu": false
         },
         {
-          "produto": "LIMAO ROSA cx 6 kg",
-          "preco": 15.0,
+          "produto": "LIMAO SICILIANO  cx 15 kg",
+          "preco": 140.0,
           "precos_cidades": {
-            "Curitiba": 15.0
+            "Curitiba": 140.0
           },
           "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LIMÃO SICILIANO IMPORTADO cx 15 kg",
+          "preco": 140.0,
+          "precos_cidades": {
+            "Curitiba": 140.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "LIMAO TAHITI GRAUDO cx 23 kg",
+          "preco": 220.0,
+          "precos_cidades": {
+            "Curitiba": 220.0,
+            "Londrina": 200.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 220.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LIMAO TAHITI MEDIO cx 23 kg",
+          "preco": 180.0,
+          "precos_cidades": {
+            "Curitiba": 180.0,
+            "Londrina": 180.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 180.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "LOURO mç 500 g",
+          "preco": 10.0,
+          "precos_cidades": {
+            "Curitiba": 10.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MAÇA FUJI CAT 1 TP 80 A 100 cx 18 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Curitiba": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MAÇA GALA CAT 2 TP 80 A 100 cx 18 kg",
+          "preco": 110.0,
+          "precos_cidades": {
+            "Curitiba": 110.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MAÇA GRAND SMITH TP 80 A 100 cx 18 kg",
           "preco": 220.0,
           "precos_cidades": {
             "Curitiba": 220.0
@@ -1075,14 +1719,14 @@
           "diminuiu": false
         },
         {
-          "produto": "LIMAO TAHITI MEDIO cx 23 kg",
-          "preco": 180.0,
+          "produto": "MAMAO FORMOSA kg",
+          "preco": 5.66,
           "precos_cidades": {
-            "Curitiba": 180.0
+            "Curitiba": 5.66
           },
           "unidade": "R$",
-          "preco_anterior": 180.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1090,7 +1734,8 @@
           "produto": "MAMAO FORMOSA MADURO cx 15 kg",
           "preco": 100.0,
           "precos_cidades": {
-            "Curitiba": 100.0
+            "Curitiba": 100.0,
+            "Londrina": 95.0
           },
           "unidade": "R$",
           "preco_anterior": 100.0,
@@ -1112,26 +1757,100 @@
         },
         {
           "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
-          "preco": 70.84,
+          "preco": 70.99,
           "precos_cidades": {
-            "Curitiba": 70.84
+            "Curitiba": 70.99
           },
           "unidade": "R$",
-          "preco_anterior": 67.05,
-          "variacao_pct": 5.65,
+          "preco_anterior": 70.84,
+          "variacao_pct": 0.21,
           "aumentou": true,
           "diminuiu": false
         },
         {
-          "produto": "MANDIOQUINHA/BATATA SALSA  SACOLA cx 5 kg",
-          "preco": 19.55,
+          "produto": "MANDIOQUINHA/BATATA SALSA SEGUNDA cx 20 kg",
+          "preco": 45.0,
           "precos_cidades": {
-            "Curitiba": 19.55
+            "Curitiba": 45.0
           },
           "unidade": "R$",
-          "preco_anterior": 18.21,
-          "variacao_pct": 7.36,
-          "aumentou": true,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MANDIOQUINHA/BATATA SALSA  SACOLA cx 5 kg",
+          "preco": 18.5,
+          "precos_cidades": {
+            "Curitiba": 18.5
+          },
+          "unidade": "R$",
+          "preco_anterior": 19.55,
+          "variacao_pct": -5.37,
+          "aumentou": false,
+          "diminuiu": true
+        },
+        {
+          "produto": "MANGA ESPADA COMUM cx 10 kg",
+          "preco": 100.0,
+          "precos_cidades": {
+            "Curitiba": 100.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MANGA HADEN cx 6 kg",
+          "preco": 55.0,
+          "precos_cidades": {
+            "Curitiba": 55.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MANGA PALMER cx 20 kg",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0,
+            "Londrina": 75.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MANGA TOMMY ATKING cx 20 kg",
+          "preco": 65.0,
+          "precos_cidades": {
+            "Curitiba": 65.0,
+            "Londrina": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MANJERICAO bj 50 g",
+          "preco": 2.0,
+          "precos_cidades": {
+            "Curitiba": 2.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1147,10 +1866,120 @@
           "diminuiu": false
         },
         {
-          "produto": "MEL kg",
-          "preco": 20.0,
+          "produto": "MANJERONA bj 50 g",
+          "preco": 1.5,
           "precos_cidades": {
-            "Curitiba": 20.0
+            "Curitiba": 1.5
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MARACUJA AZEDO cx 11 kg",
+          "preco": 140.0,
+          "precos_cidades": {
+            "Londrina": 140.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MARACUJA AZEDO cx 12 kg",
+          "preco": 130.0,
+          "precos_cidades": {
+            "Curitiba": 130.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MARACUJA DOCE cx 2 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Curitiba": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELANCIA KODAMA cx 10 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Curitiba": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELANCIA REDONDA kg",
+          "preco": 2.3,
+          "precos_cidades": {
+            "Curitiba": 2.3,
+            "Londrina": 2.1
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELAO AMARELO COMUM TP-10 cx 13 kg",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0,
+            "Londrina": 75.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELAO AMARELO COMUM TP-14 cx 13 kg",
+          "preco": 80.0,
+          "precos_cidades": {
+            "Londrina": 80.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELAO AMARELO COMUM TP-8 cx 13 kg",
+          "preco": 85.0,
+          "precos_cidades": {
+            "Londrina": 85.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MELAO AMARELO REI 5 A 7 UN cx 10 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Londrina": 120.0
           },
           "unidade": "R$",
           "preco_anterior": null,
@@ -1171,16 +2000,64 @@
           "diminuiu": false
         },
         {
-          "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
-          "preco": 40.0,
+          "produto": "MILHO VERDE BANDEJA C/4 UN bj 750 g",
+          "preco": 4.0,
           "precos_cidades": {
-            "Curitiba": 40.0
+            "Curitiba": 4.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MILHO VERDE BANDEJA C/5 UN bj 1 kg",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Curitiba": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MILHO VERDE SC C/50 ESPIGAS sc c/50 espigas",
+          "preco": 55.0,
+          "precos_cidades": {
+            "Curitiba": 55.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MIRTILO cx 2 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Curitiba": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MORANGO  4 BANDEJAS cx 1,2 kg",
+          "preco": 35.0,
+          "precos_cidades": {
+            "Curitiba": 35.0
           },
           "unidade": "R$",
           "preco_anterior": 40.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -12.5,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "MOSTARDA mç 400 g",
@@ -1191,6 +2068,18 @@
           "unidade": "R$",
           "preco_anterior": 2.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "MUDAS DE HOTALIÇAS bj plas 200 cél",
+          "preco": 25.0,
+          "precos_cidades": {
+            "Curitiba": 25.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1219,18 +2108,6 @@
           "diminuiu": false
         },
         {
-          "produto": "NECTARINA NACIONAL cx 10 kg",
-          "preco": 80.0,
-          "precos_cidades": {
-            "Curitiba": 80.0
-          },
-          "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
           "produto": "NECTARINA NACIONAL cx 20 kg",
           "preco": 150.0,
           "precos_cidades": {
@@ -1239,6 +2116,92 @@
           "unidade": "R$",
           "preco_anterior": 150.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "NOZ MACADAMIA cx 3 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Curitiba": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ORA-PRO-NOBIS bj 50 g",
+          "preco": 3.0,
+          "precos_cidades": {
+            "Curitiba": 3.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "OREGANO BANDEJA bj 50 g",
+          "preco": 1.5,
+          "precos_cidades": {
+            "Curitiba": 1.5
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "OUTRAS FLORES DE CORTE pc 2 kg",
+          "preco": 15.0,
+          "precos_cidades": {
+            "Curitiba": 15.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "OVO BRANCO EXTRA cx c/ 30 dz",
+          "preco": 165.0,
+          "precos_cidades": {
+            "Curitiba": 165.0,
+            "Londrina": 190.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "OVO BRANCO GRANDE cx c/ 30 dz",
+          "preco": 160.0,
+          "precos_cidades": {
+            "Curitiba": 160.0,
+            "Londrina": 180.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "OVO VERMELHO EXTRA cx c/ 30 dz",
+          "preco": 225.0,
+          "precos_cidades": {
+            "Londrina": 225.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1279,14 +2242,123 @@
           "diminuiu": false
         },
         {
+          "produto": "PERA IMPORTADA D´ANJOU TP 80 A 100 cx 18 kg",
+          "preco": 160.0,
+          "precos_cidades": {
+            "Curitiba": 160.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PERA IMPORTADA PACKHAM´S TP 80 A 100 cx 18 kg",
+          "preco": 155.0,
+          "precos_cidades": {
+            "Curitiba": 155.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PERA IMPORTADA WILLIAMS TP 80 A 100 cx 18 kg",
+          "preco": 160.0,
+          "precos_cidades": {
+            "Curitiba": 160.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "PESSEGO cx 18 kg",
           "preco": 140.0,
           "precos_cidades": {
-            "Curitiba": 140.0
+            "Curitiba": 140.0,
+            "Londrina": 180.0
           },
           "unidade": "R$",
           "preco_anterior": 140.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PHISALIS VELUVA cx 1,5 kg",
+          "preco": 75.0,
+          "precos_cidades": {
+            "Curitiba": 75.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PHYSALIS VELUVA IMPORTADA cx 1,5 kg",
+          "preco": 75.0,
+          "precos_cidades": {
+            "Curitiba": 75.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PIMENTA AMERICANA bj 250 g",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Curitiba": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PIMENTA AMERICANA cx 12 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Curitiba": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PIMENTA BIQUINHO  cx 10 kg",
+          "preco": 100.0,
+          "precos_cidades": {
+            "Curitiba": 100.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PIMENTA CAMBUCI cx 12 kg",
+          "preco": 130.0,
+          "precos_cidades": {
+            "Curitiba": 130.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1297,8 +2369,8 @@
             "Curitiba": 4.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 4.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1309,8 +2381,8 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1327,6 +2399,30 @@
           "diminuiu": false
         },
         {
+          "produto": "PIMENTA MALAGUETA  bj 150 g",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Curitiba": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "PIMENTÃO AMARELO EXTRA AA cx 12 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Curitiba": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "PIMENTÃO COLORIDO EXTRA AA cx 12 kg",
           "preco": 120.0,
           "precos_cidades": {
@@ -1335,18 +2431,6 @@
           "unidade": "R$",
           "preco_anterior": 120.0,
           "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PIMENTÃO VERDE BANDEJA bj 300 g",
-          "preco": 5.0,
-          "precos_cidades": {
-            "Curitiba": 5.0
-          },
-          "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1375,14 +2459,62 @@
           "diminuiu": false
         },
         {
-          "produto": "QUIABO SEGUNDA cx 15 kg",
+          "produto": "PITAIA C/12UN cx 4 kg",
           "preco": 120.0,
           "precos_cidades": {
             "Curitiba": 120.0
           },
           "unidade": "R$",
-          "preco_anterior": 130.0,
-          "variacao_pct": -7.69,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "QUEIJO SOJA TUFU pç 500 g",
+          "preco": 14.0,
+          "precos_cidades": {
+            "Curitiba": 14.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "QUIABO bj 300 g",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Curitiba": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "QUIABO PRIMEIRA cx 15 kg",
+          "preco": 140.0,
+          "precos_cidades": {
+            "Curitiba": 140.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "QUIABO SEGUNDA cx 15 kg",
+          "preco": 110.0,
+          "precos_cidades": {
+            "Curitiba": 110.0
+          },
+          "unidade": "R$",
+          "preco_anterior": 120.0,
+          "variacao_pct": -8.33,
           "aumentou": false,
           "diminuiu": true
         },
@@ -1423,14 +2555,26 @@
           "diminuiu": false
         },
         {
+          "produto": "RADITE HIDROPONICO pc 300 g",
+          "preco": 2.5,
+          "precos_cidades": {
+            "Curitiba": 2.5
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "RAPADURA   pc 500 g",
           "preco": 5.0,
           "precos_cidades": {
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": null,
-          "variacao_pct": null,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1455,6 +2599,18 @@
           "unidade": "R$",
           "preco_anterior": 3.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "REPOLHO VERDE CABEÇA GRANDE cb 2,5 kg",
+          "preco": 1.8,
+          "precos_cidades": {
+            "Curitiba": 1.8
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1491,6 +2647,18 @@
           "unidade": "R$",
           "preco_anterior": 18.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "ROMA IMPORTADA   cx 3 kg",
+          "preco": 120.0,
+          "precos_cidades": {
+            "Curitiba": 120.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1549,9 +2717,9 @@
             "Curitiba": 8.0
           },
           "unidade": "R$",
-          "preco_anterior": 7.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 8.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1579,14 +2747,62 @@
           "diminuiu": false
         },
         {
-          "produto": "TANGERINA PONKAN MEDIA cx 20 kg",
-          "preco": 50.0,
+          "produto": "TAMARA FRESCA IMPORTADA cx 5 kg",
+          "preco": 230.0,
           "precos_cidades": {
-            "Curitiba": 50.0
+            "Curitiba": 230.0
           },
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TANGERINA IMPORTADA cx 10 kg",
+          "preco": 100.0,
+          "precos_cidades": {
+            "Curitiba": 100.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TANGERINA MONTEN/BERGAM cx 20 kg",
+          "preco": 90.0,
+          "precos_cidades": {
+            "Curitiba": 90.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TANGERINA PONKAN GRAUDA cx 20 kg",
+          "preco": 60.0,
+          "precos_cidades": {
+            "Curitiba": 60.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TEMPEROS VARIADOS  bj 50 g",
+          "preco": 2.0,
+          "precos_cidades": {
+            "Curitiba": 2.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1597,9 +2813,9 @@
             "Curitiba": 280.0
           },
           "unidade": "R$",
-          "preco_anterior": 250.0,
-          "variacao_pct": 12.0,
-          "aumentou": true,
+          "preco_anterior": 280.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1621,9 +2837,9 @@
             "Curitiba": 5.0
           },
           "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 25.0,
-          "aumentou": true,
+          "preco_anterior": 5.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1633,9 +2849,21 @@
             "Curitiba": 6.0
           },
           "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 20.0,
-          "aumentou": true,
+          "preco_anterior": 6.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "TOMATE LONGA VIDA EXTRA A cx 20 kg",
+          "preco": 270.0,
+          "precos_cidades": {
+            "Curitiba": 270.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1645,9 +2873,9 @@
             "Curitiba": 320.0
           },
           "unidade": "R$",
-          "preco_anterior": 280.0,
-          "variacao_pct": 14.29,
-          "aumentou": true,
+          "preco_anterior": 320.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1663,6 +2891,80 @@
           "diminuiu": false
         },
         {
+          "produto": "UVA CRINSON NACIONAL cx 5 kg",
+          "preco": 65.0,
+          "precos_cidades": {
+            "Curitiba": 65.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA NIAGARA ROSADA cx 8 kg",
+          "preco": 95.0,
+          "precos_cidades": {
+            "Curitiba": 95.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA PRETA NACIONAL cx 8 kg",
+          "preco": 85.0,
+          "precos_cidades": {
+            "Curitiba": 85.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA REDGLO IMPORTADA cx 9 kg",
+          "preco": 130.0,
+          "precos_cidades": {
+            "Curitiba": 130.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA THOMPSON NACIONAL cx 5 kg",
+          "preco": 70.0,
+          "precos_cidades": {
+            "Curitiba": 70.0,
+            "Londrina": 85.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "UVA VITORIA NACIONAL cx 5 kg",
+          "preco": 65.0,
+          "precos_cidades": {
+            "Curitiba": 65.0,
+            "Londrina": 80.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
           "produto": "VAGEM BANDEJA bj 300 g",
           "preco": 6.0,
           "precos_cidades": {
@@ -1671,6 +2973,18 @@
           "unidade": "R$",
           "preco_anterior": 6.0,
           "variacao_pct": 0.0,
+          "aumentou": false,
+          "diminuiu": false
+        },
+        {
+          "produto": "VAGEM SEM FIO bj 300 g",
+          "preco": 5.0,
+          "precos_cidades": {
+            "Curitiba": 5.0
+          },
+          "unidade": "R$",
+          "preco_anterior": null,
+          "variacao_pct": null,
           "aumentou": false,
           "diminuiu": false
         },
@@ -1688,100 +3002,28 @@
         }
       ],
       "fonte": "https://celepar7.pr.gov.br/ceasa/hoje.asp",
-      "total_produtos": 140,
-      "total_aumentos": 14,
-      "total_diminuicoes": 1,
+      "total_produtos": 248,
+      "total_aumentos": 2,
+      "total_diminuicoes": 3,
       "aumentos": [
         {
           "produto": "BETERRABA EXTRA A cx 20 kg",
-          "preco": 65.0,
-          "preco_anterior": 40.0,
-          "variacao_pct": 62.5
-        },
-        {
-          "produto": "BETERRABA MEDIA mç 1,5 kg",
-          "preco": 3.0,
-          "preco_anterior": 2.0,
-          "variacao_pct": 50.0
-        },
-        {
-          "produto": "ABOBRINHA VERDE EXTRA A cx 20 kg",
-          "preco": 100.0,
-          "preco_anterior": 80.0,
-          "variacao_pct": 25.0
-        },
-        {
-          "produto": "CEBOLINHA mç 400 g",
-          "preco": 5.0,
-          "preco_anterior": 4.0,
-          "variacao_pct": 25.0
-        },
-        {
-          "produto": "TOMATE CEREJA BANDEJA bj 200 g",
-          "preco": 5.0,
-          "preco_anterior": 4.0,
-          "variacao_pct": 25.0
-        },
-        {
-          "produto": "TOMATE CEREJA BANDEJA bj 450 g",
-          "preco": 6.0,
-          "preco_anterior": 5.0,
-          "variacao_pct": 20.0
-        },
-        {
-          "produto": "SALSINHA mç 400 g",
-          "preco": 8.0,
-          "preco_anterior": 7.0,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "TOMATE SALADETE EXTRA AA cx 20 kg",
-          "preco": 320.0,
-          "preco_anterior": 280.0,
-          "variacao_pct": 14.29
-        },
-        {
-          "produto": "INHAME-TAIA SEGUNDA cx 20 kg",
-          "preco": 90.0,
-          "preco_anterior": 80.0,
-          "variacao_pct": 12.5
-        },
-        {
-          "produto": "TOMATE EXTRA A cx 20 kg",
-          "preco": 280.0,
-          "preco_anterior": 250.0,
-          "variacao_pct": 12.0
-        },
-        {
-          "produto": "BATATA COMUM ESPECIAL sc 25 kg",
-          "preco": 110.0,
-          "preco_anterior": 100.0,
-          "variacao_pct": 10.0
-        },
-        {
-          "produto": "CEBOLA PERA sc 20 kg",
-          "preco": 140.0,
-          "preco_anterior": 130.0,
+          "preco": 70.0,
+          "preco_anterior": 65.0,
           "variacao_pct": 7.69
         },
         {
-          "produto": "MANDIOQUINHA/BATATA SALSA  SACOLA cx 5 kg",
-          "preco": 19.55,
-          "preco_anterior": 18.21,
-          "variacao_pct": 7.36
-        },
-        {
           "produto": "MANDIOQUINHA/BATATA SALSA PRIMEIRA cx 20 kg",
-          "preco": 70.84,
-          "preco_anterior": 67.05,
-          "variacao_pct": 5.65
+          "preco": 70.99,
+          "preco_anterior": 70.84,
+          "variacao_pct": 0.21
         }
       ]
     },
     {
       "estado": "SC",
       "nome": "CEASA Santa Catarina",
-      "data": "09/11/2026",
+      "data": "10/11/2026",
       "cotacoes": [
         {
           "produto": "ABACATE",
@@ -1808,12 +3050,12 @@
         {
           "produto": "ABOBORA ABOBRINHA ITALIANA",
           "preco": 50.0,
-          "preco_min": 40.0,
+          "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 40.0,
-          "variacao_pct": 25.0,
-          "aumentou": true,
+          "preco_anterior": 50.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1822,16 +3064,16 @@
           "preco_min": 60.0,
           "preco_max": 70.0,
           "unidade": "R$",
-          "preco_anterior": 45.0,
-          "variacao_pct": 44.44,
-          "aumentou": true,
+          "preco_anterior": 65.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "ABOBORA MENINA",
           "preco": 70.0,
           "preco_min": 60.0,
-          "preco_max": 80.0,
+          "preco_max": 70.0,
           "unidade": "R$",
           "preco_anterior": 70.0,
           "variacao_pct": 0.0,
@@ -1844,9 +3086,9 @@
           "preco_min": 30.0,
           "preco_max": 40.0,
           "unidade": "R$",
-          "preco_anterior": 30.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 35.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -1863,8 +3105,8 @@
         {
           "produto": "ACELGA",
           "preco": 4.0,
-          "preco_min": 3.0,
-          "preco_max": 4.0,
+          "preco_min": 3.5,
+          "preco_max": 4.5,
           "unidade": "R$",
           "preco_anterior": 4.0,
           "variacao_pct": 0.0,
@@ -2227,7 +3469,7 @@
           "produto": "BATATA INGLESA MINI",
           "preco": 4.0,
           "preco_min": 4.0,
-          "preco_max": 5.0,
+          "preco_max": 4.0,
           "unidade": "R$",
           "preco_anterior": 4.0,
           "variacao_pct": 0.0,
@@ -2291,13 +3533,13 @@
         },
         {
           "produto": "BETERRABA",
-          "preco": 3.5,
-          "preco_min": 3.0,
+          "preco": 4.0,
+          "preco_min": 4.0,
           "preco_max": 4.0,
           "unidade": "R$",
           "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 14.29,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -2469,11 +3711,11 @@
           "produto": "CEBOLA PERA",
           "preco": 130.0,
           "preco_min": 120.0,
-          "preco_max": 135.0,
+          "preco_max": 140.0,
           "unidade": "R$",
-          "preco_anterior": 120.0,
-          "variacao_pct": 8.33,
-          "aumentou": true,
+          "preco_anterior": 130.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -2647,10 +3889,10 @@
           "preco_min": 3.5,
           "preco_max": 4.0,
           "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": -12.5,
+          "preco_anterior": 3.5,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "ERVILHA",
@@ -3073,7 +4315,7 @@
         {
           "produto": "MARACUJÁ AZEDO",
           "preco": 145.0,
-          "preco_min": 135.0,
+          "preco_min": 130.0,
           "preco_max": 155.0,
           "unidade": "R$",
           "preco_anterior": 145.0,
@@ -3186,10 +4428,10 @@
           "preco_min": 2.4,
           "preco_max": 2.5,
           "unidade": "R$",
-          "preco_anterior": 2.5,
-          "variacao_pct": -4.0,
+          "preco_anterior": 2.4,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "MELANCIA KODAMA",
@@ -3208,9 +4450,9 @@
           "preco_min": 72.0,
           "preco_max": 82.5,
           "unidade": "R$",
-          "preco_anterior": 67.5,
-          "variacao_pct": 11.11,
-          "aumentou": true,
+          "preco_anterior": 75.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3270,14 +4512,14 @@
         },
         {
           "produto": "MORANGO",
-          "preco": 25.0,
+          "preco": 20.0,
           "preco_min": 20.0,
           "preco_max": 25.0,
           "unidade": "R$",
           "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -20.0,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         },
         {
           "produto": "MOSTARDA EM FOLHA",
@@ -3461,10 +4703,10 @@
           "preco_min": 60.0,
           "preco_max": 75.0,
           "unidade": "R$",
-          "preco_anterior": 90.0,
-          "variacao_pct": -22.22,
+          "preco_anterior": 70.0,
+          "variacao_pct": 0.0,
           "aumentou": false,
-          "diminuiu": true
+          "diminuiu": false
         },
         {
           "produto": "PEPINO SALADA",
@@ -3472,9 +4714,9 @@
           "preco_min": 50.0,
           "preco_max": 60.0,
           "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 10.0,
-          "aumentou": true,
+          "preco_anterior": 55.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3590,7 +4832,7 @@
         {
           "produto": "PIMENTÃO VERMELHO(A)",
           "preco": 10.0,
-          "preco_min": 8.0,
+          "preco_min": 10.0,
           "preco_max": 10.0,
           "unidade": "R$",
           "preco_anterior": 10.0,
@@ -3667,7 +4909,7 @@
         {
           "produto": "RABANETE",
           "preco": 2.0,
-          "preco_min": 1.5,
+          "preco_min": 1.8,
           "preco_max": 2.0,
           "unidade": "R$",
           "preco_anterior": 2.0,
@@ -3703,9 +4945,9 @@
           "preco_min": 2.0,
           "preco_max": 2.5,
           "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 25.0,
-          "aumentou": true,
+          "preco_anterior": 2.5,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3835,9 +5077,9 @@
           "preco_min": 24.0,
           "preco_max": 28.0,
           "unidade": "R$",
-          "preco_anterior": 14.0,
-          "variacao_pct": 71.43,
-          "aumentou": true,
+          "preco_anterior": 24.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
@@ -3846,20 +5088,20 @@
           "preco_min": 240.0,
           "preco_max": 280.0,
           "unidade": "R$",
-          "preco_anterior": 240.0,
-          "variacao_pct": 16.67,
-          "aumentou": true,
+          "preco_anterior": 280.0,
+          "variacao_pct": 0.0,
+          "aumentou": false,
           "diminuiu": false
         },
         {
           "produto": "TOMATE LONGA VIDA",
-          "preco": 240.0,
-          "preco_min": 240.0,
-          "preco_max": 280.0,
+          "preco": 250.0,
+          "preco_min": 250.0,
+          "preco_max": 290.0,
           "unidade": "R$",
           "preco_anterior": 240.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
+          "variacao_pct": 4.17,
+          "aumentou": true,
           "diminuiu": false
         },
         {
@@ -3996,3121 +5238,43 @@
         },
         {
           "produto": "VAGEM",
-          "preco": 6.0,
+          "preco": 4.0,
           "preco_min": 0.35,
-          "preco_max": 7.0,
+          "preco_max": 5.0,
           "unidade": "R$",
           "preco_anterior": 6.0,
-          "variacao_pct": 0.0,
+          "variacao_pct": -33.33,
           "aumentou": false,
-          "diminuiu": false
+          "diminuiu": true
         }
       ],
       "fonte": "https://www.ceasa.sc.gov.br/index.php/cotacao-de-precos",
       "total_produtos": 202,
-      "total_aumentos": 9,
-      "total_diminuicoes": 3,
+      "total_aumentos": 2,
+      "total_diminuicoes": 2,
       "aumentos": [
         {
-          "produto": "TOMATE CEREJA",
-          "preco": 24.0,
-          "preco_anterior": 14.0,
-          "variacao_pct": 71.43
+          "produto": "BETERRABA",
+          "preco": 4.0,
+          "preco_anterior": 3.5,
+          "variacao_pct": 14.29
         },
         {
-          "produto": "ABOBORA KABUTIÁ",
-          "preco": 65.0,
-          "preco_anterior": 45.0,
-          "variacao_pct": 44.44
-        },
-        {
-          "produto": "ABOBORA ABOBRINHA ITALIANA",
-          "preco": 50.0,
-          "preco_anterior": 40.0,
-          "variacao_pct": 25.0
-        },
-        {
-          "produto": "REPOLHO VERDE",
-          "preco": 2.5,
-          "preco_anterior": 2.0,
-          "variacao_pct": 25.0
-        },
-        {
-          "produto": "ABOBORA MORANGA",
-          "preco": 35.0,
-          "preco_anterior": 30.0,
-          "variacao_pct": 16.67
-        },
-        {
-          "produto": "TOMATE ITALIANO",
-          "preco": 280.0,
+          "produto": "TOMATE LONGA VIDA",
+          "preco": 250.0,
           "preco_anterior": 240.0,
-          "variacao_pct": 16.67
-        },
-        {
-          "produto": "MELANCIA PINGO DOCE",
-          "preco": 75.0,
-          "preco_anterior": 67.5,
-          "variacao_pct": 11.11
-        },
-        {
-          "produto": "PEPINO SALADA",
-          "preco": 55.0,
-          "preco_anterior": 50.0,
-          "variacao_pct": 10.0
-        },
-        {
-          "produto": "CEBOLA PERA",
-          "preco": 130.0,
-          "preco_anterior": 120.0,
-          "variacao_pct": 8.33
+          "variacao_pct": 4.17
         }
       ]
     },
     {
       "estado": "RS",
       "nome": "CEASA Rio Grande do Sul",
-      "data": "31/03/2026",
-      "cotacoes": [
-        {
-          "produto": "ABOBORA",
-          "preco": 3.5,
-          "preco_min": 2.0,
-          "preco_max": 3.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ABOBRINHA ITALIANA",
-          "preco": 2.33,
-          "preco_min": 2.22,
-          "preco_max": 3.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ABOBRINHA TRONCO",
-          "preco": 2.77,
-          "preco_min": 2.22,
-          "preco_max": 3.89,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.77,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ACELGA",
-          "preco": 30.0,
-          "preco_min": 25.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 30.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "AGRIAO",
-          "preco": 18.0,
-          "preco_min": 15.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 18.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "AIPO SALSAO",
-          "preco": 84.0,
-          "preco_min": 78.0,
-          "preco_max": 84.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 84.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALECRIM",
-          "preco": 2.0,
-          "preco_min": 1.5,
-          "preco_max": 2.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALFACE AMERICANA",
-          "preco": 35.0,
-          "preco_min": 20.0,
-          "preco_max": 40.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALFACE CRESPA",
-          "preco": 25.0,
-          "preco_min": 20.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALFACE LISA",
-          "preco": 25.0,
-          "preco_min": 20.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALFACE MIMOSA",
-          "preco": 25.0,
-          "preco_min": 20.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALHO IMPORTADO",
-          "preco": 15.0,
-          "preco_min": 13.0,
-          "preco_max": 17.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALHO MACHO",
-          "preco": 15.0,
-          "preco_min": 10.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALHO NACIONAL",
-          "preco": 16.0,
-          "preco_min": 15.0,
-          "preco_max": 18.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 16.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALHO PORO",
-          "preco": 30.0,
-          "preco_min": 30.0,
-          "preco_max": 35.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 30.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALMEIRAO / RADITE",
-          "preco": 15.0,
-          "preco_min": 15.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BATATA BRANCA",
-          "preco": 2.4,
-          "preco_min": 2.0,
-          "preco_max": 2.6,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.4,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BATATA ROSA",
-          "preco": 2.6,
-          "preco_min": 2.0,
-          "preco_max": 2.8,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.6,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BATATA-DOCE",
-          "preco": 2.5,
-          "preco_min": 1.5,
-          "preco_max": 3.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BERINJELA",
-          "preco": 5.0,
-          "preco_min": 3.0,
-          "preco_max": 6.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BETERRABA",
-          "preco": 4.0,
-          "preco_min": 2.5,
-          "preco_max": 4.25,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BETERRABA MOLHO",
-          "preco": 80.0,
-          "preco_min": 50.0,
-          "preco_max": 80.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BROCOLIS",
-          "preco": 40.0,
-          "preco_min": 35.0,
-          "preco_max": 50.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 40.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BROTOS DIVERSOS",
-          "preco": 25.0,
-          "preco_min": 20.0,
-          "preco_max": 25.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CARA",
-          "preco": 10.67,
-          "preco_min": 8.66,
-          "preco_max": 10.67,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.67,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CEBOLA IMPORTADA",
-          "preco": 3.25,
-          "preco_min": 2.75,
-          "preco_max": 3.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.25,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CEBOLA NACIONAL",
-          "preco": 2.75,
-          "preco_min": 1.75,
-          "preco_max": 3.25,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.75,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CEBOLA ROXA",
-          "preco": 5.0,
-          "preco_min": 3.25,
-          "preco_max": 5.25,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CENOURA",
-          "preco": 3.75,
-          "preco_min": 2.5,
-          "preco_max": 4.25,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.75,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CENOURA BABY",
-          "preco": 24.0,
-          "preco_min": 24.0,
-          "preco_max": 44.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 24.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CHEIRO VERDE / TEMPERO",
-          "preco": 10.0,
-          "preco_min": 10.0,
-          "preco_max": 15.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CHICORIA",
-          "preco": 15.0,
-          "preco_min": 10.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CHUCHU",
-          "preco": 3.0,
-          "preco_min": 2.0,
-          "preco_max": 3.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CHUCHU MINI",
-          "preco": 15.0,
-          "preco_min": 15.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COUVE",
-          "preco": 18.0,
-          "preco_min": 12.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 18.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COUVE CHINESA",
-          "preco": 50.0,
-          "preco_min": 40.0,
-          "preco_max": 60.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COUVE-FLOR",
-          "preco": 50.0,
-          "preco_min": 40.0,
-          "preco_max": 60.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ENDIVIA",
-          "preco": 58.0,
-          "preco_min": 56.0,
-          "preco_max": 58.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 58.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ERVA DOCE / FUNCHO",
-          "preco": 84.0,
-          "preco_min": 72.0,
-          "preco_max": 90.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 84.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ERVAS AROMATICAS",
-          "preco": 2.0,
-          "preco_min": 2.0,
-          "preco_max": 3.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ERVILHA",
-          "preco": 25.0,
-          "preco_min": 25.0,
-          "preco_max": 25.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ERVILHA TORTA",
-          "preco": 60.0,
-          "preco_min": 60.0,
-          "preco_max": 60.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 60.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ESPINAFRE",
-          "preco": 25.0,
-          "preco_min": 20.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FAVA",
-          "preco": 16.56,
-          "preco_min": 15.55,
-          "preco_max": 16.56,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 16.56,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FLORES COMESTIVEIS",
-          "preco": 12.0,
-          "preco_min": 12.0,
-          "preco_max": 25.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 12.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "GENGIBRE",
-          "preco": 12.0,
-          "preco_min": 12.0,
-          "preco_max": 15.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 12.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "INHAME",
-          "preco": 10.56,
-          "preco_min": 7.0,
-          "preco_max": 10.67,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.56,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LOURO",
-          "preco": 2.0,
-          "preco_min": 2.0,
-          "preco_max": 2.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MANDIOCA",
-          "preco": 2.22,
-          "preco_min": 1.94,
-          "preco_max": 2.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MANDIOQUINHA",
-          "preco": 18.0,
-          "preco_min": 18.0,
-          "preco_max": 24.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 18.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MANJERICAO",
-          "preco": 2.0,
-          "preco_min": 2.0,
-          "preco_max": 3.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MANJERONA",
-          "preco": 2.0,
-          "preco_min": 2.0,
-          "preco_max": 3.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MILHO VERDE (3UN)",
-          "preco": 3.0,
-          "preco_min": 2.0,
-          "preco_max": 3.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MOGANGO",
-          "preco": 3.5,
-          "preco_min": 2.5,
-          "preco_max": 3.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MORANGA AMARELA / VERMELHA",
-          "preco": 1.67,
-          "preco_min": 1.25,
-          "preco_max": 2.22,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 1.67,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MORANGA CABOTIA",
-          "preco": 2.5,
-          "preco_min": 2.22,
-          "preco_max": 3.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MORANGA MINI",
-          "preco": 40.0,
-          "preco_min": 35.0,
-          "preco_max": 40.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 40.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MOSTARDA",
-          "preco": 20.0,
-          "preco_min": 20.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 20.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "NABO (EM CAIXA OU EM SACO)",
-          "preco": 5.0,
-          "preco_min": 3.5,
-          "preco_max": 5.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "NABO (EM MOLHO)",
-          "preco": 30.0,
-          "preco_min": 30.0,
-          "preco_max": 40.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 30.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PEPINO CONSERVA",
-          "preco": 8.33,
-          "preco_min": 7.5,
-          "preco_max": 8.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PEPINO JAPONES",
-          "preco": 4.44,
-          "preco_min": 2.78,
-          "preco_max": 4.44,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.44,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PEPINO SALADA",
-          "preco": 3.33,
-          "preco_min": 2.78,
-          "preco_max": 3.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PIMENTA",
-          "preco": 15.0,
-          "preco_min": 6.0,
-          "preco_max": 25.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PIMENTAO AMARELO",
-          "preco": 13.0,
-          "preco_min": 10.0,
-          "preco_max": 13.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 13.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PIMENTAO CAPELETI",
-          "preco": 12.5,
-          "preco_min": 10.0,
-          "preco_max": 12.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 12.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PIMENTAO MINI",
-          "preco": 8.5,
-          "preco_min": 8.5,
-          "preco_max": 8.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PIMENTAO VERDE",
-          "preco": 8.0,
-          "preco_min": 8.0,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PIMENTAO VERMELHO",
-          "preco": 13.0,
-          "preco_min": 10.0,
-          "preco_max": 13.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 13.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "QUIABO",
-          "preco": 12.0,
-          "preco_min": 12.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 12.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "RABANETE",
-          "preco": 3.0,
-          "preco_min": 2.8,
-          "preco_max": 3.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "RABANETE MOLHO",
-          "preco": 25.0,
-          "preco_min": 25.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "RAIZ FORTE",
-          "preco": 100.0,
-          "preco_min": 100.0,
-          "preco_max": 100.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "REPOLHO ROXO",
-          "preco": 50.0,
-          "preco_min": 40.0,
-          "preco_max": 60.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 50.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "REPOLHO VERDE",
-          "preco": 2.22,
-          "preco_min": 1.67,
-          "preco_max": 2.78,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "RUCULA",
-          "preco": 20.0,
-          "preco_min": 15.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 20.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "SALVIA",
-          "preco": 2.0,
-          "preco_min": 1.5,
-          "preco_max": 2.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TOMATE CEREJA (MINI TOMATES)",
-          "preco": 10.0,
-          "preco_min": 8.0,
-          "preco_max": 12.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TOMATE GAUCHO",
-          "preco": 8.0,
-          "preco_min": 5.0,
-          "preco_max": 11.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TOMATE ITALIANO",
-          "preco": 4.44,
-          "preco_min": 3.0,
-          "preco_max": 6.67,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.44,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TOMATE LONGA VIDA",
-          "preco": 3.0,
-          "preco_min": 2.0,
-          "preco_max": 3.75,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TOMATE RASTEIRO",
-          "preco": 2.78,
-          "preco_min": 2.5,
-          "preco_max": 3.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.78,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "VAGEM",
-          "preco": 8.0,
-          "preco_min": 8.0,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "YACON",
-          "preco": 9.33,
-          "preco_min": 9.33,
-          "preco_max": 9.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 9.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ABACATE AVOCADO",
-          "preco": 10.0,
-          "preco_min": 10.0,
-          "preco_max": 13.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ABACATE COMUM",
-          "preco": 4.44,
-          "preco_min": 3.89,
-          "preco_max": 5.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.44,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ACEROLA",
-          "preco": 35.0,
-          "preco_min": 35.0,
-          "preco_max": 35.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "AMEIXA IMPORTADA",
-          "preco": 11.11,
-          "preco_min": 11.11,
-          "preco_max": 11.11,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.11,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "AMEIXA NACIONAL",
-          "preco": 6.0,
-          "preco_min": 2.0,
-          "preco_max": 9.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 6.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "AMORA PRETA",
-          "preco": 280.0,
-          "preco_min": 280.0,
-          "preco_max": 280.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 280.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BANANA CATURRA / NANICA",
-          "preco": 3.5,
-          "preco_min": 1.75,
-          "preco_max": 5.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BANANA DA TERRA E OUTRAS",
-          "preco": 10.0,
-          "preco_min": 7.22,
-          "preco_max": 12.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BANANA MACA",
-          "preco": 11.0,
-          "preco_min": 11.0,
-          "preco_max": 12.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BANANA PRATA / BRANCA",
-          "preco": 4.5,
-          "preco_min": 2.5,
-          "preco_max": 6.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAQUI CHOCOLATE",
-          "preco": 5.0,
-          "preco_min": 4.0,
-          "preco_max": 8.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAQUI FUYU",
-          "preco": 5.0,
-          "preco_min": 5.0,
-          "preco_max": 5.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAQUI IMPORTADO",
-          "preco": 24.0,
-          "preco_min": 18.89,
-          "preco_max": 26.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 24.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAQUI MOLE",
-          "preco": 5.71,
-          "preco_min": 4.28,
-          "preco_max": 14.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.71,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CARAMBOLA",
-          "preco": 10.0,
-          "preco_min": 10.0,
-          "preco_max": 12.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CEREJA",
-          "preco": 56.0,
-          "preco_min": 56.0,
-          "preco_max": 56.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 56.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COCO SECO",
-          "preco": 5.0,
-          "preco_min": 5.0,
-          "preco_max": 7.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FIGO MADURO",
-          "preco": 15.0,
-          "preco_min": 15.0,
-          "preco_max": 25.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FIGO VERDE",
-          "preco": 7.0,
-          "preco_min": 7.0,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FISÁLIS",
-          "preco": 81.25,
-          "preco_min": 57.29,
-          "preco_max": 100.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 81.25,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FRAMBOESA",
-          "preco": 150.0,
-          "preco_min": 150.0,
-          "preco_max": 150.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 150.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FRUTA DO CONDE / PINHA",
-          "preco": 20.0,
-          "preco_min": 20.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 20.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "GOIABA",
-          "preco": 7.22,
-          "preco_min": 6.67,
-          "preco_max": 12.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "GRAVIOLA",
-          "preco": 26.0,
-          "preco_min": 26.0,
-          "preco_max": 26.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 26.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "JABUTICABA",
-          "preco": 26.67,
-          "preco_min": 10.0,
-          "preco_max": 26.67,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 26.67,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "JILO",
-          "preco": 14.0,
-          "preco_min": 13.85,
-          "preco_max": 14.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 14.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "KINKAN",
-          "preco": 12.5,
-          "preco_min": 7.0,
-          "preco_max": 50.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 12.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "KIWI IMPORTADO",
-          "preco": 22.22,
-          "preco_min": 18.88,
-          "preco_max": 22.22,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 22.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "KIWI NACIONAL",
-          "preco": 8.0,
-          "preco_min": 8.0,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LARANJA DO CEU",
-          "preco": 4.16,
-          "preco_min": 2.22,
-          "preco_max": 4.44,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.16,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LARANJA IMPORTADA",
-          "preco": 7.86,
-          "preco_min": 6.33,
-          "preco_max": 7.86,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.86,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LARANJA SUCO",
-          "preco": 2.5,
-          "preco_min": 2.11,
-          "preco_max": 2.78,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LARANJA UMBIGO (BAHIA)",
-          "preco": 6.66,
-          "preco_min": 4.44,
-          "preco_max": 7.22,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 6.66,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LICHIA",
-          "preco": 45.0,
-          "preco_min": 45.0,
-          "preco_max": 45.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 45.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LIMA",
-          "preco": 14.44,
-          "preco_min": 14.44,
-          "preco_max": 14.44,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 14.44,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LIMAO IMPORTADO",
-          "preco": 11.33,
-          "preco_min": 6.33,
-          "preco_max": 13.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LIMAO SICILIANO",
-          "preco": 11.33,
-          "preco_min": 11.0,
-          "preco_max": 13.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LIMAO TAITI",
-          "preco": 2.5,
-          "preco_min": 2.22,
-          "preco_max": 3.89,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MACA FUJI IMPORTADA",
-          "preco": 11.11,
-          "preco_min": 5.55,
-          "preco_max": 14.44,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.11,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MACA FUJI NACIONAL",
-          "preco": 7.22,
-          "preco_min": 5.55,
-          "preco_max": 10.56,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MACA GALA IMPORTADA",
-          "preco": 7.22,
-          "preco_min": 7.22,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MACA GALA NACIONAL",
-          "preco": 7.22,
-          "preco_min": 4.44,
-          "preco_max": 8.05,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MACA GRANNY SMITH",
-          "preco": 11.67,
-          "preco_min": 7.78,
-          "preco_max": 13.11,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.67,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MACA RED DELICIOUS",
-          "preco": 11.67,
-          "preco_min": 9.16,
-          "preco_max": 13.89,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.67,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MAMAO AMAZONAS (PAPAIA)",
-          "preco": 8.0,
-          "preco_min": 7.0,
-          "preco_max": 9.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MAMAO FORMOSA",
-          "preco": 6.15,
-          "preco_min": 5.8,
-          "preco_max": 7.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 6.15,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MANGA",
-          "preco": 4.44,
-          "preco_min": 4.16,
-          "preco_max": 5.28,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.44,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MANGOSTAO",
-          "preco": 80.0,
-          "preco_min": 80.0,
-          "preco_max": 80.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 80.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MARACUJA AZEDO",
-          "preco": 6.5,
-          "preco_min": 5.0,
-          "preco_max": 7.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 6.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MARACUJA DOCE",
-          "preco": 30.0,
-          "preco_min": 30.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 30.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELANCIA",
-          "preco": 2.0,
-          "preco_min": 1.2,
-          "preco_max": 2.7,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELANCIA KODAMA / BABY",
-          "preco": 5.0,
-          "preco_min": 4.5,
-          "preco_max": 6.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELANCIA PINGO DOCE",
-          "preco": 4.0,
-          "preco_min": 4.0,
-          "preco_max": 5.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELAO CANTALOUPE",
-          "preco": 6.92,
-          "preco_min": 6.5,
-          "preco_max": 9.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 6.92,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELAO COMUM (GAUCHO)",
-          "preco": 3.33,
-          "preco_min": 2.77,
-          "preco_max": 4.61,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELAO ESPANHOL",
-          "preco": 5.38,
-          "preco_min": 5.38,
-          "preco_max": 6.15,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.38,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELAO GALIA",
-          "preco": 8.0,
-          "preco_min": 7.08,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELAO REI",
-          "preco": 8.0,
-          "preco_min": 6.92,
-          "preco_max": 12.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELAO ORANGE",
-          "preco": 8.33,
-          "preco_min": 8.0,
-          "preco_max": 9.17,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.33,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MELAO PELE DE SAPO",
-          "preco": 5.38,
-          "preco_min": 5.0,
-          "preco_max": 8.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.38,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MIRTILO",
-          "preco": 100.0,
-          "preco_min": 86.67,
-          "preco_max": 150.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 100.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MORANGO",
-          "preco": 20.0,
-          "preco_min": 18.0,
-          "preco_max": 25.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 20.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "NECTARINA",
-          "preco": 8.0,
-          "preco_min": 7.0,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "NECTARINA IMPORTADA",
-          "preco": 11.25,
-          "preco_min": 11.25,
-          "preco_max": 11.25,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.25,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "NESPERA",
-          "preco": 37.5,
-          "preco_min": 25.0,
-          "preco_max": 37.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 37.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "NOZ PECA",
-          "preco": 20.0,
-          "preco_min": 15.0,
-          "preco_max": 25.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 20.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PERA DANJOU",
-          "preco": 7.78,
-          "preco_min": 7.78,
-          "preco_max": 10.55,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.78,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PERA NACIONAL",
-          "preco": 3.5,
-          "preco_min": 2.0,
-          "preco_max": 7.22,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PERA VERMELHA",
-          "preco": 8.89,
-          "preco_min": 8.89,
-          "preco_max": 14.44,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 8.89,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PERA WILLIAMS / PACKAMS",
-          "preco": 7.5,
-          "preco_min": 6.67,
-          "preco_max": 8.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PESSEGO IMPORTADO",
-          "preco": 12.22,
-          "preco_min": 12.22,
-          "preco_max": 12.22,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 12.22,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PESSEGO NACIONAL",
-          "preco": 4.0,
-          "preco_min": 3.0,
-          "preco_max": 6.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PITAYA",
-          "preco": 6.0,
-          "preco_min": 6.0,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 6.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ROMÃ",
-          "preco": 32.5,
-          "preco_min": 26.67,
-          "preco_max": 43.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 32.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TAMARA",
-          "preco": 34.0,
-          "preco_min": 30.0,
-          "preco_max": 36.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 34.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TAMARINDO",
-          "preco": 46.67,
-          "preco_min": 30.0,
-          "preco_max": 46.67,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 46.67,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TANGERINA COMUM / CAI",
-          "preco": 3.05,
-          "preco_min": 2.78,
-          "preco_max": 3.33,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 3.05,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TANGERINA IMPORTADA",
-          "preco": 10.0,
-          "preco_min": 8.89,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TANGERINA OUTRAS",
-          "preco": 2.5,
-          "preco_min": 1.94,
-          "preco_max": 3.05,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 2.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TANGERINA PONKAN",
-          "preco": 4.5,
-          "preco_min": 4.5,
-          "preco_max": 4.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 4.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "UVA COMUM DE MESA",
-          "preco": 5.0,
-          "preco_min": 4.28,
-          "preco_max": 8.57,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "UVA FINAS DE MESA",
-          "preco": 11.42,
-          "preco_min": 10.0,
-          "preco_max": 16.25,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 11.42,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "UVA IMPORTADA",
-          "preco": 16.25,
-          "preco_min": 16.25,
-          "preco_max": 16.25,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 16.25,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ASTER",
-          "preco": 29.0,
-          "preco_min": 25.0,
-          "preco_max": 35.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 29.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ASTROMELIA",
-          "preco": 28.0,
-          "preco_min": 25.0,
-          "preco_max": 28.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 28.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BICO DE PAPAGAIO",
-          "preco": 38.0,
-          "preco_min": 35.0,
-          "preco_max": 45.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 38.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "BOCA DE LEAO",
-          "preco": 42.0,
-          "preco_min": 39.0,
-          "preco_max": 49.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 42.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CACTUS MINI 15UN",
-          "preco": 45.0,
-          "preco_min": 40.0,
-          "preco_max": 48.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 45.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COPO DE LEITE",
-          "preco": 85.0,
-          "preco_min": 79.0,
-          "preco_max": 130.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 85.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CRAVINA",
-          "preco": 39.0,
-          "preco_min": 32.0,
-          "preco_max": 45.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 39.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CRAVO",
-          "preco": 65.0,
-          "preco_min": 65.0,
-          "preco_max": 69.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 65.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CRISANTEMO",
-          "preco": 69.0,
-          "preco_min": 65.0,
-          "preco_max": 69.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 69.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ESTATICE",
-          "preco": 35.0,
-          "preco_min": 29.0,
-          "preco_max": 39.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 35.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "GERBERA 12UN",
-          "preco": 45.0,
-          "preco_min": 40.0,
-          "preco_max": 49.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 45.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "GIRASSOL 6UN",
-          "preco": 48.0,
-          "preco_min": 15.0,
-          "preco_max": 49.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 48.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "GLADIOLO MOLHE",
-          "preco": 42.0,
-          "preco_min": 42.0,
-          "preco_max": 59.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 42.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "KALANCHOE MINI15UN",
-          "preco": 55.0,
-          "preco_min": 48.0,
-          "preco_max": 60.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 55.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LIRIO MOLHE",
-          "preco": 99.0,
-          "preco_min": 22.0,
-          "preco_max": 110.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 99.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LISIANTHUS",
-          "preco": 65.0,
-          "preco_min": 59.0,
-          "preco_max": 69.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 65.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MOSQUITINHO",
-          "preco": 48.0,
-          "preco_min": 35.0,
-          "preco_max": 55.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 48.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PRIMULA 15UN",
-          "preco": 18.0,
-          "preco_min": 18.0,
-          "preco_max": 45.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 18.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ROSA COLORIDA 20UN",
-          "preco": 75.0,
-          "preco_min": 45.0,
-          "preco_max": 99.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 75.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ROSA VERMELHA 20UN",
-          "preco": 59.0,
-          "preco_min": 45.0,
-          "preco_max": 99.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 59.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "SUCULENTAS MINI 15UN",
-          "preco": 45.0,
-          "preco_min": 40.0,
-          "preco_max": 48.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 45.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TANGO",
-          "preco": 25.0,
-          "preco_min": 20.0,
-          "preco_max": 29.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "VERDES (SAMAMBAIA PRETA)",
-          "preco": 20.0,
-          "preco_min": 18.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 20.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "VERDES ASPARGO",
-          "preco": 28.0,
-          "preco_min": 25.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 28.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "VERDES EUCALIPTUS",
-          "preco": 38.0,
-          "preco_min": 35.0,
-          "preco_max": 39.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 38.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "VERDES RUSCUS",
-          "preco": 20.0,
-          "preco_min": 20.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 20.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "VIOLETA MINI 15UN",
-          "preco": 45.0,
-          "preco_min": 45.0,
-          "preco_max": 60.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 45.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ACÉM",
-          "preco": 29.9,
-          "preco_min": 29.9,
-          "preco_max": 32.98,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 29.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ALCATRA",
-          "preco": 50.9,
-          "preco_min": 49.95,
-          "preco_max": 50.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 50.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COSTELA BOVINA",
-          "preco": 36.9,
-          "preco_min": 27.95,
-          "preco_max": 36.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 36.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COSTELA OVINA",
-          "preco": 37.9,
-          "preco_min": 37.9,
-          "preco_max": 37.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 37.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COSTELA SUÍNA",
-          "preco": 29.9,
-          "preco_min": 19.98,
-          "preco_max": 29.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 29.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COXA SOBRECOXA DE FRANGO",
-          "preco": 10.9,
-          "preco_min": 7.99,
-          "preco_max": 10.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "COXÃO MOLE",
-          "preco": 51.9,
-          "preco_min": 42.9,
-          "preco_max": 51.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 51.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "ENTRECOT",
-          "preco": 53.9,
-          "preco_min": 53.9,
-          "preco_max": 59.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 53.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE FRANGO",
-          "preco": 14.99,
-          "preco_min": 14.98,
-          "preco_max": 14.99,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 14.99,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE SASSAMI DE FRANGO",
-          "preco": 17.99,
-          "preco_min": 17.99,
-          "preco_max": 18.98,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 17.99,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ MIGNON",
-          "preco": 89.9,
-          "preco_min": 89.9,
-          "preco_max": 89.98,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 89.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LINGUIÇA TOSCANA",
-          "preco": 17.99,
-          "preco_min": 17.99,
-          "preco_max": 19.93,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 17.99,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PALETA BOVINA",
-          "preco": 36.29,
-          "preco_min": 34.98,
-          "preco_max": 36.29,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 36.29,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PALETA OVINA",
-          "preco": 68.9,
-          "preco_min": 68.9,
-          "preco_max": 68.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 68.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PALETA SUÍNA",
-          "preco": 26.9,
-          "preco_min": 22.95,
-          "preco_max": 26.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 26.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PATINHO",
-          "preco": 41.9,
-          "preco_min": 41.9,
-          "preco_max": 42.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 41.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PERNIL OVINO",
-          "preco": 54.9,
-          "preco_min": 54.9,
-          "preco_max": 68.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 54.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "PERNIL SUÍNO",
-          "preco": 19.9,
-          "preco_min": 19.9,
-          "preco_max": 22.98,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 19.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "VAZIO",
-          "preco": 49.9,
-          "preco_min": 47.98,
-          "preco_max": 49.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 49.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAMARÃO CARABINEIRO INTEIRO",
-          "preco": 260.0,
-          "preco_min": 260.0,
-          "preco_max": 319.6,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 260.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAMARÃO CINZA (VANNAMEI) INTEIRO",
-          "preco": 49.9,
-          "preco_min": 49.9,
-          "preco_max": 123.1,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 49.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAMARÃO CINZA (VANNAMEI) SEM CABEÇA",
-          "preco": 163.8,
-          "preco_min": 101.41,
-          "preco_max": 163.8,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 163.8,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAMARÃO CINZA(VANNAMEI) DES. EVISC. C/ CAUDA",
-          "preco": 231.8,
-          "preco_min": 101.41,
-          "preco_max": 231.8,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 231.8,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAMARÃO ROSA DESC. EVISC.",
-          "preco": 248.29,
-          "preco_min": 199.9,
-          "preco_max": 248.29,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 248.29,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CAMARÃO 7 BARBAS",
-          "preco": 43.1,
-          "preco_min": 43.1,
-          "preco_max": 43.1,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 43.1,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "CORVINA INTEIRA",
-          "preco": 13.95,
-          "preco_min": 13.95,
-          "preco_max": 13.95,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 13.95,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE ANJO",
-          "preco": 36.61,
-          "preco_min": 36.61,
-          "preco_max": 36.61,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 36.61,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE CAÇÃO",
-          "preco": 36.61,
-          "preco_min": 36.61,
-          "preco_max": 36.61,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 36.61,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE CAMBUCU",
-          "preco": 64.69,
-          "preco_min": 64.69,
-          "preco_max": 64.69,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 64.69,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE CONGRO ROSA",
-          "preco": 89.6,
-          "preco_min": 89.6,
-          "preco_max": 89.6,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 89.6,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE DOURADO",
-          "preco": 74.9,
-          "preco_min": 67.36,
-          "preco_max": 74.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 74.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE LINGUADO",
-          "preco": 69.9,
-          "preco_min": 48.5,
-          "preco_max": 69.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 69.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE MERLUZA",
-          "preco": 45.14,
-          "preco_min": 45.14,
-          "preco_max": 45.14,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 45.14,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE PANGA",
-          "preco": 24.73,
-          "preco_min": 24.73,
-          "preco_max": 24.73,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 24.73,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE PESCADA AMARELA",
-          "preco": 99.0,
-          "preco_min": 88.45,
-          "preco_max": 99.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 99.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE POLACA",
-          "preco": 36.5,
-          "preco_min": 36.5,
-          "preco_max": 36.5,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 36.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE SALMÃO COM PELE",
-          "preco": 79.9,
-          "preco_min": 78.9,
-          "preco_max": 79.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 79.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE SALMÃO COM PELE EM PEDAÇOS",
-          "preco": 112.1,
-          "preco_min": 79.9,
-          "preco_max": 112.1,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 112.1,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE SALMÃO SEM PELE",
-          "preco": 99.0,
-          "preco_min": 99.0,
-          "preco_max": 99.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 99.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE SALMÃO SEM PELE EM PEDAÇOS",
-          "preco": 65.9,
-          "preco_min": 65.9,
-          "preco_max": 65.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 65.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE TILÁPIA",
-          "preco": 45.9,
-          "preco_min": 45.9,
-          "preco_max": 49.57,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 45.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FILÉ DE TRAÍRA",
-          "preco": 40.36,
-          "preco_min": 40.36,
-          "preco_max": 40.36,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 40.36,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LAGOSTA INTEIRA",
-          "preco": 149.9,
-          "preco_min": 149.9,
-          "preco_max": 149.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 149.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LOMBO DE BACALHAU DESSALGADO",
-          "preco": 169.9,
-          "preco_min": 161.89,
-          "preco_max": 169.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 169.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "POLVO EVISCERADO PERUANO",
-          "preco": 122.5,
-          "preco_min": 122.5,
-          "preco_max": 161.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 122.5,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "POLVO INTEIRO",
-          "preco": 114.9,
-          "preco_min": 97.5,
-          "preco_max": 114.9,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 114.9,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TAINHA EVISCERADA",
-          "preco": 15.0,
-          "preco_min": 15.0,
-          "preco_max": 15.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "TRAÍRA EVISCERADA",
-          "preco": 21.49,
-          "preco_min": 21.49,
-          "preco_max": 21.49,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 21.49,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "AMENDOIM COM CASCA",
-          "preco": 10.0,
-          "preco_min": 9.0,
-          "preco_max": 11.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "AMENDOIM SEM CASCA",
-          "preco": 10.0,
-          "preco_min": 8.0,
-          "preco_max": 11.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 10.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "FEIJAO",
-          "preco": 6.0,
-          "preco_min": 4.0,
-          "preco_max": 6.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 6.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "LENTILHA",
-          "preco": 15.0,
-          "preco_min": 15.0,
-          "preco_max": 20.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 15.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MEL",
-          "preco": 25.0,
-          "preco_min": 25.0,
-          "preco_max": 30.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 25.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MILHO PIPOCA",
-          "preco": 5.2,
-          "preco_min": 5.2,
-          "preco_max": 10.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 5.2,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "MILHO RACAO",
-          "preco": 1.6,
-          "preco_min": 1.52,
-          "preco_max": 1.6,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 1.6,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "OVO BRANCO CX30DZ",
-          "preco": 210.0,
-          "preco_min": 200.0,
-          "preco_max": 210.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 210.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "OVO CAIPIRA CX30DZ",
-          "preco": 320.0,
-          "preco_min": 310.0,
-          "preco_max": 370.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 320.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "OVO CODORNA CXT",
-          "preco": 7.0,
-          "preco_min": 7.0,
-          "preco_max": 7.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 7.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        },
-        {
-          "produto": "OVO VERMELHO CX30DZ",
-          "preco": 230.0,
-          "preco_min": 230.0,
-          "preco_max": 235.0,
-          "categoria": "GERAL",
-          "unidade": "R$",
-          "preco_anterior": 230.0,
-          "variacao_pct": 0.0,
-          "aumentou": false,
-          "diminuiu": false
-        }
-      ],
+      "data": "10/11/2026",
+      "cotacoes": [],
+      "erro": "Não foi possível encontrar planilha de cotações",
       "fonte": "https://ceasa.rs.gov.br/cotacoes-de-precos",
-      "total_produtos": 253,
+      "total_produtos": 0,
       "total_aumentos": 0,
       "total_diminuicoes": 0,
       "aumentos": []
